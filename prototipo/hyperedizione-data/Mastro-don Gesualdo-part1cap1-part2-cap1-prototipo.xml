@@ -1,0 +1,1891 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mastro-don Gesualdo</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p> </p>
+            </sourceDesc>
+      </fileDesc>
+       </teiHeader>
+  <text> 
+      <body>
+         <div type="chapter" n="Parte I - Capitolo I" xml:id="MDG_part1_ch_1">
+            <p xml:id="MDG_p_1" n="1"> Suonava la messa dell’alba a <placeName ref="#ChiesaSanGiovanniBattista">San Giovanni</placeName>; ma il
+            <rs type="place" ref="#Vizzini">paesetto</rs> <distinct ana="DormireDellaGrossa">dormiva ancora della grossa</distinct>, perché era piovuto 
+            da tre giorni, e nei seminati ci si affondava ﬁno 
+            <distinct ana="AMezzaGamba">a mezza gamba</distinct>. Tutt’a un tratto, nel silenzio, s’udì
+            un rovinìo, la campanella squillante di <placeName ref="#ChiesaSantAgata">Sant’Agata</placeName>
+            che chiamava aiuto, usci e ﬁnestre che sbattevano,
+            la gente che scappava fuori in camicia, gridando:</p>
+            <p xml:id="MDG_p_2" n="2"><q>– Terremoto! <persName ref="#GregorioIMagno">San Gregorio Magno</persName>!</q></p>
+            <p xml:id="MDG_p_3" n="3"> Era ancora buio. Lontano, nell’ampia distesa nera
+            dell’<placeName ref="#Àlia">Àlia</placeName>, ammiccava soltanto un lume di carbonai, e
+            più a sinistra <seg type="explgen" ana="#seg_MDG_explgen_PianetaVenere">la stella del mattino</seg>, sopra un nuvolone 
+            basso che tagliava l’alba nel lungo altipiano del 
+            Paradiso. Per tutta la campagna diffondevasi un 
+            uggiolare lugubre di cani. E subito, dal quartiere basso,
+            giunse il suono grave del campanone di <placeName ref="#ChiesaSanGiovanniBattista">San Giovanni</placeName>
+           <pb n="2"/>
+            che dava l’allarme anch’esso; poi la campana 
+            fessa di <placeName ref="#ChiesaSanVito">San Vito</placeName>; 
+            l‘altra della <placeName ref="#ChiesaSanGregorioMagno">chiesa madre</placeName>, più lontano; 
+            quella di <placeName ref="#ChiesaSantAgata">Sant’Agata</placeName> che parve addirittura cascar 
+            sul capo agli abitanti della piazzetta. Una dopo 
+            l’altra s'erano svegliate pure le campanelle dei monasteri, 
+            il <placeName ref="#CollegioSantaMariaGreci">Collegio</placeName>, <placeName ref="#ChiesaSantaMariaGreci">Santa Maria</placeName>,
+            <placeName ref="#ChiesaSanSebastiano">San Sebastiano</placeName>, 
+            sui tetti spaventato, nelle tenebre.</p>
+            <p xml:id="MDG_p_4" n="4"><q>– No! no! È il fuoco!... Fuoco in <placeName ref="#PalazzoTrao">casa Trao</placeName>!... 
+            <persName ref="#GiovanniBattista">San Giovanni Battista!</persName></q></p> 
+            <p xml:id="MDG_p_5" n="5">Gli uomini accorrevano vociando, colle brache in 
+             mano. Le donne mettevano il lume alla ﬁnestra: tutto 
+             il paese, sulla collina, che formicolava di lumi, come
+             fosse il <seg type="explgen" ana="#seg_MDG_explgen_GiovedìSera">giovedì sera</seg>, quando suonano le due ore di 
+             notte: una cosa da far rizzare i capelli in testa, chi 
+             avesse visto da lontano.</p>
+            <p xml:id="MDG_p_6" n="6"><q>– <persName ref="#DiegoTrao">Don Diego</persName>! <persName ref="#FerdinandoTrao">Don Ferdinando</persName>! –</q> si udiva chiamare 
+             in fondo alla piazzetta; e uno che bussava al 
+             portone con un sasso.</p> 
+            <p xml:id="MDG_p_7" n="7">Dalla salita verso la <placeName ref="#PiazzaGrande">Piazza Grande</placeName>, e dagli altri 
+             vicoletti, arrivava sempre gente: un calpestìo continuo 
+             di scarponi grossi sull’acciottolato; di tanto in 
+             tanto un nome gridato da lontano; e insieme quel
+             bussare insistente al portone in fondo alla <placeName ref="#PiazzettaDiSantAgata">piazzetta 
+             di Sant’Agata</placeName>, e quella voce che chiamava:</p> 
+            <p xml:id="MDG_p_8" n="8"><q>— <persName ref="DiegoTrao">Don Diego</persName>! <persName ref="#FerdinandoTrao">Don Ferdinando</persName>! Che siete tutti 
+             morti?</q></p> 
+            <pb n="3"/>
+            <p xml:id="MDG_p_9" n="9">Dal <placeName ref="#PalazzoTrao">palazzo dei Trao</placeName>, al di sopra del cornicione <!--place o pers-->
+            sdentato, si vedevano salire infatti, nell’alba che cominciava 
+            a schiarire, globi di fumo denso, a ondate,
+            sparsi di faville. E pioveva dall’alto un riverbero 
+            rossastro, che accendeva le facce ansiose dei vicini
+            raccolti dinanzi al portone sconquassato, col naso in 
+            aria. Tutt’a un tratto si udì sbatacchiare una ﬁnestra, 
+            e una vocetta stridula che gridava di lassù:</p> 
+            <p xml:id="MDG_p_10" n="10"><q who="#FerdinandoTrao">— Aiuto!... ladri!... Cristiani, aiuto!</q></p> 
+            <p xml:id="MDG_p_11" n="11"><q>— ll fuoco! Avete il fuoco in casa! Aprite, <persName ref="#FerdinandoTrao">don 
+               Ferdinando</persName>! </q></p> 
+            <p xml:id="MDG_p_12" n="12"><q who="#FerdinandoTrao" toWhom="DiegoTrao">— <persName ref="#DiegoTrao">Diego</persName>! <persName ref="#DiegoTrao">Diego</persName>! </q></p>
+            <p xml:id="MDG_p_13" n="13">Dietro alla faccia stralunata di <persName ref="#FerdinandoTrao">don Ferdinando
+            Trao</persName> apparve allora alla finestra il berretto da notte 
+               sudicio e i capelli grigi svolazzanti di <persName ref="#DiegoTrao">don Diego</persName>. Si 
+            udì la voce rauca del <rs type="person" ref="#DiegoTrao">tisico</rs> che strillava anch’esso: </p>
+            <p xml:id="MDG_p_14" n="14"><q who="#DiegoTrao">— Aiuto!... Abbiamo i ladri in casa! Aiuto! </q></p> 
+            <p xml:id="MDG_p_15" n="15"><q>— Ma che ladri!... Cosa verrebbero a fare lassù? 
+                — </q> sghignazzò uno nella folla. </p>
+            <p xml:id="MDG_p_16" n="16"><q>— <persName ref="#BiancaTrao">Bianca</persName>! <persName ref="#BiancaTrao">Bianca</persName>! Aiuto! aiuto! </q></p>
+            <p xml:id="MDG_p_17" n="17"> Giunse in quel punto trafelato <persName ref="#NanniOrbo">Nanni l‘Orbo</persName>, giurando
+            d’averli visti lui i ladri, in <placeName ref="#PalazzoTrao">casa Trao</placeName>. </p>
+            <p xml:id="MDG_p_18" n="18"><q who="#NanniOrbo">— Con questi occhi!... <rs type="person" ref="#NinìRubiera">Uno</rs> che voleva scappare 
+               dalla finestra di <persName ref="#BiancaTrao">donna Bianca</persName>, e s’è cacciato dentro 
+            un’altra volta, al vedere accorrer gente!...</q></p> 
+            <p xml:id="MDG_p_19" n="19"><q who="#GesualdoMotta">— Brucia il <rs type="place" ref="#PalazzoTrao">palazzo</rs>, capite? Se ne va in ﬁamme 
+               tutto il quartiere! Ci ho accanto la mia casa, perdio! </q></p> 
+            <pb n="4"/>
+            <p xml:id="MDG_p_20" n="20">— Si mise a vociare <persName ref="#GesualdoMotta">mastro-don Gesualdo Motta</persName>. 
+            Gli altri intanto, spingendo, facendo leva al portone, 
+            riuscirono a penetrare nel cortile, ad uno ad uno, 
+            coll’erba sino <distinct ana="AMezzaGamba">a mezza gamba</distinct>, vociando, schiamazzando, 
+            armati di secchie, di brocche piene d’acqua; 
+            <persName ref="#Cosimo">compare Cosimo</persName> colla scure da far legna; <persName ref="#DonLuca">don Luca 
+            il sagrestano</persName> che voleva dar di mano alle campane 
+            un’altra volta, per chiamare all’armi; <persName ref="#Pelagatti">Pelagatti</persName> così 
+            com’era corso, al primo allarme, col <distinct ana="#Pistolone">pistolone</distinct> arrugginito 
+            ch’era andato a scavar di sotto allo strame.</p> 
+            <p xml:id="MDG_p_21" n="21">Dal cortile non si vedeva ancora il fuoco. Soltanto, 
+            di tratto in tratto, come spirava il maestrale, passavano 
+            al di sopra delle grandi ondate di fumo, che 
+            si sperdevano dietro il muro a secco del giardinetto, 
+            fra i rami dei mandorli in fiore. Sotto la tettoia cadente 
+            erano accatastate delle fascine; e in fondo, 
+            ritta contro la casa del vicino <persName ref="#GesualdoMotta">Motta</persName>, dell’altra legna 
+               grossa: assi d’impalcati, correntoni fradici, una <!-- distinct per correntoni o explgen?-->
+            trave di palmento che non si era mai potuta vendere.</p> 
+            <p xml:id="MDG_p_22" n="22"><q who="#GesualdoMotta">— Peggio dell’esca, vedete!</q> — sbraitava <persName ref="#GesualdoMotta">mastro-don 
+               Gesualdo</persName>. <q who="#GesualdoMotta">— Roba da fare andare in aria tutto 
+            il quartiere!... santo e santissimo!... E me la mettono 
+            poi contro il mio muro; perché loro non hanno nulla 
+            da perdere, santo e santissimo!...</q></p> 
+            <p xml:id="MDG_p_23" n="23">In cima alla scala, <persName ref="#FerdinandoTrao">don Ferdinando</persName>, infagottato in 
+            una vecchia palandrana, con un fazzolettaccio legato 
+            in testa, la barba lunga di otto giorni, gli occhi grigiastri
+            <pb n="5"/>
+            e stralunati, che sembravano quelli di un pazzo 
+            in quella faccia incartapecorita di asmatico, ripeteva 
+            come un’anatra:</p> 
+            <p xml:id="MDG_p_24" n="24"><q who="#FerdinandoTrao">—  Di qua! di qua!</q></p>
+            <p xml:id="MDG_p_25" n="25">Ma nessuno osava avventurarsi su per la scala che 
+            traballava. Una vera bicocca quella <rs type="place" ref="#PalazzoTrao">casa</rs>: i muri rotti, <!--rs-->
+            scalcinati, corrosi; dalle fenditure che scendevano dal 
+            cornicione sino a terra; le finestre sgangherate e senza 
+            vetri; lo stemma logoro, scantonato, appeso ad un 
+            uncino arrugginito, al di sopra della porta. <persName ref="#GesualdoMotta">Mastro- 
+            don Gesualdo</persName> voleva prima buttar fuori sulla piazza 
+            tutta quella legna accatastata nel cortile.</p> 
+            <p xml:id="MDG_p_26" n="26"><q who="#Pelagatti" toWhom="GesualdoMotta">— Ci vorrà un mese! —</q> rispose <persName ref="#Pelagatti">Pelagatti</persName> il quale 
+               stava a guardare sbadigliando, col <distinct ana="#Pistolone">pistolone</distinct> in mano.</p> 
+            <p xml:id="MDG_p_27" n="27"><q who="#GesualdoMotta">— Santo e santissimo! Contro il mio muro è accatastata!... 
+            Volete sentirla, sì o no?</q></p> 
+            <p xml:id="MDG_p_28" n="28"><persName ref="#Giacalone">Giacalone</persName> diceva piuttosto di abbattere la tettoia; 
+            <persName ref="#DonLuca">don Luca il sagrestano</persName> assicurò che pel momento 
+            non c’era pericolo: <distinct ana="#TorreDiBabele">una torre di Babele</distinct>!</p> <!-- rifletti su torre di babele-->
+            <p xml:id="MDG_p_29" n="29">Erano accorsi anche altri vicini.<persName ref="#SantoMotta">Santo Motta</persName> colle  
+            mani in tasca, il faccione gioviale e la barzelletta 
+            sempre pronta. <persName ref="#SperanzaMotta">Speranza</persName>, sua sorella, verde dalla bile, 
+            strizzando ii seno vizzo in bocca al lattante, sputando 
+            veleno contro i <persName ref="#FamigliaTrao">Trao</persName>: <q who="#SperanzaMotta" toWhom="#FamigliaTrao">— Signori miei... guardate <!--persGrp?-->
+            un po’!... Ci abbiamo i magazzini qui accanto!
+            —</q> E se la prendeva anche con suo marito <persName ref="#FortunatoBurgio">Burgio</persName>, 
+            ch'era lì in maniche di camicia: <q who="#SperanzaMotta" toWhom="#FortunatoBurgio">— Voi non dite
+            <pb n="6"/>
+            nulla! State lì <distinct ana="#ComeUnAllocco">come un allocco</distinct>! Cosa siete venuto a <!--espressione siciliana come un cucco vedi Luperini nota 59-->
+            fare dunque? </q></p>
+            <p xml:id="MDG_p_30" n="30"><persName ref="#GesualdoMotta">Mastro-don Gesualdo</persName> si slanciò il primo urlando su 
+            per la scala. Gli altri dietro come tanti leoni per gli 
+            stanzoni scuri e vuoti. A ogni passo un esercito di 
+            topi che spaventavano la gente. <q>—  Badate! badate! 
+            Ora sta per rovinare il solaio! — </q><persName ref="#NanniOrbo">Nanni l’Orbo</persName> che
+            ce l’aveva sempre con quello della finestra, vociando <!--mettere rs?-->
+            ogni volta: <q who="#NanniOrbo">— Eccolo! eccolo! —</q> E nella biblioteca, 
+            la quale cascava a pezzi, fu a un pelo d’ammazzare <rs type= "person" ref="#DonLuca">il 
+               sagrestano</rs> col <distinct ana="#Pistolone">pistolone</distinct> di <persName ref="#Pelagatti">Pelagatti</persName>. 
+               Si udiva sempre 
+            nel buio la voce chioccia di <persName ref="#FerdinandoTrao">don Ferdinando</persName> il  
+            quale chiamava: <q who="#FerdinandoTrao">— <persName ref="#BiancaTrao">Bianca</persName>! <persName ref="BiancaTrao">Bianca</persName>! —</q> 
+               E <persName ref="#DiegoTrao">don Diego</persName> 
+            che bussava e tempestava dietro un uscio, fermando 
+            pel vestito ognuno che passava, strillando anche lui: 
+            <q who="#DiegoTrao">— <persName ref="#BiancaTrao">Bianca</persName>! mia sorella!...</q></p>
+            <p xml:id="MDG_p_31" n="31"><q who="#GesualdoMotta" toWhom="#DiegoTrao">— Che scherzate? —</q> rispose <persName ref="#GesualdoMotta">mastro-don Gesualdo</persName> 
+            rosso come un pomodoro, liberandosi con una strappata. 
+            <q who="#GesualdoMotta" toWhom="DiegoTrao">— Ci ho la mia casa accanto, capite? Se ne va 
+            in ﬁamme tutto il quartiere!</q></p>
+            <p xml:id="MDG_p_32" n="32">Era un correre a precipizio nel <rs type="place" ref="#PalazzoTrao">palazzo</rs> smantellato; 
+            donne che portavano acqua; ragazzi che si rincorrevano 
+            schiamazzando in mezzo a quella confusione,
+            come fosse una festa; curiosi che <distinct ana="#Girandolare">girandolavano</distinct> <!--toscano-->
+            a bocca aperta, strappando i brandelli di stoffa che 
+            pendevano ancora dalle pareti, toccando gli intagli 
+            degli stipiti, vociando per udir l’eco degli stanzoni 
+            <pb n="7"/>
+            vuoti, levando il naso in aria ad osservare le dorature
+            degli stucchi, e i ritratti di famiglia: tutti quei 
+            <persName ref="#FamigliaTrao">Trao</persName> affumicati che sembravano sgranare gli occhi
+            al vedere tanta marmaglia in casa loro. Un va e 
+            vieni che faceva ballare il pavimento. </p>
+            <p xml:id="MDG_p_33" n="33"><q who="#SantoMotta">— Ecco! ecco! Or ora rovina il tetto! — </q> sghignazzava 
+            <persName ref="#SantoMotta">Santo Motta</persName>, sgambettando in mezzo all'acqua: 
+            delle pozze d’acqua ad ogni passo, fra i mattoni 
+            smossi o mancanti. <persName ref="#DiegoTrao">Don Diego</persName> e <persName ref="#FerdinandoTrao">don Ferdinando</persName>, 
+            spinti, sbalorditi, travolti in mezzo alla folla che rovistava 
+            in ogni cantuccio la miseria della loro casa, 
+            continuando a strillare: <q who="#DiegoTrao #FerdinandoTrao">— <persName ref="#BiancaTrao">Bianca</persName>!... Mia sorella!...</q></p> 
+            <p xml:id="MDG_p_34" n="34"><q who="#SantoMotta" toWhom="#FerdinandoTrao #DiegoTrao">— Avete il fuoco in casa, capite? —</q> gridò loro 
+            nell’orecchio <persName ref="#SantoMotta">Santo Motta</persName>. <q who="#SantoMotta">— Sarà una bella luminaria 
+            con tutta questa roba vecchia!</q></p>
+            <p xml:id="MDG_p_35" n="35"><q>— Per di qua, per di qua! —</q> si udì una voce dal 
+            vicoletto. <q>— Il fuoco è lassù, in cucina...</q>.</p>
+            <p xml:id="MDG_p_36" n="36"><persName ref="#NunzioMotta">Mastro Nunzio</persName>, 
+               il padre di <persName ref="#GesualdoMotta">Gesualdo</persName>, arrampicatosi 
+            su di una scala a piuoli, faceva dei gesti in aria, dal 
+            tetto della sua casa, lì dirimpetto. <persName ref="#Giacalone">Giacalone</persName> aveva 
+            attaccata una carrucola alla ringhiera del balcone per 
+            attinger acqua dalla cisterna dei <persName ref="#FamigliaMotta">Motta</persName>. <persName ref="Cosimo">Mastro 
+            Cosimo</persName>, il legnaiuolo, salito sulla gronda, dava furiosi 
+            colpi di scure sull’abbaino.</p> 
+            <p xml:id="MDG_p_37" n="37"><q>— No! no!</q> — gridarono di sotto. <q>— Se date aria 
+            al fuoco, in un momento se ne va tutto il <rs type="place" ref="#PalazzoTrao">palazzo</rs>!</q></p> 
+            <p xml:id="MDG_p_38" n="38"><persName ref="#DiegoTrao">Don Diego</persName> allora si picchiò un colpo in fronte, balbettando: 
+            <pb n="8"/>
+               <q who="#DiegoTrao">— <seg type="explgen" ana="#seg_MDG_explgen_CarteDiFamiglia">Le carte di famiglia</seg>! <seg type="explgen" ana="#seg_MDG_explgen_CarteDiFamiglia">Le carte della lite</seg>! — 
+               </q>E <persName ref="#FerdinandoTrao">don Ferdinando</persName> scappò via correndo, 
+               colle mani nei capelli, vociando anche lui.  </p>
+            <p xml:id="MDG_p_39" n="39">Dalle finestre, dal balcone, come spirava il vento, entravano a ondate vortici di fumo denso, 
+             che facevano tossire <persName ref="#DiegoTrao">don Diego</persName>, 
+               mentre continuava a chiamare dietro l’uscio: 
+               <q who="#DiegoTrao" toWhom="#BiancaTrao">— <persName ref="#BiancaTrao">Bianca</persName>! <persName ref="#BiancaTrao">Bianca</persName>! il fuoco!... </q></p>
+            <p xml:id="MDG_p_40" n="40"><persName ref="#GesualdoMotta">Mastro-don Gesualdo</persName> il quale si era slanciato furibondo su per la scaletta della cucina, 
+            tornò indietro accecato dal fumo, pallido come un morto, cogli occhi fuori dell’orbita, mezzo soffocato:</p> 
+            <p xml:id="MDG_p_41" n="41"><q who="#GesualdoMotta">— Santo e santissimo!... Non si può da questa parte!... Sono rovinato!</q> </p>
+            <p xml:id="MDG_p_42" n="42">Gli altri vociavano tutti in una volta, ciascuno dicendo la sua; una baraonda da sbalordire: <q>— Buttate giù le tegole!</q> —<q> Appoggiate la scala al fumaiuolo! — </q>
+              <persName ref="#NunzioMotta">Mastro Nunzio</persName>, in piedi sul tetto della sua casa, 
+             si dimenava al pari di un ossesso. 
+             <persName ref="#DonLuca">Don Luca</persName>, il sagrestano, era corso davvero ad attaccarsi alle campane. La gente in piazza, fitta come le mosche. 
+             Dal corridoio riuscì a farsi udire <persName ref="SperanzaMotta">comare Speranza</persName>, che era rauca dal gridare, strappando i vestiti di dosso alla gente per farsi largo, 
+             colle unghie sfoderate come una gatta e la schiuma alla bocca: 
+             <q who="#SperanzaMotta">— Dalla scala ch’è laggiù, in fondo al corridoio! — </q>
+             Tutti corsero da quella parte, lasciando <persName ref="#DiegoTrao">don Diego</persName> che seguitava 
+               a chiamare dietro l’uscio della sorella: <q who="#DiegoTrao">— <persName ref="#BiancaTrao">Bianca</persName>! <persName ref="BiancaTrao">Bianca</persName>!... —</q>
+            <pb n="9"/>
+               Udivasi un tramestìo dietro quell’uscio; 
+               un correre all’impazzata, quasi di gente che ha persa la testa. 
+              Poi il rumore di una seggiola rovesciata. <persName ref="#NanniOrbo">Nanni l’Orbo</persName> tornò a gridare in fondo al corridoio: <q who="#NanniOrbo">— Eccolo! eccolo! —</q> 
+               E si udì lo scoppio del <distinct ana="#Pistolone">pistolone</distinct> di <persName ref="#Pelagatti">Pelagatti</persName>, come una cannonata.</p>
+            <p xml:id="MDG_p_43" n="43"><q who="#SantoMotta"> — La <orgName ref="#Giustizia">Giustizia</orgName>! Ecco qua gli sbirri! — </q>vociò dal cortile <persName ref="#SantoMotta">Santo Motta</persName>. </p>
+            <p xml:id="MDG_p_44" n="44">Allora si aprì l’uscio all’improvviso, e apparve <persName ref="#BiancaTrao">donna Bianca</persName>, discinta, pallida come una morta, 
+                  annaspando colle mani convulse, senza profferire parola, fissando sul fratello gli occhi pazzi di terrore e d’angoscia. 
+                  Ad un tratto si piegò sulle ginocchia, aggrappandosi allo stipite, balbettando:</p>
+            <p xml:id="MDG_p_45" n="45"> <q who="#BiancaTrao" toWhom="DiegoTrao"> — Ammazzatemi, <persName ref="#DiegoTrao">don Diego</persName>!... Ammazzatemi pure!... ma non lasciate entrare nessuno qui!...</q></p>
+            <p xml:id="MDG_p_46" n="46">Quello che accadde poi, dietro quell’uscio che <persName ref="#DiegoTrao">don Diego</persName> aveva chiuso di nuovo spingendo nella cameretta la sorella, nessuno lo seppe mai. 
+                  Si udì soltanto la voce di lui, una voce d’angoscia disperata, che balbettava:<q who="#DiegoTrao" toWhom="#NinìRubiera"> — Voi?... Voi qui?... </q></p>
+            <p xml:id="MDG_p_47" n="47"> Accorrevano il signor <persName ref="#Capitano">Capitano</persName>, l’<persName ref="#AvvocatoFiscale">Avvocato fiscale</persName>, tutta la <orgName ref="#Giustizia">Giustizia</orgName>. 
+                 <persName ref="#LiccioPapa">Don Liccio Papa</persName>, il caposbirro, 
+                 gridando da lontano, brandendo la sciaboletta sguainata: <q who="#LiccioPapa">— Aspetta! aspetta! Ferma! ferma! —</q> E il <persName ref="#Capitano">signor Capitano</persName> dietro di lui, 
+                 trafelato come <persName ref="#LiccioPapa">don Liccio</persName>, cacciando avanti il bastone:
+                 <q who="#Capitano">— Largo! largo! 
+            <pb n="10"/>
+                    Date passo alla <orgName ref="#Giustizia">Giustizia</orgName>! —</q> 
+                 L’<persName ref="#AvvocatoFiscale">Avvocato fiscale</persName> ordinò di buttare a terra l’uscio. 
+                 <q who="#AvvocatoFiscale" toWhom="#DiegoTrao #BiancaTrao">— <persName ref="#DiegoTrao">Don Diego</persName>! <persName ref="#BiancaTrao">Donna Bianca</persName>! Aprite! Cosa vi è successo?</q></p>  
+            <p xml:id="MDG_p_48" n="48">S’affacciò <persName ref="#DiegoTrao">don Diego</persName>, invecchiato di dieci anni in un minuto, allibito, stralunalo, 
+                    con una visione spaventosa in fondo alle pupille grige, con un sudore freddo sulla fronte, la voce strozzata da un dolore immenso:</p>
+            <p xml:id="MDG_p_49" n="49"><q who="#DiegoTrao" toWhom="#AvvocatoFiscale #Capitano #LiccioPapa">— Nulla!... Mia sorella!... Lo spavento!... Non entrate nessuno!...</q></p>
+            <p xml:id="MDG_p_50" n="50"><persName ref="#Pelagatti">Pelagatti</persName> inferocito contro <persName ref="#NanniOrbo">Nanni l’Orbo</persName>: 
+                       <q>— Bel lavoro mi faceva fare!... Un altro po’ ammazzavo <persName ref="#SantoMotta">compare Santo</persName>!... —</q> 
+                       <!-- qui non è chiaro nemmeno chi stia parlando, se Pelagatti o l'Orbo, perché il pistolone è in mano a Nanni ed è lui che spara-->
+                    Il <persName ref="#Capitano">Capitano</persName> gli fece lui pure una bella lavata di capo: <q who="#Capitano" toWhom="#NanniOrbo">— Con le armi da fuoco!... Che scherzate?... Siete una bestia!</q> 
+                   <q who="#NanniOrbo" toWhom="#Capitano">— <persName ref="#Capitano">Signor Capitano</persName>, credevo che fosse <rs type="person" ref="#NinìRubiera">il ladro</rs>, laggiù al buio... L’ho visto con questi occhi!</q>
+               <q who="#AvvocatoFiscale" toWhom="#NanniOrbo">— Zitto! zitto, ubbriacone! </q>— gli diede sulla voce l’<persName ref="AvvocatoFiscale">Avvocato fiscale</persName>. 
+                    <q who="#AvvocatoFiscale">— Piuttosto andiamo a vedere il fuoco.</q></p> 
+            <p xml:id="MDG_p_51" n="51">Adesso dal corridoio, dalla scala dell’orto, tutti portavano acqua. 
+                       <persName ref="#Cosimo">Compare Cosimo</persName> era salito sul tetto, e dava con la scure sui travicelli. 
+                       Da ogni parte facevano piovere sul soffitto che fumava, tegole, sassi, cocci di stoviglie. 
+                       <persName ref="#FortunatoBurgio">Burgio</persName>, sulla scala a piuoli, 
+                       sparandovi schioppettate sopra, 
+                       e dall’altro lato <persName ref="#Pelagatti">Pelagatti</persName>, appostato accanto al fumaiuolo, caricava e scaricava il <distinct ana="#Pistolone">pistolone</distinct> senza misericordia. 
+                       <persName ref="#DonLuca">Don Luca</persName> che
+                 <pb n="11"/>        
+            suonava a tutto andare le campane; la folla dalla piazza vociando e gesticolando; tutti i vicini alla finestra. 
+            I <persName ref="#FamigliaMargarone">Margarone</persName> stavano a vedere dalla terrazza al di sopra dei tetti, dirimpetto, le figliuole ancora coi riccioli incartati, 
+            <persName ref="#FilippoMargarone">don Filippo</persName> che dava consigli da lontano, 
+                       dirigendo le operazioni di quelli che lavoravano a spegnere l'incendio colla <distinct ana="#CannaDIndia">canna d’India</distinct>.</p>
+            <p xml:id="MDG_p_52" n="52"><persName ref="#FerdinandoTrao">Don Ferdinando</persName> il quale tornava in quel momento carico di <rs type="documents" ref="#CarteDiFamiglia">scartafacci</rs>, <!--rs?-->
+               battè il naso nel corridoio buio contro <persName ref="#Giacalone">Giacalone</persName> che andava correndo.</p>
+            <p xml:id="MDG_p_53" n="53"><q who="#Giacalone" toWhom="FerdinandoTrao">— Scusate, <persName ref="#FerdinandoTrao">don Ferdinando</persName>. Vado a chiamare il medico per la sorella di vossignoria.</q></p>
+            <p xml:id="MDG_p_54" n="54"><q who="#AgrippinaMacrì" toWhom="#Giacalone">— Il <persName ref="#Tavuso">dottor Tavuso</persName>! —</q> gli gridò dietro la <persName ref="#AgrippinaMacrì">zia Macrì</persName>, una parente povera come loro, ch’era accorsa per la prima. 
+               <q who="#AgrippinaMacrì" toWhom="#Giacalone">— Qui vicino, alla <placeName ref="#FarmaciaDiBomma">farmacia di Bomma</placeName>.</q></p>
+            <p xml:id="MDG_p_55" n="55"><persName ref="#BiancaTrao">Bianca </persName>era stata presa dalle convulsioni: un attacco terribile; non bastavano in quattro a trattenerla sul lettuccio. 
+               <persName ref="#DiegoTrao">Don Diego</persName> sconvolto anche lui, pallido come un cadavere, colle mani scarne e tremanti, cercava di ricacciare indietro tutta quella gente. 
+               <q who="#DiegoTrao"> No!... non è nulla!... Lasciatela sola!... —</q>— Il <persName ref="#Capitano">Capitano</persName> si mise infine a far piovere legnate a diritta e a manca, 
+               come veniva, sui vicini che s’affollavano all’uscio curiosi. 
+               <q who="#Capitano">— Che guardate? Che volete? Via di qua! fannulloni! vagabondi!</q><q who="#Capitano" toWhom="#LiccioPapa"> Voi, <persName ref="#LiccioPapa">don Liccio Papa</persName>, mettetevi a guardia del portone.</q></p>
+            <p xml:id="MDG_p_56" n="56">Venne più tardi un momento il <persName ref="#BaroneMèndola">barone Mèndola</persName>
+               <pb n="12"/>
+            per convenienza, e <persName ref="#SarinaCirmena">donna Sarina Cirmena</persName> che ficcava il naso da per tutto; 
+            il <persName ref="#CanonicoLupi">canonico Lupi</persName> da parte della <persName ref="#BaronessaRubiera">baronessa Rubiera</persName>. 
+            La <persName ref="#MariannaSganci">zia Sganci</persName> e gli altri parenti mandarono il servitore a prender notizie della nipote. 
+            <persName ref="#DiegoTrao">Don Diego</persName>, reggendosi appena sulle gambe, sporgeva il capo dall’uscio, e rispondeva a ciascheduno:</p>
+            <p xml:id="MDG_p_57" n="57"><q who="#DiegoTrao">— Sta un po’ meglio... È più calma!... Vuol esser lasciata sola...</q></p>
+            <p xml:id="MDG_p_58" n="58"><q who="#CanonicoLupi">— Eh! eh! — </q>mormorò <rs type="person" ref="#CanonicoLupi">il canonico</rs> scuotendo il capo e guardando in giro le pareti squallide della sala: 
+               <q who="#CanonicoLupi">— Mi rammento qui!... Dove è andata la ricchezza di <placeName ref="#PalazzoTrao">casa Trao?</placeName>...</q></p> <!--mettere rs?-->
+            <p xml:id="MDG_p_59" n="59">Il <rs type="person" ref="#BaroneMèndola">barone</rs> scosse il capo anche lui, lisciandosi il mento ispido di barba dura colla mano pelosa. 
+               La <persName ref="#SarinaCirmena">zia Cirmena </persName>scappò a dire:</p>
+            <p xml:id="MDG_p_60" n="60"><q who="#SarinaCirmena">— Sono pazzi! Pazzi da legare tutti e due! <persName ref="#FerdinandoTrao">Don Ferdinando</persName> già è stato sempre uno stupido... 
+               e <persName ref="DiegoTrao">don Diego</persName>... vi rammentate?</q> 
+            Quando la <persName ref="#MariannaSganci">cugina Sganci</persName> gli aveva procurato quell’impiego nei mulini?... Nossignore!... <persName ref="MembroTrao">un Trao</persName> non poteva vivere di salario!... Di <distinct ana="#Limosina">limosina</distinct> sì, possono vivere!...</p>
+            <p xml:id="MDG_p_61" n="61"><q who="#CanonicoLupi">— Oh! oh! —</q> interruppe il <rs type="person" ref="#CanonicoLupi">canonico</rs>, colla malizia che gli rideva negli occhietti di topo, ma stringendo le labbra sottili.</p>
+            <p xml:id="MDG_p_62" n="62"><q who="#SarinaCirmena">— Sissignore!... Come volete chiamarla? Tutti i parenti si danno la voce per quello che devono mandare
+               <pb n="13"/>
+               a Pasqua e a Natale... Vino, olio, formaggio... anche del grano... 
+               <rs type="person" ref="#BiancaTrao">La ragazza</rs> già è tutta vestita dei regali della <persName ref="#BaronessaRubiera">zia Rubiera</persName>.</q> </p>
+            <p xml:id="MDG_p_63" n="63"><q who="#CanonicoLupi">— Eh! eh!... —</q> Il <rs type="person" ref="#CanonicoLupi">canonico</rs>, con un sorrisetto incredulo, 
+            andava stuzzicando ora <persName ref="#SarinaCirmena">donna Sarina</persName> ed ora il <rs type="person" ref="#BaroneMèndola">barone</rs>, il quale chinava il capo, 
+            seguitava a grattarsi il mento discretamente, fingeva di guardare anch’esso di qua e di là, come a dire: <q who="#BaroneMèndola">— Eh ! eh ! pare anche a me!...</q></p>
+            <p xml:id="MDG_p_64" n="64"> Giunse in quel mentre il <persName ref="#Tavuso">dottor Tavuso</persName> in fretta, col cappello in capo, senza salutar nessuno, ed entrò nella camera dell’<rs type="person" ref="#BiancaTrao"> inferma</rs>.</p>
+            <p xml:id="MDG_p_65" n="65">Poco dopo tornò ad uscire, stringendosi nelle spalle, gonfiando le gote, 
+            accompagnato da <persName ref="#FerdinandoTrao">don Ferdinando</persName>; allampanato che pareva un <distinct ana="#Cucco">cucco</distinct>.
+            La <persName ref="AgrippinaMacrì">zia Macrì</persName> e il <persName ref="#CanonicoLupi">canonico Lupi</persName> corsero dietro al <rs type="person" ref="#Tavuso">medico</rs>. La <persName ref="#SarinaCirmena">zia Cirmena</persName> 
+                che voleva sapere ogni cosa e vi piantava in faccia quei suoi occhialoni rotondi peggio dell’<persName ref="#AvvocatoFiscale">Avvocato fiscale</persName>.</p>
+            <p xml:id="MDG_p_66" n="66"><q who="#Tavuso">— Eh? Cos’è stato?... Lo sapete voi? Adesso si chiamano nervi... malattia di moda... Vi mandano a chiamare per un nulla... quasi potessero pagare le visite del medico! —</q> rispose <persName ref="#Tavuso">Tavuso</persName> burbero. 
+                  Quindi, piantando anche lui gli occhiali in faccia a <persName ref="#SarinaCirmena">donna Sarina</persName>:</p>
+            <p xml:id="MDG_p_67" n="67"><q who="#Tavuso" toWhom="#SarinaCirmena">— Volete che ve la dica? Le ragazze a certa età bisogna maritarle!</q></p>      
+            <pb n="14"/>
+            <p xml:id="MDG_p_68" n="68">E voltò le spalle soffiando gravemente, tossendo, spurgandosi. 
+            I parenti si guardarono in faccia. <rs type="person" ref="#CanonicoLupi">Il canonico</rs>, per discrezione, prese a tenere a bada il <persName ref="#BaroneMèndola">barone Mèndola</persName>, 
+            dandogli chiacchiera e tabacco, sputacchiando di qua e di là, 
+                 onde cercare di sbirciar quello che succedeva dietro l’uscio socchiuso di <persName ref="#BiancaTrao">donna Bianca</persName>, 
+            stringendo le labbra riarse come inghiottisse ogni momento:
+            <q who="#CanonicoLupi">— Si capisce!... La paura avuta!... Le avevano fatto credere d’avere i ladri in casa!... povera <persName ref="#BiancaTrao">donna Bianca</persName>!... È così giovine!... così delicata!...</q></p>
+            <p xml:id="MDG_p_69" n="69"> <q who="#SarinaCirmena" toWhom="#AgrippinaMacrì">— Sentite, cugina! —</q> disse <persName ref="#SarinaCirmena">donna Sarina</persName> tirando in disparte <persName ref="#AgrippinaMacrì">la Macrì</persName>. 
+                <persName ref="#FerdiandoTrao">Don Ferdinando</persName> sciocco, voleva accostarsi per udire lui pure: <q who="#AgrippinaMacrì" toWhom="#FerdinandoTrao">— Un momento! Che maniera! —</q> lo sgridò la <persName ref="#SarinaCirmena">zia Cirmena</persName>.
+                <q who="#SarinaCirmena" toWhom="#FerdinandoTrao">— Ho da dire una parola a vostra zia!... Piuttosto andate a pigliare un bicchiere d’acqua per <persName ref="BiancaTrao">Bianca</persName>, che le farà bene...</q></p>
+            <p xml:id="MDG_p_70" n="70">Tornò a scendere <persName ref="#SantoMotta">Santo Motta</persName> di lassù, fregandosi le mani, coll’aria sorridente:
+            <q who="#SantoMotta">— È tutta rovinata la cucina! Non c’è più dove cuocere un uovo!... Bisognerà fabbricarla di nuovo! — </q>
+            Come nessuno gli dava retta, fissava in volto or questo ed ora quello col suo sorriso sciocco.</p>
+            <p xml:id="MDG_p_71" n="71"> Il <persName ref="#CanonicoLupi">canonico Lupi</persName>, per levarselo dai piedi, gli disse infine:</p>
+            <p xml:id="MDG_p_72" n="72"> <q who="#CanonicoLupi" toWhom="#SantoMotta">— Va bene, va bene. Poi ci si penserà...</q></p>
+            <p xml:id="MDG_p_73" n="73">Il <persName ref="#BaroneMèndola">barone Mèndola</persName>, appena <persName ref="#SantoMotta">Santo Motta</persName> volse le spalle, si sfogò infine:</p>
+            <pb n="15"/>
+            <p xml:id="MDG_p_74" n="74"> <q who="#BaroneMèndola"> — Ci si penserà?... Se ci saranno i denari per pensarci! 
+            Io gliel’ho sempre detto... Vendete metà di casa, cugini cari... anche una o due camere... 
+            tanto da tirare innanzi!... Ma nossignore!... Vendere la casa dei <persName ref="#FamigliaTrao">Trao</persName>?... 
+            Piuttosto, ogni stanza che rovina chiudono l’uscio e si riducono in quelle che restano in piedi... 
+            Così faranno per la cucina... Faranno cuocere le uova qui in sala, quando le avranno... Vendere una o due camere?... 
+            Nossignore... non si può, anche volendo... La camera dell’archivio? e ci son le carte di famiglia!... 
+            Quella della processione? e non ci sarà poi dove affacciarsi quando passa il <seg type="explgen" ana="#seg_MDG_explgen_CorpusDomini"><hi rend="italic">Corpus Domini!</hi></seg>... Quella del cucù?... Ci hanno anche la camera pel cucù, capite!</q></p>
+            <p xml:id="MDG_p_75" n="75">E il <rs type="person" ref="#BaroneMèndola">barone</rs>, con quella sfuriata, li piantò tutti lì, che si sganasciavano dalle risa.</p>
+            <p xml:id="MDG_p_76" n="76"><persName ref="#SarinaCirmena">Donna Sarina</persName>, prima d’andarsene, picchiò di nuovo all’uscio della nipote, per sapere come stava. 
+            Fece capolino <persName ref="#DiegoTrao">don Diego</persName>, sempre con quella faccia di cartapesta, e ripeté:</p>
+            <p xml:id="MDG_p_77" n="77"><q who="#DiegoTrao" toWhom="SarinaCirmena">— Meglio... È più calma!... Vuol esser lasciata sola...</q></p>
+            <p xml:id="MDG_p_78" n="78"><q who="#AgrippinaMacrì">— Povero <persName ref="#DiegoTrao">Diego</persName>! —</q> sospirò la <persName ref="#AgrippinaMacrì">zia Macrì</persName>. — 
+               La <persName ref="#SarinaCirmena">Cirmena</persName> fece ancora alcuni passi nell’anticamera, 
+               perché non udisse <persName ref="#FerdinandoTrao">don Ferdinando</persName> il quale veniva a chiuder l’uscio, e soggiunse sottovoce:</p>
+            <p xml:id="MDG_p_79" n="79"><q who="#SarinaCirmena">— Lo sapevo da un pezzo…. Vi rammentate la
+            <pb n="16"/>
+            sera dell’<eventName ref="#Immacolata">Immacolata</eventName>, che cadde tanta neve?... Vidi passare il <persName ref="#NinìRubiera">baronello Rubiera</persName> dal vicoletto qui a due passi... intabarrato come un ladro...</q></p>
+            <p xml:id="MDG_p_80" n="80">Il <persName ref="#CanonicoLupi">canonico Lupi</persName> attraversò il cortile, rialzando la sottana sugli stivaloni grossi in mezzo alle erbacce, 
+               si voltò indietro verso la casa smantellata, per veder se potessero udirlo, e poi, dinanzi al portone, guardando inquieto di qua e di là, conchiuse:</p>
+            <p xml:id="MDG_p_81" n="81"><q who="#CanonicoLupi" toWhom="#SarinaCirmena #AgrippinaMacrì">— Avete udito <persName ref="#Tavuso">il dottore Tavuso</persName>? Possiamo parlare perché siamo tutti amici intimi e parenti... A certa età le ragazze bisogna maritarle!</q></p>
+            </div>
+         
+         <div type="chapter" n="Parte II - Capitolo I" xml:id="N_MDG_part_2_ch_1"> 
+        <p><q>— Tre <distinct ana="#Onza">onze</distinct> e quindici!... Uno!... due!...</q></p>
+            <p><q who="#GesualdoMotta">— Quattr'<distinct ana="#Onza">onze</distinct>!—</q> replicò <persName ref="#GesualdoMotta">don Gesualdo</persName> impassibile.</p>
+            <p>Il <persName ref="#BaroneZacco" type= "fictional">barone Zacco</persName> si alzò,
+               rosso come se gli pigliasse un accidente. Annaspò 
+            alquanto per cercare il cappello, e fece per andarsene. Ma giunto sulla soglia 
+            tornò indietro a precipizio, colla schiuma alla bocca, quasi fuori di sé, gridando:</p>
+         <p><q who="#BaroneZacco">— Quattro e quindici!...</q></p>
+         <p>E si fermò ansante dinanzi alla scrivania dei giurati, fulminando il suo 
+            contradittore cogli occhi accesi. <persName ref="#FilippoMargarone">Don Filippo Margarone</persName>,
+            <persName ref="#Peperito">Peperito</persName> e gli altri del 
+            <orgName ref="Municipio">Municipio</orgName> che presiedevano all'asta delle terre comunali, si parlarono 
+            all'orecchio fra di loro. <persName ref="#GesualdoMotta">Don Gesualdo</persName> tirò su una presa, seguitando a fare 
+            tranquillamente i suoi conti nel taccuino che teneva aperto</p>
+         
+            <pb n="192"></pb>
+            
+         <p> sulle ginocchia. Indi alzò il capo, e ribattè con voce calma:</p>
+            <p><q who="#GesualdoMotta">— Cinque <distinct ana="#Onza">onze</distinct>!</q></p>
+            <p> Il <rs type="person" ref="#BaroneZacco">barone</rs> diventò a un tratto 
+               come un <distinct ana="CencioLavato">cencio lavato</distinct>  <ptr type="general" target="#N_MdG_general_cencio"></ptr>.
+               Si soffiò il naso; calcò il cappello in testa, e poi infilò l'uscio, sbraitando:</p>
+         <p><q who="#BaroneZacco">— Ah!... quand'è così!... giacch'è un puntiglio!... una personalità!... Buon giorno a chi resta!</q></p>
+            <p>I giurati si agitavano sulle loro sedie quasi<seg type="explgen" ana="#seg_MDG_explgen_colica">avessero la colica </seg> <ptr type="general" target="#N_MDG_comm_colica"></ptr>. 
+            Il <persName ref="#CanonicoLupi"> canonico Lupi</persName> si alzò di botto, e corse a dire una parola all'orecchio
+            di <persName ref="#GesualdoMotta">don Gesualdo</persName>, passandogli un braccio al collo. </p>
+            <p><q who="#GesualdoMotta" toWhom="#CanonicoLupi">— Nossignore,—</q> rispose ad alta voce costui.
+               <q who="#GesualdoMotta" toWhom="#CanonicoLupi">— Non ho di queste sciocchezze... Fo i miei interessi, e nulla più.</q></p>
+         <p> Nel pubblico che assisteva all'asta corse un mormorio. Tutti gli altri 
+            concorrenti si erano tirati indietro, sgomenti, cacciando fuori tanto di lingua. 
+            Allora si alzò in piedi il <persName ref="#NinìRubiera">baronello Rubiera</persName>, pettoruto, lisciandosi la barba 
+            scarsa, senza badare ai segni che gli faceva da lontano <persName ref="#FilippoMargarone"> don Filippo</persName>, 
+            e lasciò cadere la sua offerta, coll'aria addormentata di uno che non gliene importa nulla del denaro:</p>
+            <p> <q who="#NinìRubiera">— Cinque <distinct ana="#Onza">onze</distinct> e sei!... Dico io!...</q></p>
+         <p><q who="#NotaroNeri"> — Per l'amor di Dio, —</q> gli soffiò nelle orecchie il <persName ref="#NotaroNeri">notaro Neri</persName> tirandolo per la falda. 
+            <q who="#NotaroNeri">—<rs type="person" ref="#NinìRubiera" > Signor barone </rs>, non facciamo pazzie!...</q></p>
+            
+            <pb n="193"></pb>
+               
+            <p><q who="#NinìRubiera"> — Cinque <distinct ana="#Onza">onze</distinct> e sei! — </q> replicò <rs type="person" ref="#NinìRubiera" >il baronello</rs> senza dar retta, guardando in giro trionfante. </p>
+          <p><q>— Cinque e quindici.</q></p>
+          <p><persName ref="#NinìRubiera">Don Ninì</persName> si fece rosso, e aprì la bocca per replicare; ma il <rs type="person" ref="#NotaroNeri"> notaro</rs>
+                  gliela chiuse con la mano. <persName ref="#FilippoMargarone">Margarone</persName> stimò giunto il momento di assumere l'aria presidenziale. </p>
+          <p><q>— <persName ref="#GesualdoMotta">Don Gesualdo</persName>!... Qui non stiamo per scherzare!... Avrete danari... non dico di no...
+                  ma è una bella somma... per uno che sino a ieri l'altro portava i sassi sulle spalle... sia detto senza offendervi... 
+                  Onestamente... <seg type="phrase" subtype="proverb" ana="#seg_MDG_proverb_guardaquelchesono">"Guardami quel che sono, e non quello che fui"</seg> dice il proverbio... 
+                  Ma il comune vuole la sua garanzia. Pensateci bene!... Sono circa cinquecento <distinct ana="#Salma">salme</distinct>...
+                  Fanno... fanno...—</q> E si mise gli occhiali, scrivendo cifre sopra cifre.</p>
+            <p><q who="#GesualdoMotta">— So quello che fanno, —</q> rispose ridendo <persName ref="#GesualdoMotta" >mastro-don Gesualdo</persName>.
+               <q who="GesualdoMotta">— Ci ho pensato portando i sassi sulle spalle... Ah! 
+                  <persName ref="#FilippoMargarone" >signor don Filippo,</persName> non sapete 
+               che soddisfazione, essere arrivato sin qui, faccia a faccia con vossignoria
+               e con tutti questi altri padroni miei, a dire ciascuno le sue ragioni, e fare il suo interesse!</q></p>
+            <p><persName ref="#FilippoMargarone">Don Filippo</persName> posò gli occhiali sullo scartafaccio; volse un'occhiata stupefatta
+                  ai suoi colleghi a destra e a sinistra, e tacque rimminchionito. Nella folla 
+                  che pigiavasi all'uscio nacque un tafferuglio. <persName ref="#NunzioMotta" >Mastro Nunzio Motta</persName> voleva entrare
+                  a ogni costo, e andare a 
+            
+               <pb n="194"></pb>
+            
+            mettere le mani addosso al suo figliuolo che buttava così i denari. 
+              <persName ref="#FortunatoBurgio" >Burgio </persName> stentava a frenarlo.
+               <persName ref="#FilippoMargarone" >Margarone</persName> suonò il campanello per intimar silenzio.</p>
+            <p><q who= "#FilippoMargarone">— Va bene!... va benissimo!... Ma intanto la legge dice... </q></p>
+            <p>Come seguitava a tartagliare, quella faccia gialla di <persName ref="#Canali" >Canali</persName> gli suggerì la 
+               risposta, fingendo di soffiarsi il naso. </p>
+            <p><q who= "#FilippoMargarone">— Sicuro!... Chi garantisce per voi?... La legge dice...</q></p>
+            <p><q who="#GesualdoMotta">— Mi garantisco da me,—</q> 
+               rispose <persName ref="#GesualdoMotta" > don Gesualdo </persName> posando sulla scrivania 
+               un sacco di <distinct ana="#Doppia">doppie</distinct> che cavò fuori dalla <distinct ana="#Cacciatora">cacciatora</distinct>. </p>
+            <p> A quel suono tutti spalancarono gli occhi. <persName ref="#FilippoMargarone" >Don Filippo</persName> ammutolì.</p>
+            <p><q who="#BaroneZacco">— Signori miei!... —</q> strillò il <persName ref="#BaroneZacco" > barone Zacco</persName> rientrando infuriato. 
+               <q who="#BaroneZacco">—Signori miei!... guardate un po'!... a che siam giunti!... </q></p>
+            <p><q who="#GesualdoMotta"> — Cinque e quindici! —</q> replicò <persName ref="#GesualdoMotta" >don Gesualdo</persName> tirando un'altra presa. 
+               <q who="#GesualdoMotta"> Offro cinque <distinct ana="#Onza">onze</distinct> e quindici <distinct ana="#Tarì">tarì</distinct> a <distinct ana="#Salma">salma</distinct> per la <distinct ana="#Gabella">gabella</distinct> delle terre comunali. 
+               Continuate l'asta, <persName ref="#FilippoMargarone" >signor don Filippo</persName>.</q></p>
+            <p>Il <persName ref="#NinìRubiera" > baronello Rubiera </persName> scattò su come una molla, con tutto il sangue al viso. 
+               Non l'avrebbero tenuto neppure le catene. </p>
+            <p><q who="#NinìRubiera">— A sei <distinct ana="#Onza">onze</distinct>! —</q> balbettò fuori di sé. <q who="#NinìRubiera">— Fo l'offerta di sei <distinct ana="#Onza">onze</distinct> a salma.</q></p>
+            
+            <pb n="195"></pb>
+            
+            <p><q who="#FilippoMargarone">— Portatelo fuori! Portatelo via! — </q> strillò 
+               <persName ref="#FilippoMargarone" >don Filippo</persName> alzandosi a metà.
+               Alcuni battevano le mani. Ma <persName ref="#NinìRubiera" >don Ninì</persName> ostinavasi, pallido come la sua camicia adesso.</p>
+            <p><q who="#NinìRubiera">— Sissignore! a sei onze la <distinct ana="#Salma">salma</distinct>! Scrivete la mia offerta, segretario!</q></p>
+            <p><q who="#NotaroNeri">— Alto!—</q>  gridò <rs ref="#NotaroNeri" type="person">il notaro</rs> 
+               levando tutte e due le mani in aria.<q who="#NotaroNeri">— Per la legalità dell'offerta!... fo le mie riserve!...</q></p>
+            <p>E si precipitò sul <rs type="person" ref="#NinìRubiera" >baronello</rs>, come s'accapigliassero. Lì, nel vano del balcone, 
+               faccia a faccia, cogli occhi fuori dell'orbita, soffiandogli in viso l'alito infuocato:</p>
+            <p><q who="#NotaroNeri">— <rs type="person" ref="#NinìRubiera" > Signor barone</rs>!... quando volete buttare il denaro dalla finestra!... 
+               andate a giuocare a carte!... giuocatevi il denaro di tasca vostra soltanto!...</q></p>
+            <p><persName ref="#NinìRubiera" >Don Ninì</persName> sbuffava peggio di un toro infuriato.
+               <persName ref="#Peperito" >Peperito</persName> aveva chiamato 
+               con un cenno il <persName ref="#CanonicoLupi" >canonico Lupi</persName>,
+               e s'erano messi a confabulare sottovoce, 
+               chinati sulla scrivania, agitando il capo come due galline che beccano nello stesso tegame.
+               Era tanta la commozione che le mani del <rs type="person" ref="#CanonicoLupi" >canonico</rs> 
+               tremavano sugli scartafacci. Il <rs type="person" ref="#Peperito" >cavaliere</rs> lo prese per un braccio e andarono
+               a raggiungere il <rs ref="#NotaroNeri" type="person">notaro</rs> e il <rs ref="#NinìRubiera" type="person">baronello</rs> che disputavano animatissimi in un
+               canto della sala. <persName ref="#NinìRubiera" >Don Ninì</persName>cominciava a cedere, col viso floscio e le gambe 
+               molli. Il <rs ref="#CanonicoLupi" type="person">canonico</rs> allora fece segno a <persName ref="#GesualdoMotta" >don Gesualdo</persName> d'accostarsi lui pure. </p>
+            
+           <pb n="196"></pb>
+            
+            <p><q who="#GesualdoMotta">— No, —</q> ammiccò questi senza muoversi.</p>
+            <p>— <q who="#CanonicoLupi"> Sentite!... C'è quell'affare della cauzione... Il ponte se n'è andato, 
+               salute a noi!... C'è modo d'accomodare quell'affare della cauzione adesso... </q>.</p>
+            <p><q who="#DonGesualdo">— No, — </q> ripigliò don Gesualdo. Sembrava una pietra murata. <q who="#DonGesualdo">— L'affare del ponte...
+               una miseria in confronto</q>.</p>
+            <p><q who="#NinìRubiera">— Villano! mulo! <distinct ana="TestaDiCorno">testa di corno</distinct>! —</q> ricominciò ad inveire il barone sottovoce.</p> 
+            <p> <persName ref="#FilippoMargarone" >Don Filippo</persName>, dopo il primo momento d'agitazione, era tornato a sedere, 
+            asciugandosi il sudore gravemente. Intanto che il <rs type="person" ref="#CanonicoLupi" >canonico</rs> parlava sottovoce 
+            a <persName ref="#GesualdoMotta" >mastro-don Gesualdo</persName>, 
+               il <rs type="person" ref="#NotaroNeri" >notaro</rs> da lontano cominciò a far dei segni. 
+            <persName ref="#FilippoMargarone" >Don Filippo</persName> si chinò all'orecchio 
+               di <persName ref="#Canali">Canali</persName>. Sottomano, in voce di falsetto, il banditore replicò:</p>
+            <p><q>— L'ultima offerta per le terre del comune! A sei <distinct ana="Onza">onze</distinct> la <distinct ana="#Salma">salma</distinct>!... Uno!... due!... </q></p>
+            <p><q who="#GesualdoMotta">— Un momento, signori miei! —</q> interruppe <persName ref="#GesualdoMotta" >don Gesualdo</persName>.
+               <q who="#GesualdoMotta">— Chi garantisce quest'ultima offerta?</q></p>
+            <p>A quell'uscita rimasero tutti a bocca aperta. <persName ref="#FilippoMargarone" >Don Filippo</persName> apriva e chiudeva la sua 
+               senza trovar parola. Infine rispose:</p>
+            <p><q who="#FilippoMargarone"> — L'offerta del barone Rubiera!... Eh? eh?</q></p>
+            <p><q who="#GesualdoMotta">— Sissignore. Chi garantisce pel barone Rubiera?</q></p>
+            <p>Il <rs type="person" ref="#NotaroNeri" >notaro</rs> si gettò su <persName ref="#NinìRubiera" >don Ninì</persName> che sembrava volesse fare un massacro.
+               <persName ref="#Peperito" >Peperito</persName> dimenavasi come
+               
+               <pb n="197"></pb>
+               
+               l'avessero schiaffeggiato. Lo stesso <rs type="person" ref="#CanonicoLupi" >canonico</rs> allibì.
+               <persName ref="#FilippoMargarone" >Margarone</persName> balbettava stralunato. </p>
+            <p><q who="#FilippoMargarone">— Chi garantisce pel barone Rubiera?... chi garantisce?...—</q> A un tratto
+               mutò tono, volgendola in burla: <q who="#FilippoMargarone">— Chi garantisce
+                  pel <persName ref="#NinìRubiera">barone Rubiera</persName>!...
+               Ah!, ah!... Oh bella! questa è grossa! —</q> E molti, al pari di lui, si tenevano i fianchi dalle risate.</p>
+            <p><q who="#GesualdoMotta">— Sissignore, —</q> replicò <persName ref="#GesualdoMotta" type="person">don Gesualdo</persName> imperturbabile. 
+               <q who="#GesualdoMotta">— Chi garantisce per lui? La <objectName ref="Roba">roba</objectName> è di sua madre.</q></p>
+            <p>A quelle parole cessarono le risate, e <persName ref="#FilippoMargarone" >don Filippo</persName> 
+               ricominciò a tartagliare. La gente si affollava sull'uscio come ad un
+               teatro. Il <rs type="person" ref="#CanonicoLupi" >canonico</rs>, che sembrava più pallido
+               sotto la barba di quattro giorni, tirava il suo compagno pel 
+               vestito. Il <rs type="person" ref="#NotaroNeri" >notaro</rs> era riuscito a cacciare 
+               il <rs type="person" ref="#NinìRubiera" >baronello</rs> contro il muro, 
+               mentre costui, in mezzo al baccano, vomitava:</p>
+            <p><q who="#NinìRubiera">— <distinct ana="#Becco">Becco</distinct>!... <distinct ana="#CuorContento">cuor contento</distinct>!... <distinct ana="#Redentore">redentore</distinct>!</q></p>
+            <p><q who="#FilippoNeri">— La parola del <rs type="person" ref="#NinìRubiera" >barone!</rs> —</q> 
+               disse infine <persName ref="#FilippoMargarone" >don Filippo</persName>.
+               <q who="#FilippoMargarone"> — La parola del <persName ref="#NinìRubiera">barone Rubiera</persName>
+                  val più delle vostre <distinct ana="#Doppia">doppie</distinct>!... don... don...</q>. </p>
+            <p><q who="#GesualdoMotta">— <persName ref="#FilippoMargarone">Don Filippo</persName>!—</q> interruppe l'altro senza perdere la sua bella calma. 
+               <q>— Ho qui dei testimoni per metter tutto nel verbale.</q></p>
+            <p><q who="#FilippoMargarone">— Va bene! Si metterà tutto nel verbale!... Scrivete che il <persName ref="#NinìRubiera" >baronello Rubiera</persName>
+               ha fatto l'offerta per incarico di sua madre !...</q></p>
+            
+            <pb n="198"></pb>
+            
+            <p><q who="#GesualdoMotta">— Benone! —</q> aggiunse <persName ref="#GesualdoMotta" >don Gesualdo</persName>.
+               <q who="#GesualdoMotta">— Quand'è cosi scrivete pure che offro sei <distinct ana="#Onza">onze</distinct> e quindici a <distinct ana="#Salma">salma</distinct>.</q></p>
+            <p><q who="#NunzioMotta">— Pazzo! assassino! nemico di Dio! —</q> si udì gridare <persName ref="#NunzioMotta" >Mastro Nunzio</persName> nella 
+               folla dell'altra sala.</p>
+            <p> Successe un parapiglia. Il <rs type="person" ref="#NotaroNeri" >notaro</rs> e <persName ref="#Peperito" >Peperito</persName> spinsero fuori dell'uscio 
+               il <rs type="person" ref="#NinìRubiera" >baronello</rs> che strepitava, agitando le braccia in aria. Dall'altro canto 
+               il <rs type="person" ref="#CanonicoLupi" >canonico</rs>, convulso, si gettò su <persName ref="#GesualdoMotta" >don Gesualdo</persName>, stringendoglisi addosso, 
+               sedendogli quasi sulle ginocchia, colle braccia al collo, scongiurandolo 
+               sottovoce, in aria disperata, con parole di fuoco, ficcandoglisi nell'orecchio, 
+               scuotendolo pei petti della giacca, quasi volesse strapazzarlo, per fargli sentir ragione.</p>
+            <p><q who="#CanonicoLupi">— Una pazzia!... Dove andiamo,
+               caro <persName ref="#GesualdoMotta" >don Gesualdo</persName>?...</q></p>
+            <p><q who="#GesualdoMotta">— Non temete, <rs type="person" ref="#CanonicoLupi" >canonico</rs>. 
+               Ho fatto i miei conti. Non mi scaldo la testa, io.</q></p>
+            <p><persName ref="#FilippoMargarone">Don Filippo Margarone</persName> suonava il campanello da cinque minuti per avere 
+               un bicchier d'acqua. I suoi colleghi s'asciugavano il sudore anch'essi, 
+               trafelati. Solo <persName ref="#GesualdoMotta" >don Gesualdo</persName> rimaneva seduto al suo posto come un sasso, 
+               accanto al sacchetto di <distinct ana="#Doppia">doppie</distinct>. A un certo punto, dalla baraonda ch'era 
+               nell'altra stanza, irruppe nella sala <persName ref="#NunzioMotta" >mastro Nunzio Motta</persName>, stralunato, 
+               tremante di collera, coi capelli bianchi irti sul capo, rimorchiandosi dietro 
+               il genero <persName ref="#FortunatoBurgio">Burgio</persName> che tentava 
+               
+               <pb n="199"></pb> 
+               
+               di trattenerlo per la manica della giacca, come un pazzo.</p>
+            <p><q who="#NunzioMotta">— Signor <persName ref="#FilippoMargarone" >don Filippo</persName>!...
+               sono il padre, sì o no?... comando io, sì o no?...
+               Se mio figlio <persName ref="#GesualdoMotta" >Gesualdo</persName> è matto!... 
+               se vuol rovinarci tutti !...c'è la forza,
+               signor <persName ref="#FilippoMargarone" >don Filippo</persName>!... 
+               Mandate a chiamare <persName ref="#LiccioPapa" >don Liccio Papa</persName>!...—</q> <seg type="explgen" ana="seg_MDG_explgen_laforzadonLiccioPapa"></seg>
+               <persName ref="#SperanzaMotta" >Speranza</persName>, dall'uscio, col lattante al petto, che si strappava i capelli e urlava quasi
+               l'accoppassero. <q who="#CanonicoLupi">— Per l'amor di Dio! per l'amor di Dio!—</q> supplicava il 
+               <rs type="person" ref="#CanonicoLupi" >canonico</rs>, correndo dall'uno all'altro. <q who= "#NunzioMotta">— I denari del ponte!... Vuole la mia 
+               rovina!... Nemico di suo padre stesso! —</q> urlava <persName ref="#NunzioMotta" >mastro Nunzio</persName>. 
+               <q who="#CanonicoLupi">— Erano forse denari vostri? —</q> scappò infine a gridare 
+               il <rs type="person" ref="#CanonicoLupi" >canonico</rs>; <q who="#CanonicoLupi">— non era sangue 
+               del figlio vostro? non li ha guadagnati lui, col suo lavoro? — </q> Tutti quanti 
+               erano in piedi, vociando. Si udiva <persName ref="#Canali" >Canali</persName> strillare più forte 
+               degli altri per chetare <persName ref="#NinìRubiera" >don Ninì Rubiera</persName>. 
+               Il <persName ref="#BaroneZacco" >barone Zacco</persName>, avvilito, 
+               se ne stava colle spalle al muro, e il cappello sulla nuca. Il <rs type="person" ref="#NotaroNeri" >notaro</rs> era sceso 
+               a precipizio, facendo gli scalini a quattro a quattro, onde correre dalla
+              <rs type="person" ref="#BaronessaRubiera" > baronessa</rs>. Per le scale era un via vai di curiosi: gente che arrivava ogni 
+               momento, attratta dal baccano che udivasi nel <orgName type="place" ref="#Municipio" >Palazzo di Città</orgName>. Santo Motta 
+               dalla piazza additava il balcone, vociando a chi non voleva saperle le prodezze 
+               del fratello. S'era affacciata perfino <persName ref="#MariannaSganci" >donna Marianna Sganci</persName>, coll'ombrellino,
+               mettendosi la mano dinanzi agli occhi.</p>
+            
+            <pb n="200"></pb>
+            
+            <p><q who="#NunzioMotta">— Com'è vero Dio!... Io l'ho fatto e io lo disfo!...—</q> urlava il vecchio 
+               <persName ref="#NunzioMotta" >Motta</persName> inferocito. <q who="#GiuseppeBarabba"> — Largo! largo! —</q> si udì in mezzo alla folla.</p>
+            <p>Giungeva <persName ref="#GiuseppeBarabba" >don Giuseppe Barabba</persName>, agitando un biglietto in aria. <q who="#GiuseppeBarabba">— <persName ref="#CanonicoLupi">Canonico! 
+               canonico Lupi</persName>!...—</q> Questi si spinse avanti a gomitate. <q who="#CanonicoLupi">— Va bene —</q> disse, 
+               dopo di aver letto. <q who="#CanonicoLupi">— Dite alla <persName ref="#MariannaSganci" >signora Sganci</persName> che va bene, e la servo subito.</q></p>
+            <p><persName ref="#GiuseppeBarabba" >Barabba</persName> corse a fare la stessa imbasciata nell'altra sala. Quasi lo soffocavano 
+               dalla ressa. Il <rs type="person" ref="#CanonicoLupi" >canonico</rs> si buscò uno strappo alla zimarra, mentre il 
+               barone stendeva le braccia per leggere il biglietto. <persName ref="#Canali" >Canali</persName>, <persName ref="#GiuseppeBarabba" >Barabba</persName> 
+               e <persName ref="#NinìRubiera" >don Ninì</persName> 
+               litigavano fra di loro. Poscia <persName ref="#Canali" >Canali</persName> ricominciò a gridare: <q who="#Canali">— Largo! largo! —</q>
+               E s'avanzò verso <persName ref="#GesualdoMotta" >don Gesualdo</persName> sorridente: </p>
+            <p><q who="#Canali">— C'è qui il <persName ref="#NinìRubiera" >baronello Rubiera</persName> che vuole stringervi la mano!</q></p>
+            <p><q who="#GesualdoMotta">— Padrone! padronissimo! Io non sono in collera con nessuno.</q></p>
+            <p><q who="#Canali">— Dico bene!... Che diavolo!... Oramai siete parenti!...</q></p>
+               <p>E tirando pel vestito 
+               il <rs type="person" ref="#NinìRubiera" >baronello</rs> li strinse entrambi in un amplesso, costringendoli quasi a baciarsi. Il
+               <persName ref="#BaroneZacco" >barone Zacco</persName> corse a gettarsi lui pure nelle loro braccia, coi lucciconi agli occhi.</p>
+            <p><q who="#BaroneZacco">— Maledetto il diavolo!... Non sono di bronzo!... Che sciocchezza!...</q></p>
+            <p>Il <rs type="person" ref="#NotaroNeri" >notaro</rs> sopraggiunse in quel punto. Andò prima
+               
+               <pb n="201"></pb>
+               
+               a dare un'occhiata allo scartafaccio del segretario, e poi si mise a battere le mani.</p>
+            <p><q who="#NotaroNeri">— Viva la pace! Viva la concordia!... Se ve l'ho sempre detto!...</q></p>
+            <p><q who="#CanonicoLupi" >— Guardate cosa mi scrive vostra zia <persName ref="#MariannaSganci" >donna Marianna Sganci</persName>!...—</q> disse
+               il <rs ref="#CanonicoLupi" type="person">canonico</rs> commosso, porgendo la lettera aperta
+               a <persName ref="#GesualdoMotta" >don Gesualdo</persName>. E
+               fattosi al balcone agitò il foglio in aria, come una bandiera bianca;
+               mentre la <persName ref="#MariannaSganci">signora Sganci</persName> dal balcone rispondeva coi cenni del capo.</p>
+            <p><q> <!-- è il messaggio della Sganci, come segnalo? -->— Pace! pace!... Siete tutti una famiglia!...</q></p>
+            <p><persName ref="#Canali" >Canali</persName> corse a prendere per forza 
+               <persName ref="#NunzioMotta" >mastro Nunzio</persName>, 
+               <persName ref="#FortunatoBurgio" >Burgio</persName>, 
+               perfino <persName ref="#SantoMotta" >Santo Motta</persName>, 
+               scamiciato, e li spinse nelle braccia dei nuovi parenti. Il <rs ref="#CanonicoLupi" >canonico</rs> 
+               abbracciava anche comare <persName ref="#SperanzaMotta" >Speranza</persName> e il suo bambino. Avrebbero pianto gli stessi 
+               sassi. <q who="#CanonicoLupi">— Per parte di moglie...siete cugini...</q></p>
+            <p><q who="#NinìRubiera">— È vero, —</q> aggiunse <persName ref="#NinìRubiera" >don Ninì</persName> 
+               tuttora un po' rosso in viso. <q who="#NinìRubiera">— Siamo cresciuti
+               insieme con <persName ref="#BiancaTrao">Bianca</persName>... come fratello e sorella.</q></p>
+            <p><q who="#BaroneZacco">— Caro <persName ref="#NunzioMotta">don Nunzio</persName>!... 
+               vi rammentate la fornace del gesso... vicino <placeName ref="#Fontanarossa">Fontanarossa</placeName>?...</q></p>
+            <p>Il vecchio burbero fece una spallata, per levarsi d'addosso la manaccia
+               del <persName ref="#BaroneZacco" >barone Zacco</persName>, e rispose sgarbatamente.</p>
+            <p><q who="#NunzioMotta">— Io mi chiamo <persName ref="#NunzioMotta" >mastro Nunzio</persName>, 
+               <rs ref="#BaroneZacco">signor barone</rs>. Non ho i fumi di mio figlio.</q></p>
+            
+            <pb n="202"></pb>
+            
+            <p><q who="#Canali">— E perché poi? A vantaggio di chi vi fate la guerra?... Chi ne gode 
+               di tanto denaro buttato via?...—</q> conchiuse <persName ref="#Canali" >Canali</persName> infervorato.</p>
+            <p><q who="#NotaroNeri">— Pazzie! ragazzate!... Un po' di sangue alla testa!... La giornata
+               calda!... Un puntiglio sciocco... un malinteso... Ora tutto è finito! 
+               Andiamo via! Non facciamo ridere il paese!... —</q> E il <rs type="person" ref="#NotaroNeri" >notaro</rs> cercava di condurli
+               a spasso tutti quanti.</p>
+            <p><q who="#GesualdoMotta">— Un momento! —</q> interruppe <persName ref="#GesualdoMotta" >don Gesualdo</persName>.
+               <q who="#GesualdoMotta">— La candela è ancora accesa. Vediamo prima se hanno scritto l'ultima mia offerta.</q></p>
+            <p><q>— Come, come? Che discorsi!... Cosa vuol dire?... Torniamo da capo?... —</q> Di 
+               nuovo s'era levato un putiferio. <q>— Non siamo più amici? Non siamo parenti?</q></p>
+            <p>Ma <persName ref="#GesualdoMotta" >don Gesualdo</persName> s'ostinava, peggio di un mulo:</p>
+            <p><q who="#GesualdoMotta">— Sissignore, siamo parenti. Ma qui siamo venuti per la <distinct ana="#Gabella">gabella</distinct> delle
+               terre comunali. Io ho fatta l'offerta di sei <distinct ana="#Onza">onze</distinct> e quindici <distinct ana="#Tarì">tarì</distinct> a <distinct ana="#Salma">salma</distinct>.</q></p>
+            <p> <q>— Villano! <distinct ana="#TestaDiCorno">testa di corno</distinct>!</q></p>
+            <p><persName ref="#FilippoMargarone" >Don Filippo</persName>, in mezzo a quel trambusto, fu costretto a sedere 
+               di nuovo sul seggiolone, sbuffando. Vuotò di un fiato il bicchiere d'acqua, 
+               e suonò il campanello. <q>— Signori miei! —</q> vociava il segretario, <q>—l'ultima 
+                  offerta... a sei <distinct ana="#Onza">onze</distinct> e quindici! —</q> Tutti se n'erano andati a discutere
+               strepitando nell'altra sala, lasciando solo <persName ref="#GesualdoMotta" >don Gesualdo</persName> dinanzi alla scrivania.
+               
+               <pb n="203"></pb>
+               
+               Invano il <rs type="person" ref="#CanonicoLupi" >canonico</rs>, inquieto, gli soffiava all'orecchio: </p>
+            <p><q who="#CanonicoLupi">— Non la spuntate, no!... Si son dati l'intesa fra di loro!... —</q> 
+               <q> A sei <distinct ana="#Onza">onze</distinct> e quindici la salma!... ultima offerta!...</q></p>
+            <p><q who="#NotaroNeri">— <persName ref="#GesualdoMotta">Don Gesualdo! don Gesualdo!</persName> —</q> gridò il <rs type="person" ref="#NotaroNeri" >notaro</rs> quasi stesse per crollare la sala.</p>
+            <p>Rientrarono nuovamente in processione: il <persName ref="#BaroneZacco" >barone Zacco</persName> facendosi vento 
+               col cappello; il <rs type="person" ref="#CanonicoLupi" >canonico</rs> e <persName ref="#Canali" >Canali</persName> ragionando fra loro due a bassa voce; 
+               <persName ref="#NinìRubiera" >don Ninì</persName>, più restìo, in coda agli altri. 
+               Il <rs ref="#NotaroNeri" type="person">notaro</rs> con le braccia fece un 
+               gesto circolare per radunarli tutti intorno a sé:</p>
+            <p><q who="#NotaroNeri">— <persName ref="#GesualdoMotta" >Don Gesualdo</persName>!... sentite qua!</q></p>
+            <p>Volse in giro un'occhiata da cospiratore e abbassò la voce:</p>
+            <p><q who="#NotaroNeri">— Una proposta seria! —</q> e fece un'altra pausa significativa. <q who="#NotaroNeri">— Prima di tutto,
+               i danari della cauzione... una bella somma!... La disgrazia volle così...
+               ma voi non ci avete colpa, <persName ref="#GesualdoMotta" >don Gesualdo</persName>... e
+               neppure, voi, <persName ref="#NunzioMotta" >mastro Nunzio</persName>... 
+               È giusto che non li perdiate!... Accomoderemo la cosa!... 
+               Voi, <persName ref="#BaroneZacco" >signor barone Zacco</persName>,
+               vi rincresce di lasciare le terre che sono da quarant'anni nella vostra 
+               famiglia?... E va bene!... La <persName ref="#BaronessaRubiera" >baronessa Rubiera</persName> adesso vuole la sua parte
+               anche lei?... ha più di tremila capi di bestiame sulle spalle... E va bene 
+               anche questa! <persName ref="#GesualdoMotta" >Don Gesualdo</persName>, qui, ha denari
+               
+               <pb n="204"></pb>
+               da spendere lui pure; vuol fare le sue speculazioni sugli affitti... 
+               Benissimo! Dividete le terre, fra voi tre... senza liti, senza puntigli,
+               senza farvi la guerra a vantaggio altrui... A vantaggio di chi, poi?... del 
+               <orgName ref="Municipio">comune</orgName>! Vuol dire di nessuno! Mandiamo a monte l'asta... Il pretesto 
+               lo trovo io!... Fra otto giorni si riapre sul prezzo di prima; si fa un'offerta 
+               sola... Io no... e nemmeno loro!... 
+               Il <persName ref="#CanonicoLupi">canonico Lupi</persName>!... in nome vostro, 
+               <persName ref="#GesualdoMotta">don Gesualdo</persName>... 
+               Ci fidiamo... Siamo galantuomini! Un'offerta sola 
+               sul prezzo di prima; e vi rimangono aggiudicate le terre senza un <distinct ana="Baiocco">baiocco</distinct> 
+               d'aumento. Solamente una piccola senseria per me e il <rs ref="#CanonicoLupi" >canonico</rs>... E il 
+               rimanente lo dividete fra voi tre, alla buona... d'amore e d'accordo. Vi piace? Siamo intesi?</q></p>
+            <p><q who="#GesualdoMotta">— Nossignore, —</q> rispose <persName ref="#GesualdoMotta" >don Gesualdo</persName>, 
+               <q who="#GesualdoMotta">— le terre le piglio tutte io.</q></p>
+            <p>Mentre gli altri erano contenti e approvavano coi cenni del capo l'occhiata
+               trionfante che il <rs ref="#NotaroNeri" type="person">notaro</rs> tornava a volgere intorno, quella risposta cadde 
+               come una secchia d'acqua. Il <rs ref="#NotaroNeri" type="person">notaro</rs> per primo rimase sbalordito; indi fece
+               una giravolta e s'allontanò canterellando. <persName ref="#NinìRubiera" >Don Ninì</persName> scappò via senza dir
+               nulla. Il <rs ref="#BaroneZacco" type="person">barone</rs> stavolta finse di calcarsi il cappello in capo per davvero. Lo
+               stesso <rs ref="#CanonicoLupi" type="person">canonico</rs> saltò su inviperito:</p>
+            <p><q who="#CanonicoLupi">— Allora vi pianto anch'io!... Se volete <seg type="phrase" ana="#seg_MDG_phrase_romperelecorna">rompervi le corna</seg>, il balcone è lì,
+               bell'e aperto!... Vi offrono
+               
+               <pb n="205"></pb>
+               
+               dei buoni patti!... vi stendono le mani!... Io vi lascio solo, com' è vero Dio!</q></p>
+            <p>Ma <persName ref="#GesualdoMotta" >don Gesualdo</persName> 
+               si ostinava, col suo risolino sciocco, il solo che non perdesse 
+               la testa in quella baraonda.</p>
+            <p><q who="#GesualdoMotta">— Siete una bestia! —</q> gli disse sempre ridendo. 
+               Il <rs type="person" ref="#CanonicoLupi" >canonico</rs> spalancò 
+               gli occhi e tornò docile a vedere quel che stava macchinando quel diavolo
+               di <persName ref="#GesualdoMotta" >mastro-don Gesualdo</persName>.</p>
+            <p>Il <rs type="person" ref="#NotaroNeri" >notaro</rs>, prudente, 
+               seppe dominarsi prima degli altri, e tornò indietro 
+               col sorriso sulle labbra e la tabacchiera in mano lui pure.</p>
+            <p><q who="#NotaroNeri">— Dunque?... le volete tutte?</q></p>
+            <p><q who="#GesualdoMotta">— Eh... eh... Cosa stiamo a farci qui dunque! —</q> rispose l'altro.</p>
+            <p><persName ref="#NotaroNeri" >Neri</persName> gli offrì la tabacchiera aperta,
+               e riprese a voce bassa, in tono di confidenza cordiale:</p>
+            <p><q who="#NotaroNeri">— Che diavolo volete farne?... circa cinquecento <distinct ana="#Salma">salme</distinct> di terre!...</q></p>
+            <p><persName ref="#GesualdoMotta" >Don Gesualdo</persName> si strinse nelle spalle.</p>
+            <p><q who="#GesualdoMotta">— Caro <rs type="person" ref="#NotaroNeri" >notaro</rs>,
+               forse che voglio ficcare il naso nei vostri libracci, io?</q></p>
+            <p><q who="#NotaroNeri">— Quand'è così, <persName ref="#GesualdoMotta">don Gesualdo</persName>, 
+               state a sentire... discorriamola fra di noi...
+               Il puntiglio non conta... e nemmeno l'amicizia... Badiamo agli interessi...</q></p>
+            <p>A ogni frase piegava il capo ora a destra e ora a sinistra, con un fare
+               cadenzato che doveva essere molto persuasivo.</p>
+            
+            <pb n="206"></pb>
+            
+            <p><q who="#NotaroNeri">— Se le volete tutte, ve le faremo pagare il doppio, ed ecco sfumato
+               subito metà del guadagno... senza contare i rischi... le malannate!... Lasciateci
+               l'osso, caro <persName ref="#GesualdoMotta">don Gesualdo</persName>! 
+               tappateci la bocca... Abbiamo denti, e sappiamo 
+               mordere! Andremo, a <distinct ana="ARottaDiCollo">rotta di collo</distinct> noialtri e voi pure!...</q></p>
+            <p><persName ref="#GesualdoMotta" >Don Gesualdo</persName> scrollava il capo, sogghignando, 
+               come a dire: — Nossignore! Andrete a <distinct ana="ARottaDiCollo">rotta di collo</distinct> voialtri soltanto! — Seguitava a ripetere:</p>
+            <p><q who="#GesualdoMotta">— Forse che io voglio cacciare il naso nei vostri scartafacci?</q></p>
+            <p>Poi vedendo che il <rs type="person" ref="#NotaroNeri" >notaro</rs>
+               diventava verde dalla bile, volle offrirgli una presa lui.</p>
+            <p><q who="#GesualdoMotta">— Vi spiego il mistero in due parole, giacché vedo che mi parlate 
+               col cuore in mano. Piglierò in affitto le terre del <orgName ref="#Municipio">comune</orgName>... 
+               e quelle della <!--anche qui orgName?-->Contea pure...
+               tutte quante, capite, <rs ref="#NotaroNeri">signor notaro</rs>? 
+               Allora comando ai prezzi e all'annata,
+               capite?... Ve lo dico perché siete un amico, e perché a far quel che dico
+               io ci vogliono molti capitali in mano, e un cuore grande quanto il 
+               <placeName type="place" ref="#PianadiSantaMargherita" >piano 
+               di Santamargherita</placeName>, caro <rs type="person" ref="#NotaroNeri" >notaro</rs>.
+               Perciò spingerò l'asta sin dove voialtri 
+               non potrete arrivare. Ma badate! a un certo punto, se non mi conviene, mi tiro
+               indietro, e vi lascio addosso il peso che vi rompe la schiena...</q>.</p>
+            <p><q who="#NotaroNeri">— E questa è la conclusione?...</q></p>
+            <p><q who="#GesualdoMotta">— Eh? eh? Vi piace?</q></p>
+            
+            <pb n="207"></pb>
+            
+            <p>Il <rs type="person" ref="#NotaroNeri" >notaro</rs> 
+               si volse di qua e di là, come cercasse per terra, si calcò il cappello 
+               in capo definitivamente, e volse le spalle:</p>
+            <p><q who="#NotaroNeri">— Salute a chi rimane!... Ce ne andiamo... Non abbiamo più nulla da fare.</q></p>
+            <p>II <rs type="person" ref="#CanonicoLupi" >canonico</rs>, ch'era stato ad ascoltare a bocca aperta, 
+               si strinse al socio con entusiasmo, appena rimasero soli.</p>
+            <p><q who="#CanonicoLupi">— Che botta, eh? <persName ref="#GesualdoMotta" >don Gesualdo</persName>!
+               Che tomo siete voi!... La mia mezzeria ci sarà sempre?</q></p>
+            <p><persName ref="#GesualdoMotta" >Don Gesualdo</persName> rassicurò 
+               il <rs type="person" ref="#CanonicoLupi" >canonico</rs> con un cenno del capo, 
+               e disse a <persName ref="#FilippoMargarone">Margarone</persName>:</p>
+            <p><q who="#GesualdoMotta">— Signor <persName ref="#FilippoMargarone" >don Filippo</persName>, 
+               andiamo avanti...</q>.</p>
+            <p><q who="#FilippoMargarone">— Io non vo niente affatto! —</q> rispose
+               finalmente <persName ref="#FilippoMargarone" >Margarone</persName> adirato. 
+               <q who="#FilippoMargarone">— La legge dice... Non c'è più concorrenza!...
+                  Non trovo garanzia!... Devo consultare i miei colleghi. —</q>
+               E si mise a raccogliere gli scartafacci in fretta e in furia.</p>
+            <p><q who="#CanonicoLupi">— Ah! così si tratta?... è questa la maniera?... 
+               Va bene! va benone! Ne discorreremo poi, 
+               <persName ref="#FilippoMargarone" >signor don Filippo</persName>...
+               Un memoriale a Sua Maestà!...<seg type="explgen" ana="#seg_MDG_memorialeasuamaestà"></seg> —</q>
+               Il <rs type="person" ref="#CanonicoLupi" >canonico</rs> col mantello sul 
+               braccio come un oratore romano, perorava la causa 
+               dell'amico, minaccioso. <persName ref="#GesualdoMotta" >Don Gesualdo</persName> 
+               invece più calmo, riprese il suo denaro e il 
+               taccuino zeppo di cifre: <q who="#GesualdoMotta">— Io sarò sempre qua, <persName ref="#FilippoMargarone" >signor don Filippo</persName>, 
+                  quando aprite di nuovo l'asta.</q></p>
+            <p><q who="#FilippoMargarone">— Signori miei!... guardate un po'... a che siam giunti! —</q>
+               brontolava <persName ref="#FilippoMargarone" >Margarone</persName>.
+               Per la scala del <placeName ref="#PalazzoDiCittà"> Palazzo
+               
+              <pb n="208"></pb>
+               
+               di Città</placeName>, e per tutto il <rs type="place" ref="#Vizzini">paese</rs>,
+               era un subbuglio, al sentire la lotta che 
+               c'era stata per levare di mano al <persName ref="#BaroneZacco">barone Zacco</persName> 
+               le terre del <orgName ref="#Municipio">comune</orgName> che
+               da quarant'anni erano nella sua famiglia,
+               e il prezzo a cui erano salite. La gente si affacciava sugli usci,
+               per veder passare <persName ref="#GesualdoMotta" >mastro-don Gesualdo</persName>.</p>
+            <p><!-- qui il disc è diretto, ma il pdv sembra già quello di un commentatore popolare, come nelle esclamazioni successive, anche se riprende le parole di Margarone. --> 
+               <q>— Guardate un po', signori miei, 
+               a che s'era arrivati!...—</q> Fresco come un bicchier d'acqua,
+               quel <persName ref="#GesualdoMotta" >mastro-don Gesualdo</persName> 
+               che se ne andava a casa, colle mani in tasca...
+               In tasca aveva più denari che capelli in testa!
+               e dava da fare ai primi signori del paese! Nell'anticamera aspettava 
+               <persName ref="#GiuseppeBarabba" >don Giuseppe Barabba</persName>, 
+               in livrea:<q who="#GiuseppeBarabba" toWhom="#GesualdoMotta">— Signor <persName ref="#GesualdoMotta" >don Gesualdo</persName>, c'è di là la mia
+               padrona a farvi visita... sissignore! —</q> <persName ref="#MariannaSganci" >Donna Mariannina</persName> in gala era 
+               seduta sul canapè di seta, sotto lo specchio grande, nella bella sala gialla <ptr type="philol" target="#N_MDG_philol_MariannaSganci"></ptr>.</p>
+            <p><q who="#MariannaSganci" toWhom="#GesualdoMotta">—  Nipote mio, l'avete fatta grossa!
+               Avete suscitato l'inferno in tutto il 
+               parentado!... Sicuro! La moglie del <persName ref="#BaroneZacco" >cugino Zacco</persName> è venuta a farmi vedere 
+               i lividori!... Sembra ammattito <rs type="person" ref="#BaroneZacco" >il barone</rs>!... Prende a sfogarsi con chi
+               gli capita... Ed anche la <persName ref="#BaronessaRubiera" >cugina Rubiera</persName>... dice ch'è un 
+              <distinct ana="#Proditorio">proditorio</distinct>! che 
+               il <persName ref="#CanonicoLupi" >canonico Lupi</persName> vi aveva messi d'amore e d'accordo, e poi tutt'a un 
+               tratto... È vero, nipote mio? Son venuta apposta a discorrerne con <persName ref="#BiancaTrao" >Bianca</persName>... 
+               Vediamo, <persName ref="#BiancaTrao" >Bianca</persName>, aiutami tu. Cerchiamo d'accomodarla. 
+               Voi, <persName ref="#GesualdoMotta" >don Gesualdo</persName> ,
+               le farete questo regalo, a vostra moglie. Eh? che ne dite?</q></p>
+            
+           <pb n="209"></pb>
+            
+            <p><persName ref="#BiancaTrao" >Bianca</persName> guardava timidamente
+               ora lei ed ora il <rs type="person" ref="#GesualdoMotta" >marito</rs>, rannicchiata in un
+               cantuccio del canapè, colle braccia sul ventre e il fazzoletto di seta 
+               in testa, che s'era messo in fretta onde ricevere la zia. Aprì la bocca per 
+               rispondere qualche cosa, messa in soggezione da <persName ref="#MariannaSganci" >donna Mariannina</persName>, la quale
+               continuava a sollecitarla:</p>
+            <p><q who="#MariannaSganci" toWhom="#BiancaTrao">— Eh? che ne dici? Adesso sono anche affari tuoi.</q></p>
+            <p><persName ref="#BiancaTrao" >Bianca</persName> tornò a guardare il <rs type="person" ref="#GesualdoMotta" >marito</rs>, 
+               e tacque imbarazzata. Ma egli la tolse d'impiccio.</p>
+            <p><q who="#GesualdoMotta" toWhom="#MariannaSganci">— Io dico di no,—</q> rispose semplicemente.</p>
+            <p><q who="#MariannaSganci" toWhom="#GesualdoMotta">— Ah? ah? Dite cosi?...</q></p>
+            <p><persName ref="#MariannaSganci" >Donna Mariannina</persName>
+               rimase a bocca aperta lei pure un istante. Poscia divenne rossa 
+               come un gallo: <q who="#MariannaSganci" toWhom="#GesualdoMotta">— Ah! dite di no?... Scusatemi... Io non c'entro. Ero 
+               venuta a parlarne con mia nipote, perché non vorrei liti e questioni fra 
+               parenti... Anche coi tuoi fratelli, <persName ref="#BiancaTrao" >Bianca</persName>... quel che non ho fatto per 
+               indurli... <persName ref="#DiegoTrao">don Diego</persName> specialmente ch'è così ostinato... Una disgrazia... un 
+               gastigo di Dio!</q></p> 
+            <p><q who="#GesualdoMotta" toWhom="#MariannaSganci">— Che volete farci? —</q> rispose don Gesualdo. 
+               <q who="#GesualdoMotta" toWhom="#MariannaSganci">— Non tutti i negozi riescono
+               bene. Anch'io, se avessi saputo... Non parlo per la moglie che ho presa, no! 
+               Non me ne pento!... Buona, interessata, ubbidiente... Glielo dico qui,
+               <!-- era: in faccia lei. ed moderne normalizzano: in faccia a lei. Ho corretto --> in faccia a lei... Ma quanto al resto... lasciamo andare!</q></p>
+            
+          <pb n="210"></pb>
+            
+            <p><q who="#MariannaSganci" toWhom="#GesualdoMotta">— Dite bene, lasciamo andare. 
+               Apposta son venuta a parlare con <persName ref="#BiancaTrao">Bianca</persName>, 
+               perché so che le volete bene. Adesso siete marito e moglie, come vuol
+               Dio. Anch'essa è la padrona...</q>.</p>
+            <p><q who="#GesualdoMotta" toWhom="#MariannaSganci">— Sissignore, è la padrona. Ma io sono il marito...</q>.</p>
+            <p><q who="#MariannaSganci" toWhom="#GesualdoMotta">—Vuol dire che ho sbagliato, —</q>
+               disse la <persName ref="#MariannaSganci" >Sganci</persName> punta al vivo.</p>
+               <p><q who="#GesualdoMotta" toWhom="#MariannaSganci #BiancaTrao"> 
+                  — No, non avete sbagliato vossignoria. È che <persName ref="#BiancaTrao" >Bianca</persName> non se ne intende,
+                  poveretta. È vero, <persName ref="#BiancaTrao" >Bianca</persName>, che non te ne intendi, di'?</q></p> 
+            <p><persName ref="#BiancaTrao" >Bianca</persName> disse di sì, chinando il capo, ubbidiente.</p>
+               <p><q who="#MariannaSganci" toWhom="#GesualdoMotta">— Sia per non detto. Non ne parliamo più.
+                  Ho fatto il mio dovere da buona zia, per cercare di mettervi d'accordo... 
+                  Anche oggi, laggiù, al <orgName type="place" ref="#Municipio" >Municipio</orgName>, 
+                  avete visto?... quello che vi feci dire dal <persName ref="#CanonicoLupi">canonico Lupi</persName>?...</q></p>
+            <p><q who="#CanonicoLupi">— <hi rend="italic">Lupus in fabula</hi>! —</q> esclamò costui entrando come in casa propria, col
+               cappello in testa, il mantello ondeggiante dietro, fregandosi le mani. <q who="#CanonicoLupi">— Sparlavate
+                  di me, eh? Mi sussurravano le orecchie...</q>.</p>
+               <p><q who="#MariannaSganci">— Voi piuttosto, <distinct ana="Buonalana">buonalana</distinct>! Avete la cera di chi ha preso il terno al lotto!</q></p>
+               <p><q who="#CanonicoLupi">— Il terno al lotto? Mi fate il contrappelo anche? Un povero diavolo <!--notaermen: lupo e diavolo-->che 
+                  s'arrabatta da mattina a sera!...</q></p>
+            <p><q who="#GesualdoMotta" toWhom="#CanonicoLupi">— Si discorreva della <distinct ana="#Gabella">gabella</distinct> delle terre...—</q>disse 
+               <persName ref="#GesualdoMotta" >don Gesualdo</persName> tranquillamente,
+               tirando su una presa, <q who="#GesualdoMotta" toWhom="#CanonicoLupi"> — così, per discorrere...</q>.</p>
+               
+             <pb n="211"></pb> 
+               
+               <p><q who="#CanonicoLupi">— Ah! ah! —</q> rispose il <rs type="person" ref="#CanonicoLupi" >canonico</rs>; 
+                  e si mise a guardare in aria. La <persName ref="#MariannaSganci">zia Sganci</persName>
+                  osservava lei pure i mobili nuovi, voltando la testa di qua e di là.</p>
+               <p><q who="#MariannaSganci">— Belli! belli! Me l'aveva detto la <persName ref="#SarinaCirmena">cugina Cirmena</persName>. 
+                  Peccato che non mi sentissi bene la sera del matrimonio...</q></p>
+            <p><q who="#CanonicoLupi" toWhom="#MariannaSganci">— E gli altri pure, <persName ref="#MariannaSganci" >signora donna Mariannina</persName>! —</q>
+               rispose il <rs type="person" ref="#CanonicoLupi" >canonico</rs> con 
+               una risatina. <q who="#CanonicoLupi" toWhom="#MariannaSganci">— Fu un'epidemia!...</q></p>
+               <p><q who="#MariannaSganci">— No! no! Posso assicurarvelo! in fede mia!...
+                  La <persName ref="#BaronessaRubiera" >Rubiera</persName>, poveretta!...
+                  E anche suo figlio... Lo sento sempre che si lagna...</q> <q who="#BiancaTrao" toWhom="#MariannaSganci">— Zia, come potrei?...—</q> 
+                  <persName ref="#MariannaSganci">Donna Mariannina</persName> 
+                  s'interruppe. <q who="#MariannaSganci">— Ma abbiamo detto di non parlarne più. Lui però si 
+                  duole di non poter venire a fare il suo dovere... Dissidi ce n'è sempre, dico io,
+                  anche tra fratelli e sorelle... Ma passeranno, coll'aiuto di Dio... Sai,
+                  <persName ref="#BiancaTrao" >Bianca</persName>? 
+                   tuo <rs ref="#NinìRubiera">cugino</rs> si marita. 
+                   Ora non c'è bisogno di far misteri perché tutto 
+                  è combinato. <persName ref="#FilippoMargarone">Don Filippo</persName> 
+                  dà la tenuta alla<placeName ref="#Salonia">  Salonia</placeName>, 
+                     trenta <distinct ana="#Salma">salme</distinct> di terra! Una bella dote.</q></p>
+               <p><persName ref="#BiancaTrao">Bianca</persName> ebbe un'ondata di sangue al viso, 
+                  indi divenne <distinct ana="#CencioLavato"> smorta come un cencio</distinct>; ma
+                  non si mosse né disse verbo.</p>
+               <p>Il <rs ref="#CanonicoLupi">canonico</rs> rispose lui invece, masticando ancora l'amaro.</p>
+               <p><q who="#CanonicoLupi">— Lo sappiamo! lo sappiamo! L'abbiamo capita oggi, 
+                  al <orgName type="place" ref="#Municipio" >Municipio</orgName>!...—</q> Infine
+                  non seppe più frenarsi, quasi bruciasse a lui la ferita.</p>
+               
+               <pb n="212"></pb>
+               
+            <p><q who="#CanonicoLupi">— La <persName ref="#BaronessaRubiera" >baronessa Rubiera</persName> 
+               ha cercato di <!-- -->dare il gambetto a me pure!... a me che
+               le avevo proposto l'affare!... Si è messa d'accordo cogli avversari! Tutti
+               contrari!... I parenti della moglie schierati contro il marito!... Uno scandalo
+               che non s'è mai visto... Hanno bandito un nuovo appalto per il ponte... onde 
+               fargli perdere la cauzione a questo disgraziato! Tutte le angherie!... Per la
+               costruzione delle nuove strade fanno venire i concorrenti 
+               sin da <placeName ref="#Caltagirone" type="real">Caltagirone</placeName> 
+               e da <placeName ref="#Lentini" type="real">Lentini</placeName>!...</q> 
+               — Di là almeno non ci capita addosso qualche altro parente!... — ha
+               detto il <persName ref="#BaroneMèndola" >barone Mèndola</persName>, colla sua stessa bocca,
+               nella <placeName type="place" ref="FarmaciaDiBomma"> farmacia </placeName>.</p>
+            <p><persName ref="#MariannaSganci" >Donna Marianna</persName> diventava di cento colori, e si mordeva le labbra per non spifferare
+               il fatto suo. <persName ref="#GesualdoMotta" >Don Gesualdo</persName> invece se la rideva tranquillamente, sdraiato sul 
+               suo bel canapè soffice, e a un certo punto gli chiuse anche la bocca colla mano,
+               al <rs ref="#CanonicoLupi" type="person">canonico</rs>.</p>
+            <p> <q who="#GesualdoMotta" >— Lasciate stare!... Queste son chiacchiere che non vanno al mulino. Ciascuno fa il suo interesse.</q></p>
+            <p><q who="#CanonicoLupi">— Dico per rispondere a <persName ref="#MariannaSganci" >donna Mariannina</persName> <ptr type="philol" target="#N_MDG_MariannaSganci"></ptr>.
+               Volete sentirne un'altra, eh? la più bella? Si sono pure messi d'accordo per vendere il grano <distinct ana="#ARottaDiCollo"> a rotta di collo </distinct>, e far
+               cascare i prezzi. Una <distinct ana="#Camorra">camorra</distinct>! Il <persName ref="#NinìRubiera">baronello Rubiera</persName> ha detto che non gliene 
+               importa di perdervi cent'<distinct ana="#Onza">onze</distinct>, pur di farne perdere mille a <persName ref="#GesualdoMotta" >don Gesualdo</persName>  
+               che ha i magazzini pieni... Al marito di sua cugina!
+            
+            <pb n="213"></pb>
+            
+            Vergogna! Ce n'ho venti salme anch'io, capite, vossignoria! Una birbonata!</q></p>
+            <p>Il <rs type="person" ref="#CanonicoLupi" >canonico</rs> andava scaldandosi maggiormente di mano in mano, rivolto a <persName ref="#GesualdoMotta">mastro-don 
+               Gesualdo</persName> <q who="#CanonicoLupi" toWhom="#GesualdoMotta #BiancaTrao #MariannaSganci">— Bel guadagno avete fatto a imparentarvi con loro. Chi l'avrebbe 
+               detto... eh? L'avete sbagliata!... Scusate, <persName ref="#BiancaTrao" >donna Bianca</persName>! non parlo per voi che
+               siete un tesoro!... Allora, cara <persName ref="#MariannaSganci">donna Mariannina</persName>!... allora, quand'è così, <seg type="phrase" ana="#seg_MDG_phrase_sansonefilistei">muoia
+                  Sansone con tutti i Filistei</seg>.</q></p>
+            <p><q who="#MariannaSganci" toWhom="#CanonicoLupi">—E lasciamoli morire, —</q> disse la <persName ref="#MariannaSganci" >signora Sganci</persName> alzandosi.
+               <q who="#MariannaSganci">— Già il mondo non 
+               finirà per questo. —</q> Come la <rs ref="#BiancaTrao" type="person">nipote</rs> s'era alzata anch'essa dal canapè, 
+               mortificata da tutti quei discorsi, colle braccia incrociate sul ventre, <persName ref="#MariannaSganci">donna 
+               Mariannina </persName>continuò ridendo e fissandole gli occhi addosso: <q who="#MariannaSganci" toWhom="#BiancaTrao">— È vero, Bianca,
+               che il mondo non lo lascerai finire, tu? —</q> <persName ref="#BiancaTrao" >Bianca</persName> tornò a farsi rossa. 
+               <q who="#MariannaSganci" toWhom="#BiancaTrao #GesualdoMotta">— Evviva!
+               Mi congratulo. Ora che avete questa bella casa dovete fare un bel battesimo...
+               con tutti i parenti... d'amore e d'accordo. Se no, perché li avrete spesi tanti denari?</q></p>
+            <p><persName ref="#GesualdoMotta">Don Gesualdo</persName> non voleva darla vinta ai suoi nemici, ma dentro si rodeva,
+               perché davvero non gli servivano gran cosa tutti quei denari spesi. <q who="#GesualdoMotta">— Eh, eh, —</q>
+               rispose con quel certo buon umore che voleva sfoggiare allora. <q who="#GesualdoMotta">— Pazienza!
+               Serviranno per chi verrà dopo di noi, se Dio vuole! —</q> E batteva affettuosamente 
+               sulla spalla della <rs ref="#BiancaTrao" type="person">moglie</rs>, amorevole e sorridente, 
+               
+               <pb n="214"></pb>
+               
+               mentre pensava pure che se i suoi figliuoli avessero avuto la stessa sorte, erano
+               proprio denari buttati via, tante fatiche, i guadagni stessi, sempre con quel 
+               bel risultato! Poi, quando la <persName ref="#MariannaSganci" >zia Sganci</persName> se ne fu andata, prese a brontolare 
+               contro di <persName ref="#BiancaTrao" >Bianca</persName>, che non si era messo il vestito buono per ricevere 
+               la <rs ref="#MariannaSganci" type="person">zia</rs>: <q who="#GesualdoMotta" toWhom="#BiancaTrao">— Allora
+               a che serve aver la <objectName ref="Roba">roba</objectName>? Diranno che ti tengo come una serva. Bel gusto spendere
+               i denari, per non goderne né noi né gli altri!</q></p>
+            <p><q who="#CanonicoLupi" toWhom="#GesualdoMotta">— Lasciamo stare queste sciocchezze, e parliamo di cose serie! —</q> interruppe
+               il <rs type="person" ref="#CanonicoLupi" >canonico</rs> che s'era riannuvolato in viso. 
+               <q who="#CanonicoLupi" toWhom="#GesualdoMotta">— C'è <distinct ana="UnCasaDelDiavolo">un casa del diavolo</distinct>. Cercano 
+               di aizzarvi contro tutto il paese, dicendo che avete le mani lunghe, e volete 
+               acchiappare quanta terra si vede cogli occhi <!-- vedi Mazzarò -->, per affamare la gente... Quella
+               bestia di <persName ref="#RobertoCiolla" >Ciolla</persName> va predicando per conto loro... Vogliono scatenarci contro
+                  anche i villani... a voi e a me, caro mio! Dicono che io <seg type="#seg_MDG_explgen_tengoilsacco">tengo il sacco</seg>... Non 
+               posso uscir di casa...</q>.</p>
+            <p><persName ref="#GesualdoMotta" >Don Gesualdo</persName> scrollava le spalle. <q who="#GesualdoMotta" toWhom="#CanonicoLupi">— Ah, i villani? Ne riparleremo poi, 
+               quando verrà l'inverno. Voi che paura avete?</q></p>
+            <p><q who="#CanonicoLupi" toWhom="#GesualdoMotta">— Che paura ho, per... mio!... Non sapete che
+               a <placeName ref="#Palermo">Palermo</placeName> hanno fatto la rivoluzione <ptr type="history" target="N_MDG_history_rivoluzione"></ptr>.</q></p>  
+            <p>Andò a chiudere l'uscio in punta di piedi, e tornò cupo, nero in viso.</p>
+            <p><q who="#CanonicoLupi" toWhom="#GesualdoMotta">— La <orgName ref="#Carboneria">Carboneria</orgName>, capite!... Anche qui hanno portato
+               
+               <pb n="215"></pb>
+               
+               questa bella novità! Posso parlare giacché non l'ho avuta sotto il suggello
+               della confessione. Abbiamo la sètta anche qui!</q></p>
+            <p>E spiegò cos'era la faccenda: far legge nuova e buttar giù coloro che avevano
+               comandato sino a quel giorno.</p>
+            <p><q who="#CanonicoLupi" toWhom="#GesualdoMotta">— Una sètta, capite? <persName ref="#Tavuso" >Tavuso</persName>,
+               mettiamo, al posto di <persName ref="#FilippoMargarone">Margarone</persName>; e tutti quanti 
+               colle mani in pasta! Ogni villano che vuole il suo pezzo di terra! pesci grossi
+               e minutaglia, tutti insieme. Dicono che vi è pure il figlio del Re, nientemeno!
+               il <rs type="person" ref="#FrancescoIBorbone" >Duca di Calabria</rs>.</q></p> 
+            <p><persName ref="#GesualdoMotta" >Don Gesualdo</persName>, ch'era stato ad ascoltare con tanto d'occhi aperti, scappò a dire:</p>
+            <p><q who="#GesualdoMotta" toWhom="#CanonicoLupi">— S'è così... ci sto anch'io! non cerco altro!... E me lo dite con quella
+               faccia? Mi avete fatto una bella paura, santo Dio!</q></p>
+            <p>L'altro rimase a bocca aperta: <q who="#CanonicoLupi" toWhom="#GesualdoMotta">— Che scherzate? O non sapete che voglia dire 
+               rivoluzione? <rs type="event" ref="RivoluzioneFrancese">Quel che hanno fatto in <placeName ref="#Francia" type="real">Francia</placeName>, capite?</rs> Ma voi non leggete la storia...</q><ptr type="history" target="#N_MDG_history_rivoluzionefrancese"></ptr></p>
+            <p><q who="#GesualdoMotta" toWhom="#CanonicoLupi">— No, no, —</q> disse don Gesualdo. <q who="#GesualdoMotta" toWhom="#CanonicoLupi">— Non me ne importa.</q></p>
+            <p><q who="#CanonicoLupi" toWhom="#GesualdoMotta">— Me ne importa a me: Rivoluzione vuol dire rivoltare il cesto, e quelli 
+               ch'erano sotto salire a galla: gli affamati, i nullatenenti!...</q></p>
+            <p><q who="#GesualdoMotta" toWhom="#CanonicoLupi">— Ebbene? Cos'ero io vent'anni fa?</q></p>
+            <p><q who="#CanonicoLupi" toWhom="#GesualdoMotta">— Ma adesso no! Adesso avete da perdere, cristiano
+               
+               <pb n="216"></pb> 
+               
+               santo! Sapete com'è? Oggi vogliono le terre del comune; e domani poi vorranno
+               anche le vostre e le mie! Grazie! grazie tante! Non ho dato l'anima al diavolo 
+               tanti anni per...</q>.</p>
+            <p><q who="#GesualdoMotta" toWhom="#CanonicoLupi">— Appunto! Bisogna aiutarsi per non andare in fondo al cesto, caro <rs type="person" ref="#CanonicoLupi">canonico</rs>! 
+               Bisogna tenersi a galla, se non vogliamo che i villani si servano colle sue mani,
+               Li conosco... so fare, non dubitate.</q></p>
+            <p>E spiegò meglio la sua idea: <seg type="phrase" ana="#seg_MDG_phrase_cavarelecastagne">cavar le castagne dal fuoco con le zampe del gatto</seg>;
+               <seg type="phrase" ana="#seg_MDG_phrase_tirareacquaalmulino">tirar l'acqua al suo mulino</seg>, e se capitava
+               <seg type="phrase" ana="#seg_MDG_phrase_achiappareilmestolo"> d'acchiappare anche il mestolo </seg>un 
+               quarto d'ora, e di <!-- dare il gambetto --> dare il gambetto a tutti quei pezzi grossi che non era
+               riescito ad ingraziarsi neppure sposando una di loro, senza dote e senza nulla,
+               tanto meglio...</p>
+            <p>Gli andarono in quel momento gli occhi su <persName ref="#BiancaTrao" >Bianca</persName> che stava rincantucciata sul 
+               canapè, smorta in viso dalla paura, guardando or questo e or quello, e non osava aprir bocca.</p>
+            <p><q who="#GesualdoMotta" toWhom="#BiancaTrao">— Non parlo per te, sai. Non me ne pento di quel che ho fatto. Non è stata
+               colpa tua. Tutti i negozi non riescono a un modo. Poi se capita di fare il bene, 
+               nel tempo stesso...</q></p>
+            <p>Il <rs type="person" ref="#CanonicoLupi" >canonico</rs> cominciava a capacitarsi, cogli occhi e la bocca di traverso, 
+               pensieroso, e appoggiava anche lui il discorso del socio: — Non si voleva torcere 
+               un pelo a nessuno... se si arrivava ad afferrare
+               
+               <pb n="217"></pb>
+               
+               il mestolo un po' di tempo... quante cose si farebbero...</p>
+            <p><q who="#GesualdoMotta" toWhom="#CanonicoLupi">— Voi dovreste farne una!... —</q> interruppe 
+               <persName ref="#GesualdoMotta" >don Gesualdo</persName>. <q who="#GesualdoMotta" toWhom="#CanonicoLupi">— Parlare con chi ha
+               le mani in questa faccenda, e dire che vogliamo esserci anche noi.</q></p>
+            <p><q who="#CanonicoLupi" toWhom="#GesualdoMotta">— Eh? Che dite?... un sacerdote!</q></p>
+            <p><q who= "#GesualdoMotta" toWhom="#CanonicoLupi"></q>— Lasciate stare, <rs type="person" ref="#CanonicoLupi">canonico</rs>!...
+               Poi se vi è il <rs ref="#FrancescoIBorbone" type="person">figlio del Re</rs>, potete esserci 
+               anche voi!</p>
+            <p><q who="#CanonicoLupi" toWhom="#GesualdoMotta">— Caspita! Al <rs ref="#FrancescoIBorbone" type="person">figlio del Re </rs> 
+               non gliela tagliano la testa, se mai!</q></p>
+            <p><q who="#GesualdoMotta" toWhom="#CanonicoLupi">— Non temete, che non ve la tagliano la testa! Già, se è come avete detto, 
+               dovrebbero tagliarla a un paese intero. Credete che non abbia fatto i miei conti,
+               in questo tempo?... Quando saremo lì, a veder quel che bolle in pentola... 
+               Bisogna mettersi vicino al mestolo... con un po' di giudizio... col danaro...
+               So io quello che dico.</q></p>
+            <p><persName ref="#BiancaTrao" >Bianca</persName> cominciò allora a balbettare:<q who="#BiancaTrao" toWhom="#GesualdoMotta"> — Oh Signore Iddio!... Cosa pensate di fare?...
+               Un padre di famiglia!... —</q> Il <rs type="person" ref="#CanonicoLupi" >canonico</rs>, indeciso, la guardava turbato, quasi
+               sentisse il laccio al collo. <persName ref="#GesualdoMotta">Don Gesualdo</persName> per rassicurarlo soggiunse:</p>
+            <p><q who="#GesualdoMotta" toWhom="#CanonicoLupi">— No, no. Mia moglie non sa cosa dice... Parla per soverchia affezione, 
+               poveretta. —</q> Poscia, mentre accompagnava il suo <rs type="person" ref="#CanonicoLupi" >socio</rs> in anticamera, soggiunse:</p>
+            <p><q who="#GesualdoMotta" toWhom="#CanonicoLupi">— Lo vedete? Comincia ad affezionarmisi. Già i figliuoli
+               
+               <pb n="218"></pb>               
+               sono un gran legame. Speriamo almeno che abbiano ad esser felici e contenti loro;
+               giacché io... Volete che ve la dica, eh, <rs type="person" ref="#CanonicoLupi" >canonico</rs>, come in punto di morte? Mi
+               sono ammazzato a lavorare... Mi sono ammazzato a far la <distinct ana="#Roba">roba</distinct>... Ora arrischio
+               anche la pelle, a sentir voi!... E che ne ho avuto, eh? ditelo voi !...</q></p>
+               
+         </div>    
+         </body>
+     <back>
+        <listPerson>
+			 
+		<person xml:id="FrancescoIBorbone">
+			<persName>Francesco I Borbone</persName>
+			<note>
+				<p>Franceco I di Borbone (Napoli 1777-1830), figlio del re Ferdinando I di Borbone, fu duca di Calabria e principe ereditario del regno delle due Sicilie. Già nel 1812, dopo aver abbandonato il trono di Napoli a Gioacchino Murat ed essersi rifugiato a Palermo, dove fu nominato vicario, mostrò tendenze liberali promulgando la Costituzione del 15 gennaio 1812, presto revocata da Ferdinando I. Attorno al 1820, in coincidenza con lo scoppio dei moti rivoluzionari, Francesco I fu richiamato dal padre, che intanto aveva recuperato il trono dopo la sconfitta napoleonica, a Napoli.</p>
+				<bibl sameAs="https://www.treccani.it/enciclopedia/francesco-i-re-delle-due-sicilie_(Enciclopedia-Italiana)/"/>
+				<figure>
+					<head>Francesco I di Borbone. De Falco Carlo (1798/ 1882)</head>
+					<graphic url="https://catalogo.beniculturali.it/detail/HistoricOrArtisticProperty/1500051014#lg=1&amp;slide=1"/>
+				</figure>
+			</note>
+		</person>
+			 
+		<person xml:id="GregorioIMagno">
+			<persName>Gregorio I detto Magno</persName>
+			<note>
+				<p>Santo patrono di Vizzini, Gregorio I, detto Magno, fu dottore della Chiesa e papa dal 590 al 604 d.C.</p>
+				<bibl sameAs="https://www.treccani.it/enciclopedia/santo-gregorio-i_(Dizionario-di-Storia)/">Enciclopedia Treccani</bibl>
+			   <figure>
+			      <head>San Gregorio Magno (Antonello da Messina)</head>
+			      <graphic url="/media/Antonello_da_Messina_gregoriomagno"/>
+			   </figure>
+			</note>
+		</person>
+			 
+		<person xml:id="GiovanniBattista">
+			<persName>Giovanni Battista</persName>
+			<note>
+				<p>Ultimo profeta dell'Antico Testamento e primo apostolo di Gesù Cristo, ne annuncia la venuta, pertanto è noto anche come il &quot;Precursore&quot;. Battezzò Cristo nel fiume Giordano. Di lui si celebra la data di nascita, oltre che quella del martirio</p>
+				<bibl sameAs="https://www.treccani.it/enciclopedia/santo-giovanni-battista/"/>
+			</note>
+		</person>
+			 
+		<person xml:id="DiegoTrao">
+			<persName>Diego Trao</persName>
+			<note>
+				<p>Fratello maggiore di Bianca e minore di Ferdinando, don Diego è un membro della nobile ma decaduta famiglia Trao. Grottesco, spesso avvolto in una vecchia palandrana, simbolo dei passati fastigi, rimane anacronisticamente legato agli antichi valori nobiliari e spera di riscattare la propria famiglia grazie alla &quot;lite&quot; contro la corona di Spagna.</p>
+			</note>
+		</person>
+			 
+		<person xml:id="FerdinandoTrao">
+			<persName>Ferdinando Trao</persName>
+			<note>
+				<p>Fratello maggiore di Bianca e Diego, don Ferdinando è un membro della famiglia Trao. Viene considerato da tutti stupido. </p>
+			</note>
+		</person>
+			 
+		<person xml:id="BiancaTrao">
+			<persName>Bianca Trao</persName>
+			<note>
+				<p>Sorella minore di Diego e Ferdinando, è di salute cagionevole, non è di bell'aspetto e, soprattutto, non ha dote.</p>
+			</note>
+		</person>
+			 
+		<person xml:id="NinìRubiera">
+			<persName>Ninì Rubiera</persName>
+			<note>
+				<p>Figlio dei baroni Rubiera. All'inizio del romanzo è un giovane scapestrato, coinvolto in diverse relazioni, tra cui quella con Bianca Trao e, poi, quella con la Prima donna Aglae. Propenso a sperperare i propri averi, è perciò spesso in conflitto con la madre, almeno finché questa non si ammala. Trasformato in un fedele custode della roba, sposerà per ragioni economiche, donna Giuseppina Alòsi. </p>
+			</note>
+		</person>
+			 
+		<person xml:id="GesualdoMotta">
+			<persName>Gesualdo Motta</persName>
+			<note>
+				<p>Gesualdo Motta, il protagonista, è un manovale che si è arricchito grazie agli appalti, guadagnandosi pertanto il titolo di &quot;don&quot;, attribuito di norma agli aristocratici. </p>
+			</note>
+		</person>
+			 
+		<person xml:id="Cosimo">
+			<persName>mastro Cosimo</persName>
+			<note>
+				<p>Il falegname</p>
+			</note>
+		</person>
+			 
+		<person xml:id="DonLuca">
+			<persName>Don Luca </persName>
+			<note>
+				<p>Il sagrestano; ama suonare le campane. Anch'egli coinvolto nell'affare del matrimonio di Bianca e Gesualdo, opera azione di convincimento sulla giovane donna assieme al Canonico Lupi. Con la moglie, è uno dei pochi a fornire costante assistenza alla decadente famiglia Trao. </p>
+			</note>
+		</person>
+			 
+		<person xml:id="Pelagatti">
+			<persName>Pelagatti</persName>
+			<note>
+				<p/>
+			</note>
+		</person>
+			 
+		<person xml:id="Giacalone">
+			<persName>Giacalone</persName>
+			<note>
+				<p>Il garzone</p>
+			</note>
+		</person>
+			 
+		<person xml:id="SantoMotta">
+			<persName>Santo Motta</persName>
+			<note>
+				<p>Fratello di Gesualdo Motta, è noto a tutti per la sua indolenza. </p>
+			</note>
+		</person>
+			 
+		<person xml:id="SperanzaMotta">
+			<persName>Speranza Motta</persName>
+			<note>
+				<p>Sorella di Gesualdo Motta, nonché moglie di Massaro Burgio, è avida e aggressiva, ostile al fratello. </p>
+			</note>
+		</person>
+			 
+		<person xml:id="FamigliaTrao">
+			<persName>Famiglia Trao</persName>
+			<note>
+				<p>Famiglia aristocratica ormai decaduta. Vanta le proprie origini a partire da un ramo illeggittimo della dinastia aragonese-catalana. Il loro motto è &quot;Virtutem a sanguine traho&quot;, inciso su stemma rosso con tre gigli su sbarra. </p>
+			</note>
+		</person>
+			 
+		<person xml:id="FortunatoBurgio">
+			<persName>Fortunato Burgio</persName>
+			<note>
+				<p>Marito di donna Speranza Motta e cognato di Gesualdo, viene spesso rappresentato inebetito come un allocco. </p>
+			</note>
+		</person>
+			 
+		<person xml:id="NanniOrbo">
+			<persName>Nanni l'Orbo</persName>
+			<note>
+				<p>Diminutivo di Giovanni, è definito Orbo secondo l'uso siciliano di attribuire un soprannome, una 'ngiuria, alle persone o alle famiglie (si veda Malavoglia per la famiglia Toscano). Questo soprannome, però, connota la figura di un certo grado di comicità, dato che è attribuito in maniera antifrastica, essendo Nanni dotato di una vista acuta, tanto da fargli scorgere una figura misteriosa nella camera di Bianca (che poi si rivelerà essere Ninì Rubiera) la notte dell'incendio. </p>
+			</note>
+		</person>
+			 
+		<person xml:id="NunzioMotta">
+			<persName>Nunzio Motta</persName>
+			<note>
+				<p>Il padre di Gesualdo</p>
+			</note>
+		</person>
+			 
+		<person xml:id="FamigliaMotta">
+			<persName>Famiglia Motta</persName>
+			<note>
+				<p>Composta da Gesualdo; il padre, mastro Nunzio; la sorella Speranza e il fratello Santo. </p>
+			</note>
+		</person>
+			 
+		<person xml:id="Capitano">
+			<persName>Capitano</persName>
+			<note>
+				<p>Capo della polizia locale</p>
+			</note>
+		</person>
+			 
+		<person xml:id="AvvocatoFiscale">
+			<persName>Avvocato Fiscale</persName>
+			<note>
+				<p>Avvocato del fisco con competenze in materia di gabelle ed erario (e cause ad esso legate)</p>
+			</note>
+		</person>
+			 
+		<person xml:id="LiccioPapa">
+			<persName>Liccio Papa</persName>
+			<note>
+				<p>Don Liccio Papa è il capo delle guardie ed è anche il protagonista di una delle Novelle Rusticane cui dà il titolo, Don Licciu Papa appunto. </p>
+			</note>
+		</person>
+			 
+		<person xml:id="FamigliaMargarone">
+			<persName>Famiglia Margarone</persName>
+			<note>
+				<p>Aristocratica, facoltosa e numerosa famiglia, composta dal padre, nonché capo famiglia, don Filippo, dalla moglie donna Bellonia, e dai figli: donna Fifì, la maggiore, donna Giovannina, donna Mita e il piccolo Nicolino. Nel secondo capitolo della prima parte si apprendono notizie anche sui genitori di don Filippo: la madre di don Filippo fu mandata in campagna, alla Salonia, dal marito don Nicola Margarone dopo che quest'ultimo ebbe scoperto la relazione adulterina della moglie con il marchese Limòli.</p>
+			</note>
+		</person>
+			 
+		<person xml:id="FilippoMargarone">
+			<persName>Filippo Margarone</persName>
+			<note>
+				<p>Don Filippo Margarone, aristocratico tronfio e ricco possidente. </p>
+			</note>
+		</person>
+			 
+		<person xml:id="Tavuso">
+			<persName>Dottor Tavuso</persName>
+			<note>
+				<p>Il dottore di paese, è solito stare alla farmacia di Bomma ed è capo di tutti i giacobini del paese</p>
+			</note>
+		</person>
+			 
+		<person xml:id="AgrippinaMacrì">
+			<persName>Agrippina Macrì</persName>
+			<note>
+				<p>Una parente povera dei Trao</p>
+			</note>
+		</person>
+			 
+		<person xml:id="BaroneMèndola">
+			<persName>Barone Mendola</persName>
+			<note>
+				<p/>
+			</note>
+		</person>
+			 
+		<person xml:id="SarinaCirmena">
+			<persName>zia Cirmena</persName>
+			<note>
+				<p>Parente dei Trao, è pettegola e maligna.</p>
+			</note>
+		</person>
+			 
+		<person xml:id="CanonicoLupi">
+			<persName>Canonico Lupi</persName>
+			<note>
+				<p>Esponente del clero, astuto e scaltro. Inizialmente fiduciario della baronessa Rubiera, si rivelerà presto un importante alleato di Gesualdo Motta. È tra i principali fautori del matrimonio fra Bianca e Gesualdo. </p>
+			</note>
+		</person>
+			 
+		<person xml:id="BaronessaRubiera">
+			<persName>Baronessa Rubiera</persName>
+			<note>
+				<p>Madre di Ninì e quindi cugina dei Trao, nasce in realtà da una famiglia contadina, che poi si è arricchita e ha acquisito i beni dei Rubiera.</p>
+			</note>
+		</person>
+			 
+		<person xml:id="MariannaSganci">
+			<persName>Marianna Sganci</persName>
+			<note>
+				<p>Donna Marianna Sganci è parente dei Trao. Una delle poche a frequentare casa Motta-Trao, sebbene fosse tra gli assenti al matrimonio. Divenuta col tempo sorda e cieca, morirà in seguito all'epidemia di colera.</p>
+			</note>
+		</person>
+			 
+		<person xml:id="MembroTrao">
+			<persName>Un Trao</persName>
+			<note>
+				<p>Un membro del nobile casato dei Trao</p>
+			</note>
+		</person>
+			 
+		<person xml:id="AlfonsoLimòli">
+			<persName>Marchese Alfonso Limòli</persName>
+			<note>
+				<p>Marchese Alfonso Limòli, zio dei fratelli Trao e padrino della figlia di Bianca e Gesualdo, Isabella. È forse il solo tra i parenti dei Trao a comprendere la nipote e a nutrire un sincero affetto nei suoi confronti. Secondo Mazzacurati (1992: nota 333-43) il vecchio «libertino» (cioè seduttore, ma anche libero pensatore), come spesso è definito dagli altri personaggi, è un «beniamino del narratore».</p>
+			</note>
+		</person>
+			 
+		<person xml:id="Peperito">
+			<persName>Cavalierie Peperito</persName>
+			<note>
+				<p>A lungo spasimante di donna Giueppina Alòsi, il cavaliere ambisce soprattutto al suo patrimonio. Partecipa ai lavori dell'asta per le terre comunali, sostenendo la nobiltà a scapito di don Gesualdo. Morirà infine di colera. </p>
+			</note>
+		</person>
+			 
+		<person xml:id="GiuseppinaAlòsi">
+			<persName>Donna Giuseppina Alòsi</persName>
+			<note>
+				<p>Facoltosa vedova, madre di quattro figli, è oggetto del corteggiamento di Peperito, al quale è interessata, e di Canali. Sposerà invece Ninì Rubiera, più giovane di lei.</p>
+			</note>
+		</person>
+			 
+		<person xml:id="Canali">
+			<persName>Canali</persName>
+			<note>
+				<p>Esponente della borghesia, è sempre dalla parte dei ricchi possidenti e dell'aristrocrazia, come ad esempio don Filippo Margarone e, poi, nella quarta parte, il barone Ninì Rubiera. Non a caso, in occasione dell'asta delle terre comunali sostiene l'aristocrazia, tentando la mediazione con mastro-don Gesualdo. L'aspirazione ad arricchirsi e a far parte dell'aristocrazia locale si evince anche dal corteggiamento alla facoltosa Giuseppina Alòsi.   </p>
+			</note>
+		</person>
+			 
+		<person xml:id="NotaroNeri">
+			<persName>Notaro Neri</persName>
+			<note>
+				<p>Il notaio del paese. svolge un ruolo importante nelle operazioni di mediazione tra le parti, ma è prevalentemente in alleanza con gli esponenti dell'aristocrazia, come dimostra l'episodio dell'asta delle terre comunali. DI lui il narratore dice che, per via della sua professione, sapeva i fatti di tutto il paese. </p>
+			</note>
+		</person>
+			 
+		<person xml:id="RobertoCiolla">
+			<persName>Rioberto Ciolla</persName>
+			<note>
+				<p>Ciolla, come più spesso è chiamato, è uno dei frequentatori della farmacio di Bomma, è coinvolto nelle iniziative relative ai moti degli anni Venti ed è considerato un «arruffapopolo». In quanto intellettuale, è anche richiesto per scrivere lettere d'amore. </p>
+			</note>
+		</person>
+	</listPerson>
+	<listPlace>
+			 
+		<place xml:id="ChiesaDiSanGiovanniBattista">
+			<placeName>Basilica di San Giovanni Battista</placeName>
+			<location>
+				<geo>37°09′35.53″N 14°45′09.72″E</geo>
+			</location>
+			<note>
+				<p/>
+				<ref target="https://www.openstreetmap.org/way/128943774">OpenStreetMap</ref>
+			</note>
+		</place>
+			 
+		<place xml:id="Vizzini">
+			<placeName>Vizzini</placeName>
+			<location>
+				<geo>37°10′N 14°45′E</geo>
+			</location>
+			<note>
+				<p>Benché non esplicito (non lo è mai nell'edizione del 1889), il riferimento è a Vizzini, comune della provincia di Catania, sito fra il capoluogo etneo e Ragusa, dove la stessa famiglia Verga aveva proprietà e dove lo scrittore aveva soggiornato nel 1854 per sfuggire a un'epidemia di colera, per tornarvi ancora fra il 1888 e il 1889 per la revisione del romanzo.</p>
+				<ref target="https://www.openstreetmap.org/relation/39194">OpenStreetMap</ref>
+			</note>
+		</place>
+			 
+		<place xml:id="ChiesaSantAgata">
+			<placeName>Chiesa di Sant'Agata</placeName>
+			<location>
+				<geo/>
+			</location>
+			<note>
+				<p/>
+				<ref target="https://www.openstreetmap.org/way/128999531">OpenStreetMap</ref>
+			</note>
+		</place>
+			 
+		<place xml:id="Àlia">
+			<placeName>Àlia</placeName>
+			<location>
+				<geo/>
+			</location>
+			<note>
+				<p>Zona boschiva vicino Vizzini</p>
+			</note>
+		</place>
+			 
+		<place xml:id="ChiesaSanVito">
+			<placeName>Basilica di San Vito</placeName>
+			<location>
+				<geo/>
+			</location>
+			<note>
+				<p/>
+				<ref target="https://www.openstreetmap.org/way/129027647">OpenStreetMap</ref>
+			</note>
+		</place>
+			 
+		<place xml:id="ChiesaSanGregorioMagno">
+			<placeName>Chiesa di San Gregorio Magno</placeName>
+			<location>
+				<geo>37.16110°N 14.74429°E</geo>
+			</location>
+			<note>
+				<p>Intitolata a San Gregorio Magno, patrono del paese, è la chiesa madre di Vizzini. </p>
+				<ref target="https://www.openstreetmap.org/way/128944149">OpenStreetMap</ref>
+			</note>
+		</place>
+			 
+		<place xml:id="CollegioSantaMariaGreci">
+			<placeName>Collegio di Santa Maria dei Greci</placeName>
+			<location>
+				<geo/>
+			</location>
+			<note>
+				<p>Poco distante da casa Motta e palazzo Trao, vi sarà mandata Isabella.</p>
+			</note>
+		</place>
+			 
+		<place xml:id="ChiesaSantaMariaGreci">
+			<placeName>Chiesa di Santa Maria dei Greci</placeName>
+			<location>
+				<geo/>
+			</location>
+			<note>
+				<p>Sita fra il Castello e la Chiesa Madre, ai quali pare fosse collegata, si trova vicino a quello che è considerato Palazzo Trao</p>
+				<ref target="https://www.openstreetmap.org/way/129026715">OpenStreetMap</ref>
+			</note>
+		</place>
+			 
+		<place xml:id="ChiesaSanSebastiano">
+			<placeName>Chiesa di San Sebastiano</placeName>
+			<location>
+				<geo/>
+			</location>
+			<note>
+				<p/>
+				<ref target="https://www.openstreetmap.org/way/129005200">OpenStreetMap</ref>
+			</note>
+		</place>
+			 
+		<place xml:id="PalazzoTrao">
+			<placeName>Palazzo Trao</placeName>
+			<location>
+				<geo/>
+			</location>
+			<note>
+				<p>Casa della famiglia Trao, il palazzo viene subito descritto come una vecchia bicocca fatiscente ed è il simbolo della decadenza della nobile famiglia che ancora lo abita. </p>
+			</note>
+		</place>
+			 
+		<place xml:id="PiazzaGrande">
+			<placeName>Piazza Grande</placeName>
+		</place>
+			 
+		<place xml:id="PiazzettaDiSantAgata">
+			<placeName/>
+			<location>
+				<geo/>
+			</location>
+			<note>
+				<p>Piazzetta antistante la chiesa di Sant'Agata</p>
+			</note>
+		</place>
+			 
+		<place xml:id="FarmaciaDiBomma">
+			<placeName>Farmacia di Bomma</placeName>
+			<location>
+				<geo>luogo di finzione</geo>
+			</location>
+			<note>
+				<p>Di proprietà di Arcangelo Bomma, la spezieria è un vero e proprio &quot;luogo sociale&quot; (Luperini) e costituisce l'analogo borghese del Caffè dei Nobili, rispetto al quale si colloca dirimpetto.</p>
+			</note>
+		</place>
+			 
+		<place xml:id="Fontanarossa">
+			<placeName>Fontanarossa</placeName>
+			<location>
+				<geo/>
+			</location>
+			<note>
+				<p>Terreni di proprietà del Barone Zacco, nei pressi di Catania. </p>
+			</note>
+		</place>
+			 
+		<place xml:id="Salonia">
+			<placeName/>
+			<location>
+				<geo/>
+			</location>
+			<note>
+				<p>Nei pressi di Vizzini. Don Filippo Margarone e Gesualdo vi possiedono dei terreni.</p>
+			</note>
+		</place>
+			 
+		<place xml:id="Caltagirone">
+			<placeName>Caltagirone</placeName>
+			<location>
+				<geo>37° 14′ 0″ N, 14° 31′ 0″ E</geo>
+			</location>
+			<note>
+				<p>Oggi è un comune della città metropolitana di Catania, posta a cavallo tra la pianura di Catania e quella di Gela. A Nord-ovest rispetto a Vizzini</p>
+				<ref target="https://www.openstreetmap.org/relation/39180">OpenStreetMap</ref>
+			</note>
+		</place>
+			 
+		<place xml:id="Lentini">
+			<placeName>Lentini</placeName>
+			<location>
+				<geo>37° 17′ 0″ N, 15° 0′ 0″ E</geo>
+			</location>
+			<note>
+				<p>Oggi è un comune in provincia di Siracusa. Confina con il margine meridionale della piana di Catania. A nord-est rispetto a Vizzini. </p>
+				<ref target="https://www.openstreetmap.org/relation/39210">OpenStreetMap</ref>
+			</note>
+		</place>
+			 
+		<place xml:id="Palermo">
+			<placeName>Palermo</placeName>
+			<location>
+				<geo>38° 6′ 56.37″ N, 13° 21′ 40.54″ E</geo>
+			</location>
+			<note>
+				<p>Oggi capoluogo siciliano. Dal 1736 Palermo passò in mano alla dinastia dei Borboni. il Regno di Sicilia e quello di Napoli rimasero separati sino al 1816, cioè all'indomani della Restaurazione, quando vennero unificati nel Regno delle Due Sicilie da Ferdinando di Borbone. In breve tempo Palermo, sede del Parlamento siciliano, divenne il secondo centro amministrativo dopo Napoli, ormai capitale del Regno.</p>
+				<ref target="https://www.openstreetmap.org/relation/39513">OpenStreetMap</ref>
+			</note>
+		</place>
+			 
+		<place xml:id="PalazzoDiCittà">
+			<placeName>Palazzo di Città o Municipio</placeName>
+			<location>
+				<geo/>
+			</location>
+			<note>
+				<p>Il Palazzo di Città di Vizzini fu progettato nel 1800 dall'archietto Corrado Mazza di Noto. Ospita i locali del Municipio. Nel romanzo vi si svolge l'asta delle terre comunali. </p>
+				<ref target="https://www.openstreetmap.org/way/128879680">OpenStreetMap</ref>
+			</note>
+		</place>
+	</listPlace>
+	<listOrg>
+			 
+		<org xml:id="Carboneria">
+			<orgName>Carboneria</orgName>
+			<note>
+				<p>Società segreta della prima metà del XIX sec, nata in Italia meridionale durante il regno di Gioacchino Murat, si estese presto nel resto d'Italia e in Francia. Ebbe un ruolo di primo piano nell'elaborazione dei moti degli anni Venti e Trenta del XIX sec, sorti per opporsi ai governi assoluti e per richiedere la concessione di uno statuto. Il giovanissimo Giovanni Verga aveva già narrato i fervori della lotta per l'indipendenza dei carbonari italiani contro i francesi, durante il regno di Murat, nei quattro volumi dei &quot;Carbonari delle Montagne&quot; (1861-62)</p>
+			</note>
+		</org>
+			 
+		<org xml:id="Giustizia">
+			<orgName>Giustizia</orgName>
+			<note>
+				<p>Si intende genericamente l'insieme dei rappresentanti dello Stato e della sua legge. </p>
+			</note>
+		</org>
+	</listOrg>
+	<listEvent>
+			 
+		<event xml:id="Immacolata">
+			<eventName>Immacolata</eventName>
+			<note>
+				<p>Si celebra l'origine priva di peccato della Vergine. Il dogma dell'Immacolata concezione fu istituito da Pio IX nel 1854 con la bolla Ineffabilis Deus. </p>
+			</note>
+		</event>
+			 
+		<event xml:id="RivoluzioneFrancese" from="1879" to="1799">
+			<eventName>Rivoluzione francese</eventName>
+			<note>
+				<p/>
+			</note>
+		</event>
+	</listEvent>
+	<list type="term">
+			 
+		<item xml:id="Cacciatora">
+			<term>Cacciatora</term>
+			<gloss>Giacca ampia e comoda, con larghe tasche, usata dai cacciatori. </gloss>
+			<note>
+				<p/>
+			</note>
+			<ref target="https://www.gdli.it/pdf_viewer/Scripts/pdf.js/web/viewer.asp?file=/PDF/GDLI02/GDLI_02_ocr_487.pdf&amp;parola=">GDLI, vol II: 482</ref>
+		</item>
+			 
+		<item xml:id="Doppia">
+			<term>Doppia o Duppia</term>
+			<gloss>Moneta d'oro dal valore di circa due onze</gloss>
+			<note>
+				<p>Duppia in sic. (s.f.), da &quot;Dobla&quot;: moneta d'oro che valeva circa due onze (poco più di 5 lire di allora, chiarisce Luperini, p. 155).</p>
+			</note>
+			<ref target="https://www.gdli.it/pdf_viewer/Scripts/pdf.js/web/viewer.asp?file=/PDF/GDLI04/GDLI_04_ocr_962.pdf&amp;parola=">GDLI; Mortillaro 1853</ref>
+		</item>
+			 
+		<item xml:id="Onza">
+			<term>Oncia</term>
+			<gloss>Unità di misura</gloss>
+			<note>
+				<p>«Unità di misura monetaria siculo-italiota, adottata poi dai Romani (presso i quali equivaleva a un dodicesimo dell’asse); moneta reale, con valore diverso a seconda del conio e del momento storico, usata in diversi Stati italiani per tutto il Medio Evo e fino all’unificazione nazionale, soprattutto in Sicilia.»</p>
+			</note>
+			<ref target="https://www.gdli.it/pdf_viewer/Scripts/pdf.js/web/viewer.asp?file=/PDF/GDLI11/GDLI_11_ocr_962.pdf&amp;parola=">GDLI , vol XI: 962</ref>
+		</item>
+			 
+		<item xml:id="Salma">
+			<term>Salma</term>
+			<gloss>Unità di misura per le superfici agrarie</gloss>
+			<note>
+				<p>In Sicilia corrispondeva a circa 17.462 . Tra gli esempi portati dal GDLI proprio MdG, parte II, cap. I., p. 205</p>
+			</note>
+			<ref target="https://www.gdli.it/pdf_viewer/Scripts/pdf.js/web/viewer.asp?file=/PDF/GDLI17/GDLI_17_ocr_424.pdf&amp;parola=">GDLI , vol XVII:424</ref>
+		</item>
+			 
+		<item xml:id="Tarì">
+			<term>Tarì</term>
+			<gloss>Moneta d'argento</gloss>
+			<note>
+				<p>«Tari {terì), sm. Numism. Moneta presente negli an­tichi regni meridionali, in origine d’oro e coniata in Sicilia dai califfi fatimiti, ad Amalfi e Salerno dai prìncipi normanni, in séguito d’argento, in uso presso il regno aragonese di Sicilia e corrispondente a due carlini. - Anche: il doppio carlino del Regno di Napoli.»</p>
+			</note>
+			<ref target="https://www.gdli.it/pdf_viewer/Scripts/pdf.js/web/viewer.asp?file=/PDF/GDLI20/GDLI_20_ocr_746.pdf&amp;parola=">GDLI, vol XX:746</ref>
+		</item>
+			 
+		<item xml:id="Gabella">
+			<term>Gabella</term>
+			<gloss>Gabella </gloss>
+			<note>
+				<p>«Il diritto che lo Stato si riservava di ven­dere sotto forma di monopolio un determinato bene di consumo»</p>
+			</note>
+			<ref target="https://www.gdli.it/pdf_viewer/Scripts/pdf.js/web/viewer.asp?file=/PDF/GDLI06/GDLI_06_ocr_529.pdf&amp;parola=">GDLI</ref>
+		</item>
+			 
+		<item xml:id="DormireDellaGrossa">
+			<term>Dormire della grossa</term>
+		   <gloss>dormire profondamente. Il termine “grossa” si riferisce all’ultima delle quattro fasi di crescita delle larve del baco da seta, che, durante l’allevamento, cadevano in un letargo di trenta-quaranta giorni. </gloss>
+			<ref target="https://www.treccani.it/magazine/lingua_italiana/domande_e_risposte/lessico/lessico_037.html">Treccani</ref>
+		</item>
+			 
+		<item xml:id="AMezzaGamba">
+			<term>Gamba</term>
+			<gloss>fino al polpaccio</gloss>
+			<note>
+				<p>Da una parte indica il rigoglio dei seminati, dall'altra l'incuria al quale è lasciato il cortile di palazzo Trao</p>
+			</note>
+			<ref target="https://www.gdli.it/pdf_viewer/Scripts/pdf.js/web/viewer.asp?file=/PDF/GDLI06/GDLI_06_ocr_575.pdf&amp;parola="/>
+		</item>
+			 
+		<item xml:id="Pistolone">
+			<term>Pistola</term>
+			<gloss>Pistola</gloss>
+			<note>
+				<p>La pistola arrugginita era nascosta fra la paglia, in quanto, nello stato borbonico, vigeva il divieto di porto d'armi per contadini e borghesi</p>
+			</note>
+		</item>
+			 
+		<item xml:id="TorreDiBabele">
+			<term>Babele</term>
+			<gloss>Confusione</gloss>
+			<note>
+				<p>Riferimento al libro della Genesi (11, 1-9): gli abitanti di Sennaar (città della Mesopotamia) costruirono un'alta torre per raggiungere il cielo. Dio punì la loro presunzione confondendone le lingue. </p>
+			</note>
+			<ref target="https://www.gdli.it/pdf_viewer/Scripts/pdf.js/web/viewer.asp?file=/PDF/GDLI01/GDLI_01_ocr_929.pdf&amp;parola="/>
+		</item>
+			 
+		<item xml:id="ComeUnAllocco">
+			<term>Allocco</term>
+			<gloss>Rimanere immobile</gloss>
+			<note>
+				<p/>
+			</note>
+			<ref target="https://www.gdli.it/pdf_viewer/Scripts/pdf.js/web/viewer.asp?file=/PDF/GDLI01/GDLI_01_ocr_339.pdf&amp;parola="/>
+		</item>
+			 
+		<item xml:id="Girandolare">
+			<term>Girandolare</term>
+			<gloss>Girovagare, andare in giro senza meta</gloss>
+			<note>
+				<p>Di area settentrionale</p>
+			</note>
+			<ref target="https://www.gdli.it/pdf_viewer/Scripts/pdf.js/web/viewer.asp?file=/PDF/GDLI06/GDLI_06_ocr_845.pdf&amp;parola="/>
+		</item>
+			 
+		<item xml:id="CannaDIndia">
+			<term>Canna</term>
+			<gloss>Bastone da passeggio</gloss>
+			<note>
+				<p>Metonimicamente indica il bastone e denota il lignaggio di don Filippo Margarone</p>
+			</note>
+		</item>
+			 
+		<item xml:id="Cucco">
+			<term>Allocco</term>
+			<gloss>Balordo, stolido</gloss>
+			<note>
+				<p>In senso figurato </p>
+			</note>
+			<ref target="https://www.gdli.it/pdf_viewer/Scripts/pdf.js/web/viewer.asp?file=/PDF/GDLI01/GDLI_01_ocr_339.pdf&amp;parola="/>
+		</item>
+			 
+		<item xml:id="Limosina">
+			<term>Elemosina</term>
+			<gloss>Elemosina</gloss>
+			<note>
+				<p>All'epoca di Verga già in disuso; probabilmente lo scrittore risente dell'influenza della voce dialettale siciliana (&quot;limosina&quot;, appunto)</p>
+			</note>
+		</item>
+			 
+		<item xml:id="TestaDiCorno">
+			<term>Testa di corno</term>
+			<gloss>Persona testarda, testa dura.</gloss>
+		</item>
+			 
+		<item xml:id="Becco">
+			<term>Becco</term>
+			<gloss>Marito tradito, cornuto.</gloss>
+			<ref target="https://www.gdli.it/pdf_viewer/Scripts/pdf.js/web/viewer.asp?file=/PDF/GDLI02/GDLI_02_ocr_145.pdf&amp;parola=">GDLI, vol 2: 145</ref>
+		</item>
+			 
+		<item xml:id="CuorContento">
+			<term>Cuor contento</term>
+			<gloss>Chi si contenta di una situazione scabrosa e addirttura ne approfitta, come un marito che accondiscende al tradimento della moglie pur di ottenere vantaggi economici e sociali. (Luperini 1992: 157 e Mazzacurati 1992: 194)</gloss>
+		</item>
+			 
+		<item xml:id="Redentore">
+			<term>Redentore</term>
+			<gloss>Associato ad improperi come &quot;becco&quot; e &quot;cuor contento&quot;, chi ha redento la donna traviata sposandola.</gloss>
+		</item>
+			 
+		<item xml:id="Camorra">
+			<term>Una Camorra</term>
+			<gloss>Accordo disonesto, fraudolento.</gloss>
+			<note>
+				<p>Camurra (sic.) è «qualunque prepotenza, trufferia organizzata» (Traina 1868: 147)</p>
+			</note>
+			<ref target="/">Traina 1868:147</ref>
+		</item>
+			 
+		<item xml:id="Baiocco">
+			<term>Baiocco</term>
+			<gloss>Moneta</gloss>
+			<note>
+				<p>Moneta romana, prima d’argento, poi di rame diffusa nello Stato Pontificio fino al sec. XIX ; per estensione vale anche “denaro”, “soldo”, “moneta di scarso valore”.</p>
+			</note>
+			<ref target="https://www.gdli.it/pdf_viewer/Scripts/pdf.js/web/viewer.asp?file=/PDF/GDLI01/GDLI_01_ocr_957.pdf&amp;parola=">GDLI, vol. I: 948</ref>
+		</item>
+			 
+		<item xml:id="Buonalana">
+			<term>Buonalana</term>
+			<gloss>Cattivo soggetto, disonesto, anche con ironica benevolenza</gloss>
+			<note>
+				<p>In siciliano, stando a quanto riportato da Traina (1868: 124), l'espressione &quot;bonalana&quot; è usata con tono scherzoso</p>
+			</note>
+			<ref target="https://www.gdli.it/pdf_viewer/Scripts/pdf.js/web/viewer.asp?file=/PDF/GDLI08/GDLI_08_ocr_736.pdf&amp;parola=">GDLI, vol 8: 736; Traina 1868:124</ref>
+		</item>
+			 
+		<item xml:id="Proditorio">
+			<term>Tradimento</term>
+			<gloss>Usato come sostantivo, e non come aggettivo, è derivato dal siciliano: &quot;fari un proditoriu&quot; (Cfr. Luperini 1992: 163)</gloss>
+			<note>
+				<p/>
+			</note>
+		</item>
+			 
+		<item xml:id="CencioLavato">
+			<term>Cencio lavato</term>
+			<gloss>Panno lavato. In senso figurato pallido.</gloss>
+			<note>
+				<p>Pallido come un panno appena lavato, a indicare uno stato di indebolimento fisico o di prostrazione morale. Verga usa anche la variante “esser smorto come un cencio”.</p>
+			</note>
+			<ref target="https://www.gdli.it/pdf_viewer/Scripts/pdf.js/web/viewer.asp?file=/PDF/GDLI02/GDLI_02_ocr_964.pdf&amp;parola= ; https://www.gdli.it/pdf_viewer/Scripts/pdf.js/web/viewer.asp?file=/PDF/GDLI02/GDLI_02_ocr_965.pdf&amp;parola="/>
+		</item>
+			 
+		<item xml:id="UnCasaDelDiavolo">
+			<term>Un gran rumore</term>
+			<gloss>L’articolo al maschile è giustificato dall'uso siciliano: “fari un casa di diavulu” (Traina 1868:172)</gloss>
+			<note>
+				<p/>
+			</note>
+			<ref target="/">Traina 1868:172</ref>
+		</item>
+			 
+		<item xml:id="ARottaDiCollo">
+			<term>A rotta di collo</term>
+			<gloss>Loc. avv. Ha due accezioni: la più frequente è “in gran fretta, a tutta velocità”; la seconda, con basso uso nell'italiano corrente, è &quot;andare in rovina, in malora&quot;.</gloss>
+			<note>
+				<p/>
+			</note>
+		</item>
+	</list>
+	<list type="proverbio">
+			 
+		<item xml:id="seg_MDG_phrase_guardaquelchesono">
+			<label>Guardami quel che sono, e non quello che fui</label>
+			<note>
+				<p>Una variante del medesimo proverbio appare in Il Reverendo, prima novella della raccolta Novelle Rusticane: «Guarda ciò che sono e non da chi sono nato»</p>
+			</note>
+		</item>
+			 
+		<item xml:id="seg_MDG_phrase_cavarelecastagne">
+			<label>Cavar le castagne dal fuoco con le zampe del gatto</label>
+			<note>
+				<p>«Fare qualche cosa a proprio vantaggio, esponendo ai rischi gli altri» GDLI, vol II</p>
+			</note>
+		</item>
+			 
+		<item xml:id="seg_MDG_phrase_tirareacquaalmulino">
+			<label>Tirare acqua al proprio mulino</label>
+			<note>
+				<p>Difendere i propri interessi; agire a proprio vantaggio</p>
+			</note>
+		</item>
+			 
+		<item xml:id="seg_MDG_phrase_achiappareilmestolo">
+			<label>Acchiappare il mestolo un quarto d’ora</label>
+			<note>
+				<p>O, anche, “afferrare il mestolo un po’ di tempo”. Come spiega Luperini (1992: 168), assumere una posizione di comando, anche per breve tempo, con probabile riferimento al proverbio siciliano “Cu’ havi la cucchiara, minestra comu voli».</p>
+			</note>
+		</item>
+			 
+		<item xml:id="seg_MDG_phrase_sansonefilistei">
+			<label>Muoia Sansone e tutti i filistei</label>
+			<note>
+				<p>L’espressione si trova nell’Antico Testamento, Libro dei Giudici, 16. Umiliato dai Filistei che, grazie a Dalila, avevano causato la perdita della sua enorme forza, Sansone compie la sua vendetta provocando il crollo delle colonne del tempio in cui lui e gli uomini del popolo erano radunati. L’espressione vuol quindi dire che in determinate condizioni le persone possono compiere atti estremi per difendersi, anche a costo di sacrificare sé stessi. Come nota Luperini (1992: 166), il canonico si esprime attingendo al repertorio di immagini e citazioni di un uomo di chiesa.</p>
+			</note>
+		</item>
+			 
+		<item xml:id="seg_MDG_phrase_romperelecorna">
+			<label>Rompere/rompersi le corna</label>
+			<note>
+				<p>In senso figurato, “rompere le corna” a qualcuno, cioè percuotere, spaccare la testa. “Rompersi le corna”, cioè spaccarsi la testa, vuol dire avere la peggio, farsi male. In sic. “Rùmpiri o ciaccari li corna ad unu” (Traina 1868: 228)</p>
+			</note>
+		</item>
+	</list>
+	<list type="explgen">
+			 
+		<item xml:id="seg_MDG_explgen_PianetaVenere">
+			<label>Venere</label>
+			<note>
+				<p/>
+			</note>
+		</item>
+			 
+		<item xml:id="seg_MDG_explgen_GiovedìSera">
+			<label>giovedì sera</label>
+			<note>
+				<p>Antica pratica religiosa della tradizione folclorica siciliana, secondo la quale il giovedì prima di Pasqua, due ore dopo il tramonto, si ponevano candele e ceri sui davanzali per commemorare l’episodio biblico della cattura di Cristo sul Getsemani</p>
+			</note>
+		</item>
+			 
+		<item xml:id="seg_MDG_explgen_CarteDiFamiglia">
+			<label>Carte di famiglia, carte della lite</label>
+			<note>
+				<p>Documenti, scartafacci, grazie ai quali i fratelli Trao sperano, invano, di intentare causa contro la Corte di Spagna e migliorare le proprie sorti</p>
+			</note>
+		</item>
+			 
+		<item xml:id="seg_MDG_explgen_CorpusDomini">
+			<label>Corpus Domini</label>
+			<note>
+				<p>Sessanta giorni dopo Pasqua</p>
+			</note>
+		</item>
+			 
+		<item xml:id="seg_MdG_explgen_colica">
+			<label>Avere la colica</label>
+			<note>
+				<p>Aver la colica, ossia contrazioni spasmodiche e dolorose dell'intestino, soprattutto crasso, come segnala il GDLI. Nel MdG l'espressione ricorre altre volte a partire dalla parte II, ad indicare malessere fisico o psicologico.</p>
+			</note>
+		</item>
+			 
+		<item xml:id="seg_MDG_explgen_laforzadonLiccioPapa">
+			<label>Mandate a chiamare la forza … don Liccio Papa</label>
+			<note>
+				<p>Don Liccio Papa è rappresentante della forza pubblica, cioè della Giustizia.</p>
+			</note>
+		</item>
+			 
+		<item xml:id="seg_MDG_memorialeasuamaestà">
+			<label>Un memoriale a sua Maestà</label>
+			<note>
+				<p>«Il canonico minaccia di fare ricorso direttamenre alla corte reale per denunciare i responsabili delle irregolarità nella conduzione dell'asta» (Luperini, p. 163).</p>
+			</note>
+		</item>
+			 
+		<item xml:id="seg_MDG_explgen_tengoilsacco">
+			<label>Tenere il sacco</label>
+			<note>
+				<p>Il canonico è accusato di sostenere i piani di don Gesualdo</p>
+			</note>
+		</item>
+	</list>
+	<list type="nota_filologica">
+			 
+		<item xml:id="N_MDG_philol_MariannaSganci">
+			<label>Marianna Sganci</label>
+			<note>
+				<p>Nella princeps del MDG89 (Treves 1890) si legge, qui e più avanti, Donna Giuseppina in luogo di Marianna Sganci. Correggiamo, giacché si tratta di un evidente errore di distrazione dell'autore, che confonde i due personaggi femminili alternandoli sulla scena. Questi e altri errori di distrazione dell'autore sono stati segnalati da Riccardi 1993, X, p. LV.</p>
+			</note>
+		</item>
+	</list>
+	<list type="nota_approfondimento_storico">
+			 
+		<item xml:id="N_MDG_history_rivoluzionefrancese">
+			<label>Quel che hanno fatto in Francia</label>
+			<note>
+				<p>Il canonico sta cercando di instillare in Gesualdo la paura della rivoluzione, ricordando uno degli eventi più decisivi nella storia degli ultimi trent'anni. Le rivendicazioni costituzionali si legano così, nella memoria del canonico, al sangue versato dalla monarchia (e, per esentensione, dalla nobiltà) nelle fasi iniziali dell'ondata rivoluzionaria e al periodo di Terrore (fra l'autonno 1793 e l'estate 1794) sotto la guida di Robespierre. Ma tra la rivoluzione del 1789 e i moti del 1820/21 (cioè al tempo del racconto delle prime due parti del MDG) si era collocata l'esperienza imperiale di Napoleone, che aveva di fatto tradito gli ideali rivoluzionari dei quali si era proclamato portavoce. Nel 1815 il Congresso di Vienna sanciva la fine dell'espansione napoleonica e proclamava la restaurazione. Il 5 maggio 1821, proprio quando nella finzione narrativa Gesualdo Motta pianifica con sicurezza strategica la propria ascesa, Napoleone moriva nell'isola di Sant'Elena.</p>
+			</note>
+		</item>
+	</list>
+	<list type="nota_approfondimento_generale">
+			 
+		<item xml:id="N_MdG_general_cencio">
+			<label>Cencio lavato</label>
+			<note>
+				<p>Come si evince dallo spoglio del GDLI (vol II: 964), espressione analoga, utilizzata da Manzoni nei Promessi Sposi, e ripresa da V. nei Malavoglia, è &quot;cencio uscito dal bucato&quot;. &quot;Cencio lavato&quot;, oltre che in V., si ritrova anche in Vittorio Imbriani e Federigo Tozzi. Una variante, adoperata nel MdG, è &quot;smorto come un cencio&quot;.</p>
+				<bibl sameAs="https://www.gdli.it/pdf_viewer/Scripts/pdf.js/web/viewer.asp?file=/PDF/GDLI02/GDLI_02_ocr_964.pdf&amp;parola=">GDLI</bibl>
+			</note>
+		</item>
+	</list>
+	<list type="nota_commento">
+			 
+		<item xml:id="N_MDG_comm_colica">
+			<label>Avere la colica</label>
+			<note>
+				<p>L'espressione è usata come secondo elemento di paragone per descrivere un gesto ben preciso, quello dell'agitarsi sulle sedie o del piegarsi in due a causa di un forte disagio emotivo (in particolare frustrazione, rabbia, rancore): così i giurati in II, i, e la Baronessa Rubiera in II, v. Il gesto, assimilato a quello di chi soffre a causa della malattia, è espressione del geloso possesso della roba e, in entrambi i casi, Gesualdo Motta è colui che, mettendo a repentaglio l'acquisizione o il mantenimento della roba, scatena negli altri questo malessere. è allora significativo che le restanti occorrenze del termine (nella Parte IV) non servano più a comporre la similitudine, quanto piuttosto a definire il quadro diagnostico della malattia di Gesualdo Motta. Sono, cioè, espressione di un malessere psico-fisico, se non del esclusivamente fisico. All'altezza della Parte II, l'espressione è una prefigurazione dello stato di decadenza di MdG. RIFERIMENTO AD ALLEGORIA Luperini e perfetta corrispondenza e coerenza dei rimandi interni.</p>
+			</note>
+		</item>
+	</list>
+     </back>
+  </text>
+</TEI>

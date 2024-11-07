@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Modello Codifica del Commento - Edizioni scientifiche digitali commentate </title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Documento di lavoro riservato all'équipe del progetto</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Born digital</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <pb n="1"/>
+         <div n="ListaTagExplicatio" type="expl" ana="explicatio">
+            <div type="namedEntities">
+            <p>Per marcare il nome proprio di un PERSONAGGIO: <persName ref="#NomePersonaggio">Nome Personaggio</persName></p>
+            <p>Per marcare un riferimento al PERSONAGGIO: <rs type="person" ref="#Nome Personaggio">nome comune personaggio</rs></p>
+            <p>Per marcare il nome proprio di un LUOGO: <placeName ref="#Roma">Roma</placeName></p>
+            <p>Per marcare un riferimento al LUOGO: <rs type="place" ref="#Roma">La città eterna</rs></p>
+            <p>Per marcare il nome proprio di una ORGANIZZAZIONE: <orgName ref="#bancaDItalia">Banca d'Italia</orgName></p>
+            <p>Per marcare un riferimento all'ORGANIZZAZIONE: <rs type="org" ref="#bancaDItalia">il Regno del Capitale</rs></p>
+            <p>Per marcare il nome proprio di un «OGGETTO CULTURALE» (ovvero titoli di opere, quadri, libri, ecc.): <objectName ref="#IDoloriDelGiovaneWerther">I dolori del giovane Werther</objectName></p>
+            <p>Per marcare un riferimento all'«OGGETTO CULTURALE» (ovvero titoli di opere, quadri, libri, ecc.): <rs type="object" ref="#IDoloriDelGiovaneWerther">quel bel libro di Goethe</rs></p>
+            </div>
+            <div type="date">
+               <p>Per marcare una DATA: <date when="1886-05-01" ana="#festaDeiLavoratori">1 maggio 1886</date></p>
+               <p>Per marcare un riferimento esplicito a un EVENTO: <eventName ref="#festaDeiLavoratori">Festa dei Lavoratori</eventName></p>
+               <p>Per marcare un riferimento implicito a un EVENTO: <rs type="event" ref="#festaDeiLavoratori">la festa del lavoro</rs></p>
+            </div>
+            <div type="lexical">
+               <p>Per marcare una PAROLA (linguisticamente distinta per qualche aspetto): <distinct ana="#parola">parola</distinct></p>
+               <p>Per marcare un PROVERBIO: <seg type="proverb" ana="#siglaProverbio">Festa dei Lavoratori</seg></p>
+            </div>
+            <div type="other">
+               <p>Per marcare un DISCORSO DIRETTO: <q who="#MattiaPascal" toWhom="#AltroPers">"Come stai?"</q></p>
+               <p>Per marcare una CITAZIONE: <quote source="#fonteCitazione">"Questa è una citazione"</quote></p>
+               <p>Per marcare una nota ESPLICATIVA GENERALE: <seg type="explgen" ana="#seg_TI_explgen_sigla">Questa è una spiegazione di carattere generale</seg></p>
+            </div>
+         </div>
+         <div n="ListaTagComprehensio" type="compr" ana="comprehension">
+               <p>Per marcare un APPROFONDIMENTO di tipo METACRITICO-BIBLIOGRAFICO <ptr type="bibl" target="#N_TI_bibl_nota"/></p>
+               <p>Per marcare un APPROFONDIMENTO di tipo FILOLOGICO <ptr type="philol" target="#N_TI_philol_nota"/></p>
+               <p>Per marcare un APPROFONDIMENTO di tipo LINGUISTICO-STILISTICO <ptr type="style" target="#N_TI_style_nota"/></p>
+               <p>Per marcare un APPROFONDIMENTO sulla FRASEOLOGIA <ptr type="phrase" target="#N_TI_phrase_nota"/></p>
+               <p>Per marcare un APPROFONDIMENTO di tipo LESSICOGRAFICO <ptr type="lexic" target="#N_TI_lexic_nota"/></p>
+               <p>Per marcare un APPROFONDIMENTO di tipo STORICO <ptr type="history" target="#N_TI_history_nota"/></p>
+               <p>Per marcare un APPROFONDIMENTO di tipo GENERALE<ptr type="general" target="#N_TI_general_nota"/></p>
+         </div>
+         <div n="ListaTagHermeneutics" type="herm" ana="hermeneutical">
+            <p>Per marcare la nota di COMMENTO <ptr type="comm" target="#N_TI_comm_nota"/></p>
+         </div>
+         <div n="ListaTagMedia" type="media">
+            <p>Per marcare un MEDIA: immagine <ptr type="media" target="#N_TI_media_immagine_nome1"/></p>
+            <p>Per marcare un MEDIA: audiolibro <ptr type="media" target="#N_TI_media_audio_nome1"/></p>
+            <p>Per marcare un MEDIA: video <ptr type="media" target="#N_TI_media_video_nome1"/></p>
+            <p>Per marcare un MEDIA: video <ptr type="media" target="#N_TI_media_video_nome2"/></p>
+            <p>Per marcare un MEDIA: pdf <ptr type="media" target="#N_TI_media_pdf_nome1"/></p>
+            <p>Per marcare un MEDIA: pdf <ptr type="media" target="#N_TI_media_pdf_nome2"/></p>
+         </div>
+      </body>
+     <back>
+        <div type="spiegazione">
+        <listPerson>
+           <person xml:id="MattiaPascal">
+              <persName>Mattia Pascal</persName>
+              <note>
+                 <p>Nota sul personaggio che sarà visualizzabile ogni volta che l'utente cliccherà sul nome (persName) o sul riferimento (rs).</p>
+                 <ref target="https://www.treccani.it/enciclopedia/il-fu-mattia-pascal/">Treccani (Link di approfondimento a Mattia Pascal)</ref>
+                 <bibl sameAs="#LinkInternoBIBL">Nome Autore, Titolo, [curatori], luogo, casa editrice, anno, pp. 1-2.</bibl>
+                 <figure>
+                    <head>Titolo immagine</head>
+                    <graphic url="#LinkImmagine"/>
+                 </figure>
+              </note>
+           </person>
+        </listPerson>
+           <listPlace>
+              <place xml:id="Roma">
+                 <placeName>Roma</placeName>
+                 <location>
+                    <geo>41.89193, 12.51133</geo>
+                 </location>
+                 <note>
+                    <p>Nota sul luogo: Capitale d'Italia e capoluogo del Lazio. Secondo la tradizione fu fondata il 21 aprile 753 a.C. da Romolo. Dopo un primo periodo monarchico (i 7 re di Roma) si trasformò in repubblica e infine in Impero realizzando una delle civilità occidentali più importanti della Storia Antica.</p>
+                    <ref target="https://www.openstreetmap.org/relation/41313#map=9/41.8542/12.5162">Open Street Map</ref>
+                    <bibl sameAs="#LinkInternoBIBL">Nome Autore, Titolo, [curatori], luogo, casa editrice, anno, pp. 1-2.</bibl>
+                    <figure>
+                       <head>Titolo immagine</head>
+                       <graphic url="#LinkImmagine"/>
+                    </figure>
+                 </note>
+              </place>
+           </listPlace>
+           <listOrg>
+           <org xml:id="bancaDItalia"> 
+              <orgName>Banca d'Italia</orgName>
+              <note>
+                 <p>Nota sull'org.</p>
+                 <ref target="https://www.cinum.disum.it/">EVENTUALE LINK DI APPROFONDIMENTO</ref>
+                 <bibl sameAs="#LinkInternoBIBL">Nome Autore, Titolo, [curatori], luogo, casa editrice, anno, pp. 1-2.</bibl>
+                 <figure>
+                    <head>Titolo immagine</head>
+                    <graphic url="#LinkImmagine"/>
+                 </figure>
+              </note>
+           </org>
+           </listOrg>
+           <listObject type="cultural_heritage"> 
+              <object xml:id="IDoloriDelGiovaneWerther">
+                 <objectIdentifier> 
+                    <objectName>I dolori del giovane Werther</objectName> 
+                 </objectIdentifier>
+                 <note> 
+                    <p>Definizione</p>
+                    <ref target="LINK">Articolo di approfondimento</ref>
+                    <bibl sameAs="#LinkInternoBIBL">Nome Autore, Titolo, [curatori], luogo, casa editrice, anno, pp. 1-2.</bibl>
+                    <figure>
+                       <head>Titolo immagine</head>
+                       <graphic url="#LinkImmagine"/>
+                    </figure>
+                 </note>
+              </object>
+           </listObject>
+           <listEvent>
+                 <event xml:id="festaDeiLavoratori" from="1886-05-01"
+                    to="1886-05-04">
+                    <eventName>Festa dei Lavoratori (Sciopero generale)</eventName>
+                    <note>
+                     <p>Inizio dello sciopero generale che porterà a ottenere le otto ore lavorative negli USA: questo evento viene oggi commemorato come "Primo maggio", "Festa dei lavoratori" o "Festa del lavoro" nella maggior parte delle nazioni industrializzate; la data ricorda anche le vittime degli incidenti di Chicago che segnarono l'inizio delle lotte operaie.</p>
+                     <ref target="LINK">Articolo di approfondimento</ref>
+                     <bibl sameAs="#LinkInternoBIBL">Nome Autore, Titolo, [curatori], luogo, casa editrice, anno, pp. 1-2.</bibl>
+                    <figure>
+                       <head>Titolo immagine</head>
+                       <graphic url="#LinkImmagine"/>
+                    </figure>
+                    </note>
+                 </event>
+           </listEvent>
+           <list type="term"> 
+              <item xml:id="cagione"> 
+                 <term>cagione</term>
+                 <gloss>Motivo, causa, spec. con valore negativo.</gloss>
+                 <ref target="https://dizionario.internazionale.it/parola/cagione">Dizionario italiano De Mauro</ref>
+                 <bibl sameAs="#LinkInternoBIBL">Nome Autore, Titolo, [curatori], luogo, casa editrice, anno, pp. 1-2.</bibl>
+                 <figure>
+                    <head>Titolo immagine</head>
+                    <graphic url="#LinkImmagine"/>
+                 </figure>
+              </item>
+           </list>
+           <list type="proverb"> 
+              <item xml:id="siglaProverbio"> 
+                 <label>proverbio</label>
+                 <note>
+                 <p>Nota sul proverbio</p>
+                 <ref target="LINK">Dizionario Proverbi</ref>
+                 <bibl sameAs="#LinkInternoBIBL">Nome Autore, Titolo, [curatori], luogo, casa editrice, anno, pp. 1-2.</bibl>
+                 </note>
+              </item>
+           </list>
+           <list type="quote"> 
+              <item xml:id="siglaCitazione"> 
+                 <label>Etichetta citazione</label>
+                 <quote>Citazione completa</quote>
+                 <note>
+                 <p>Nota sulla citazione</p>
+                 <ref target="LINK">Link Approfondimento</ref>
+                 <bibl sameAs="#LinkInternoBIBL">Nome Autore, Titolo, [curatori], luogo, casa editrice, anno, pp. 1-2.</bibl>
+                 </note>
+              </item>
+           </list>
+              <list type="explgen"> 
+                 <item xml:id="seg_TI_explgen_sigla"> 
+                    <label>proverbio</label>
+                    <note>
+                       <p>Nota sul proverbio</p>
+                       <ref target="LINK">Dizionario Proverbi</ref>
+                       <bibl sameAs="#LinkInternoBIBL">Nome Autore, Titolo, [curatori], luogo, casa editrice, anno, pp. 1-2.</bibl>
+                    </note>
+                 </item>
+           </list>
+        </div>
+        <div type="approfondimento">
+           <list type="bibl"> 
+              <item xml:id="N_TI_bibl_nota"> 
+                 <label>Approfondimento bibliografico</label>
+                 <note>
+                 <p>Testo approfondimento</p>
+                 <ref target="LINKAppr">Link approfondimento</ref>
+                 <bibl sameAs="#LinkInternoBIBL">Nome Autore, Titolo, [curatori], luogo, casa editrice, anno, pp. 1-2.</bibl>
+                 <figure>
+                    <head>Titolo immagine</head>
+                    <graphic url="#LinkImmagine"/>
+                 </figure>
+                 </note>
+              </item>
+           </list>
+           <list type="philol"> 
+              <item xml:id="N_TI_philol_nota"> 
+                 <label>Approfondimento filologico</label>
+                 <note>
+                 <p>Testo approfondimento</p>
+                 <ref target="LINKAppr">Link approfondimento</ref>
+                 <bibl sameAs="#LinkInternoBIBL">Nome Autore, Titolo, [curatori], luogo, casa editrice, anno, pp. 1-2.</bibl>
+                 <figure>
+                    <head>Titolo immagine</head>
+                    <graphic url="#LinkImmagine"/>
+                 </figure>
+                 </note>
+              </item>
+           </list>
+           <list type="style"> 
+              <item xml:id="N_TI_style_nota"> 
+                 <label>Approfondimento linguistico</label>
+                 <note>
+                 <p>Testo approfondimento</p>
+                 <ref target="LINKAppr">Link approfondimento</ref>
+                 <bibl sameAs="#LinkInternoBIBL">Nome Autore, Titolo, [curatori], luogo, casa editrice, anno, pp. 1-2.</bibl>
+                 <figure>
+                    <head>Titolo immagine</head>
+                    <graphic url="#LinkImmagine"/>
+                 </figure>
+                </note>
+              </item>
+           </list>
+           <list type="phrase"> 
+              <item xml:id="N_TI_phrase_nota"> 
+                 <label>Approfondimento fraseologico</label>
+                 <note>
+                 <p>Testo approfondimento</p>
+                 <ref target="LINKAppr">Link approfondimento</ref>
+                 <bibl sameAs="#LinkInternoBIBL">Nome Autore, Titolo, [curatori], luogo, casa editrice, anno, pp. 1-2.</bibl>
+                 <figure>
+                    <head>Titolo immagine</head>
+                    <graphic url="#LinkImmagine"/>
+                 </figure>
+                </note>
+              </item>
+           </list>
+           <list type="lexicography"> 
+              <item xml:id="N_TI_lexic_nota"> 
+                 <label>Approfondimento lessicografia</label>
+                 <note>
+                 <p>Testo approfondimento</p>
+                 <ref target="LINKAppr">Link approfondimento</ref>
+                 <bibl sameAs="#LinkInternoBIBL">Nome Autore, Titolo, [curatori], luogo, casa editrice, anno, pp. 1-2.</bibl>
+                 <figure>
+                    <head>Titolo immagine</head>
+                    <graphic url="#LinkImmagine"/>
+                 </figure>
+                </note>
+              </item>
+           </list>
+           <list type="history"> 
+              <item xml:id="N_TI_history_nota"> 
+                 <label>Approfondimento storico</label>
+                 <note>
+                 <p>Testo approfondimento</p>
+                 <ref target="LINKAppr">Link approfondimento</ref>
+                 <bibl sameAs="#LinkInternoBIBL">Nome Autore, Titolo, [curatori], luogo, casa editrice, anno, pp. 1-2.</bibl>
+                 <figure>
+                    <head>Titolo immagine</head>
+                    <graphic url="#LinkImmagine"/>
+                 </figure>
+                </note>
+              </item>
+           </list>
+           <list type="general"> 
+              <item xml:id="N_TI_general_nota"> 
+                 <label>Approfondimento di carattere generale</label>
+                 <note>
+                    <p>Testo approfondimento</p>
+                    <ref target="LINKAppr">Link approfondimento</ref>
+                    <bibl sameAs="#LinkInternoBIBL">Nome Autore, Titolo, [curatori], luogo, casa editrice, anno, pp. 1-2.</bibl>
+                    <figure>
+                       <head>Titolo immagine</head>
+                       <graphic url="#LinkImmagine"/>
+                    </figure>
+                 </note>
+              </item>
+           </list>
+        </div>
+        <div type="comment">
+           <list type="comm">
+              <item xml:id="N_TI_comm_nota"> 
+              <label>Nota di commento</label>
+              <note><p>Testo commento</p>
+              <ref target="LINKAppr">Link commento</ref>
+              <bibl sameAs="#LinkInternoBIBL">Nome Autore, Titolo, [curatori], luogo, casa editrice, anno, pp. 1-2.</bibl>
+              <figure>
+                 <head>Titolo immagine</head>
+                 <graphic url="#LinkImmagine"/>
+              </figure>
+             </note>
+           </item>
+           </list>
+        </div>
+        <div type="media">
+           <list type="immagini"> 
+              <item xml:id="N_TI_media_immagine_nome1"> 
+                 <label>Etichetta media</label>
+                    <figure>
+                       <head>Testo immagine</head>
+                       <graphic url="#LinkImmagine"/>
+                    </figure>
+              </item>
+           </list>
+              <list type="audiolibri"> 
+                 <item xml:id="N_TI_media_audio_nome1">
+                    <title>Audiolibro - Parte I</title>
+                    <media mimeType="mp3" url="risorse/media/audiolibro_incipit.mp4"/> 
+                    <desc>Descrizione della traccia audio dell'audiolibro: ad es. Prima scena del libro letta da Christian D'Agata.</desc>
+                 </item> 
+  
+              </list>
+              <list type="video"> 
+                 <item xml:id="N_TI_media_video_nome1">  
+                    <title>Titolo video (1) - Incipit</title> 
+                    <media mimeType="mp4" url="risorse/media/video_1.mp4"/> 
+                    <desc>Descrizione: ad es. incipit del film</desc>
+                 </item>
+                 <item xml:id="N_TI_media_video_2">
+                    <title>Teatro - Incipit</title>
+                    <media mimeType="mp4" url="risorse/media/teatro_incipit.mp4"/>
+                    <desc>Descrizione del video.</desc>
+                 </item>
+              </list>
+              <list type="pdf" > 
+                 <item xml:id="N_TI_media_pdf_nome1"> 
+                    <title>Approfondimento pdf 1</title>
+                    <media mimeType="pdf" url="risorse/media/ud_1.mp4"/> 
+                    <desc>Descrizione del media: ad es. Unità didattica sulla temporalità de "I Viceré".</desc>
+                 </item>
+                 <item xml:id="N_TI_media_pdf_nome2">
+                    <title>Approfondimento pdf 2</title> 
+                    <media mimeType="ppt" url="risorse/media/ud_2.mp4"/> 
+                    <desc>Descrizione del media: ad es.Unità didattica sul monastero dei benedettini ne "I Viceré".</desc> 
+                 </item>
+              </list>      
+        </div>
+     </back>
+  </text>
+</TEI>

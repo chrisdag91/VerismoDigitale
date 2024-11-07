@@ -1,0 +1,828 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+ <TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+     <title>I Viceré - Prototipo [Parte I, cap. I; Parte II cap. IV]</title>
+     <author>Federico De Roberto</author>
+    </titleStmt>
+    <publicationStmt>
+     <publisher></publisher>
+     
+    </publicationStmt>
+    <sourceDesc>
+     <listWit>
+      <witness xml:id="VI-TREVES-1920">I Viceré, Treves, 1920</witness>
+      <witness xml:id="VI-GALLI-1894">I Viceré, Galli, 1894</witness>
+     </listWit>
+    </sourceDesc>
+   </fileDesc>
+  </teiHeader>
+  <text>
+   <body>
+    <div n="Parte Prima capitolo I">
+<head>PARTE PRIMA</head> 
+    	<head>I.</head>
+<p>Giuseppe, dinanzi al portone, trastullava il suo bambino, cullandolo sulle braccia, mostrandogli lo scudo marmoreo infisso al sommo dell’arco, la rastrelliera inchiodata sul muro del vestibolo dove, ai tempi antichi, i lanzi del principe appendevano le alabarde, quando s’udì e crebbe rapidamente il rumore d’una carrozza arrivante a tutta carriera; e prima ancora che egli avesse il tempo di voltarsi, un legnetto sul quale pareva fosse nevicato, dalla tanta polvere, e il cui cavallo era tutto spumante di sudore, entrò nella corte con assordante fracasso. Dall’arco del secondo cortile affacciaronsi servi e famigli: Baldassarre, il maestro di casa, schiuse la vetrata della loggia del secondo piano, intanto che Salvatore Cerra precipitavasi dalla carrozzella con una lettera in mano.</p>
+<p>— Don Salvatore?... Che c’è?... Che novità?...</p>
+<p>Ma quegli fece col braccio un gesto disperato e salì le scale a quattro a quattro.</p>
+ <p>Giuseppe, col bambino ancora in collo, era rimasto intontito, non comprendendo; ma sua moglie, la moglie di Baldassarre, la lavandaia, una quantità d’altri servi già circondavano la carrozzella, si segnavano udendo il cocchiere narrare, interrottamente:</p>
+<p>— La principessa... <app><lem wit="#VI-GALLI-1894">morta</lem><rdg wit="#VI-TREVES-1920">Morta</rdg></app> d’un colpo... Stamattina, mentre lavavo la carrozza...</p>
+<p>— Gesù!... Gesù!...</p>
+<p>— Ordine d’attaccare... il signor Marco che correva su e giù... il Vicario e i vicini... appena il tempo di far la via...</p>
+<p>— Gesù! Gesù!... Ma come?... Se stava <app><lem wit="#VI-GALLI-1894">meglio?...</lem><rdg wit="#VI-TREVES-1920">meglio?</rdg></app> E il signor Marco?... Senza mandare avviso?</p>
+<p>— Che so io?... Io non ho visto niente; m’hanno chiamato... Iersera dice che stava bene...</p>
+<p>— E senza nessuno dei suoi figli!... In mano di estranei!... Malata, era malata; però, così a un <app><lem wit="#VI-GALLI-1894">tratto?...</lem><rdg wit="#VI-TREVES-1920">tratto?</rdg></app></p>
+<p>Ma una vociata, dall’alto dello scalone, interruppe subitamente il cicaleccio:</p>
+<p>— Pasquale!... Pasquale!...</p>
+<p>— Ehi, Baldassarre?</p>
+<p>— Un cavallo fresco, in un salto!...</p>
+<p>— Subito, corro...</p>
+<p>Intanto che cocchieri e famigli lavoravano a staccare il cavallo sudato e ansimante e ad attaccarne un altro, tutta la servitù s’era raccolta nel cortile, commentava la notizia, la comunicava agli scritturali dell’amministrazione che s’affacciavano dalle finestrelle del primo piano, o scendevano anch’essi giù addirittura.</p>
+<p>— Che disgrazia!... Par di sognare!... Chi se l’aspettava, così?...</p>
+<p>E specialmente le donne lamentavano:</p>
+<p>— Senza nessuno dei suoi figli!... Non aver tempo di chiamare i figli!...</p>
+<p>— Il portone?... Perché non chiudete il portone? — ingiunse Salemi, con la penna ancora all’orecchio.</p>
+<p>Ma il portinaio che aveva finalmente affidato alla moglie il piccolino e cominciava a capire qualcosa, guardava in giro i compagni:</p>
+<p>— Ho da chiudere?... E don Baldassarre?</p>
+<p>— Sst!... Sst!...</p>
+<p>— Che c’è?</p>
+<p>I discorsi morirono<app><lem/><rdg wit="#VI-TREVES-1920">ancora</rdg></app> una <app><lem wit="#VI-GALLI-1894">seconda</lem><rdg/></app> volta, e tutti s’impalarono cavandosi i berretti ed abbassando le pipe, perché il principe in persona, tra Baldassarre e Salvatore, scendeva le scale. Non aveva neppure mutato di abito! Partiva con gli stessi panni di casa per arrivar più presto al capezzale della madre morta! Ed era bianco in viso come un foglio di carta, volgeva sguardi impazienti ai cocchieri non ancora pronti, intanto che dava sottovoce ordini a Baldassarre, il quale chinava il capo nudo e lucente ad ogni parola del padrone: «Eccellenza sì! Eccellenza sì!» E il cocchiere affibbiava ancora le cinghie che il padrone saltò nella carrozza, con Salvatore in serpe: Baldassarre, afferrato allo sportello, stava sempre ad udire gli ordini, seguiva correndo il legnetto fin oltre il portone per acchiappare le ultime raccomandazioni: «Eccellenza sì! Eccellenza sì!»</p>
+<p>— Baldassarre!... Don Baldassarre!... — Tutti assediavano ora il maestro di <app><lem wit="#VI-GALLI-1894">casa</lem><rdg wit="#VI-TREVES-1920">casa;</rdg></app> poiché, lasciata la carrozza che scappava di corsa, egli rientrava nel cortile: — Baldassarre, che è stato?... E ora che si fa?... Don Baldassarre, chiudere?...</p>
+<p>Ma egli aveva l’aria grave delle circostanze solenni, s’affrettava verso le scale, liberandosi dagli importuni con un gesto del braccio e un «Vengo!...» spazientito.</p>
+<p> Il portone restava spalancato; tuttavia alcuni passanti, scorto lo straordinario movimento nel cortile, s’informavano col portinaio dell’accaduto; l’ebanista, il fornaio, il bettoliere e l’orologiaio che tenevano in affitto le botteghe di levante, venivano anch’essi a dare una capatina, a sentir la notizia della gran disgrazia, a commentare la repentina partenza del principe:</p>
+<p>— E poi dicevano che il padrone non voleva bene alla madre!... Pareva Cristo sceso dalla croce, povero figlio!...</p>
+<p>Le donne pensavano alla signorina Lucrezia, alla principessa nuora: sapevano nulla, o avevano loro nascosto la notizia?... E Baldassarre, Baldassarre dove diamine aveva il capo, se non ordinava di chiudere ogni cosa?... Don Gaspare, il cocchiere maggiore, verde in viso come un aglio, si stringeva nelle spalle:</p>
+<p>— Tutto a rovescio, qui dentro.</p>
+<p>Ma Pasqualino Riso, il secondo cocchiere, gli spiattellò chiaro e tondo:</p>
+<p>— Non avrete il disturbo di restarci un pezzo!</p>
+<p>E l’altro, di rimando:</p>
+<p>— Tu no, che hai fatto il ruffiano al tuo padrone! E Pasqualino, botta e risposta:</p>
+<p>— E voi che lo faceste al contino!...</p>
+<p>Tanto che Salemi, il quale risaliva all’amministrazione, ammonì:</p>
+<p>— Che è questa vergogna?</p>
+<p>Ma don <app><lem wit="#VI-GALLI-1894">Gaspare</lem><rdg wit="#VI-TREVES-1920">Gaspare,</rdg></app> a cui la certezza di perdere il posto toglieva il lume degli occhi, continuava:</p>
+<p>— Quale vergogna?... Quella d’una casa dove madre e figli si soffrivano come il fumo negli occhi?...</p>
+<p>Molte voci finalmente ingiunsero:</p>
+<p>— Silenzio, adesso!</p>
+<p>Però quelli che s’eran messi troppo apertamente con la principessa avevano il cuore piccino piccino, sicuri di ricevere il benservito dal figlio. Giuseppe, in quella confusione, non sapeva che fare: chiudere il portone per la morte della padrona era una cosa, in verità, che andava con i suoi piedi; ma perché mai don Baldassarre non dava l’ordine? Senza l’ordine di don Baldassarre non si poteva far nulla. Del resto,<app><lem/><rdg wit="#VI-TREVES-1920">neppure</rdg></app> <app><lem wit="#VI-GALLI-1894">neppur</lem><rdg/></app> gli scuri erano chiusi su al piano nobile; e poiché il tempo passava senza che l’ordine venisse, qualcuno cominciava ad accogliere un <app><lem wit="#VI-GALLI-1894">dubbio</lem><rdg wit="#VI-TREVES-1920">timore</rdg></app> e una speranza, nella corte: se la padrona non fosse morta? «Chi ha detto che è morta?... Il cocchiere!... Ma non l’ha veduta!... Può aver capito male!...» Altri argomenti convalidavano la supposizione: il principe non sarebbe partito così a rotta di collo, se fosse morta, perché non avrebbe avuto nulla da fare lassù... E il dubbio cominciava a divenire per alcuni certezza: doveva esserci un malinteso, la principessa era soltanto in agonia, quando finalmente Baldassarre affacciossi dall’alto della loggia gridando:</p>
+<p>— Giuseppe, il portone! Non hai chiuso il portone? Chiudete le finestre della stalla e delle scuderie... Dite che chiudano le botteghe. Chiudete tutto!</p>
+<p>— Non c’era fretta! — mormorò don Gaspare.</p>
+<p>E come, spinto da Giuseppe, il portone girò finalmente sui cardini, i passanti cominciarono ad accrocchiarsi: «Chi è morta?... La principessa?... Al Belvedere?...» Giuseppe si stringeva nelle spalle, avendo perso del tutto la testa; ma domande e risposte s’incrociavano confusamente tra la folla: «Era in campagna?... Ammalata da quasi un anno... Sola?... Senza nessuno dei figli!...» I meglio informati spiegavano: «Non voleva nessuno vicino, fuorché l’amministratore... Non li poteva soffrire...» Un vecchio disse, scrollando il capo: «Razza di matti, questi Francalanza!»</p>
+<p>I famigli, frattanto, sbarravano le finestre delle scuderie e delle rimesse; il fornaio, il bettoliere, l’ebanista e l’orologiaio accostavano anch’essi i loro usci. Un altro crocchio di curiosi radunati dinanzi al portone di servizio, rimasto ancora aperto, guardavano dentro alla corte dove c’era un confuso andirivieni di domestici; mentre dall’alto della loggia, come un capitano di bastimento, Baldassarre impartiva ordini sopra ordini:</p>
+<p>— Pasqualino, dalla signora marchesa e ai Benedettini... ma da’ la notizia al signor marchese e a Padre don Blasco, hai capito?... non al Priore!... A te, Filippo: passa da donna Ferdinanda... Donna Vincenza? Dov’è donna Vincenza?... Prendete lo scialle e andate alla badia... parlate alla Madre Badessa perché prepari la monaca alla notizia... Un momento! Salite prima dalla principessa che ha da parlarvi... Salemi?... Giuseppe, ordine di lasciar passare i soli stretti parenti... È venuto Salemi?... Lasciate ogni cosa; il principe e il signor Marco v’aspettano lassù, che c’è bisogno d’aiuto. Natale, tu <app><lem wit="#VI-GALLI-1894">anderai</lem><rdg/></app><app><lem/><rdg wit="#VI-TREVES-1920">andrai</rdg></app> da donna Graziella e dalla duchessa. Agostino, questi dispacci al telegrafo... e passa dal sarto...</p>
+<p><app><lem wit="#VI-GALLI-1894">A misura</lem><rdg wit="#VI-TREVES-1920">Secondo</rdg></app> che ricevevano le commissioni, i servi uscivano, aprendosi la via in mezzo alla folla; passavano con l’aria affrettata di altrettanti aiutanti di campo tra i curiosi che annunziavano: «Vanno ad avvertire i parenti... i figli, i cognati, i nipoti, i cugini della morta...» Tutta la nobiltà sarebbe stata in lutto, tutti i portoni dei palazzi signorili, a quell’ora, si chiudevano o si socchiudevano, secondo il grado della parentela. E l’ebanista la spiegava:</p>
+<p>— Sette figliuoli, possiamo contarli: il principe Giacomo e la signorina Lucrezia che è in casa con lui: due; il Priore di San Nicola e la monaca di San Placido: quattro; donna Chiara, maritata col marchese di Villardita: e cinque; il cavaliere Ferdinando che sta alla Pietra dell’Ovo: sei; e finalmente il contino Raimondo che ha la figlia del barone Palmi... Poi vengono i cognati, i quattro cognati: il duca d’Oragua, fratello del principe morto; padre don Blasco, anch’egli monaco benedettino; il cavaliere don Eugenio e donna Ferdinanda la zitellona...</p>
+<p>Ogni volta che lo sportello si schiudeva per dar passaggio a qualche servo, i curiosi cercavano di guardare dentro il cortile; Giuseppe, spazientito, esclamava:</p>
+<p>— Via di qua! Che diavolo volete? Aspettate i numeri del lotto?</p>
+<p>Ma la folla non si moveva, guardava per aria le finestre ora chiuse quasi aspettando l’apparizione della stampiglia coi numeri.</p>
+<p>E la notizia correva di bocca in bocca come quella d’un pubblico avvenimento: «È morta donna Teresa <app><lem wit="#VI-GALLI-1894">Uzeda...»</lem><rdg wit="#VI-TREVES-1920">Uzeda...»,</rdg></app> i popolani pronunziavano <app><lem wit="#VI-GALLI-1894">Auzeda</lem><rdg wit="#VI-TREVES-1920">Auzeda,</rdg></app> «la principessa di Francalanza... È morta stamani all’alba... C’era il principe suo figlio... No, è partito da un’ora.» L’ebanista frattanto, in mezzo a un cerchio di gente attenta come alla storia dei Reali di Francia, continuava a enumerare il resto della parentela: il duca don Mario Radalì, il pazzo, che aveva due figli maschi, Michele e Giovannino, da donna Caterina Bonello, e apparteneva al ramo collaterale dei Radalì-Uzeda; la signora donna Graziella, figlia d’una defunta sorella della principessa e moglie del cavaliere <app><lem wit="#VI-GALLI-1894">Carvano;</lem><rdg wit="#VI-TREVES-1920">Carvano,</rdg></app> cugina carnale perciò di tutti i figliuoli della morta; il barone Grazzeri, zio della principessa nuora, con tutta la parentela; e poi i parenti più lontani, gli affini, quasi tutta la nobiltà paesana: i <app><lem wit="#VI-GALLI-1894">Costante</lem><rdg wit="#VI-TREVES-1920">Costante,</rdg></app> i Raimonti, i Cùrcuma, i Cugnò... A un tratto s’interruppe per dire:</p>
+<p>— <app><lem wit="#VI-GALLI-1894">Tò!</lem><rdg wit="#VI-TREVES-1920">To’!</rdg></app> Guardate i lavapiatti che arrivano prima di tutti!</p>
+<p>Don Mariano Grispo e don <app><lem wit="#VI-GALLI-1894">Giacomo</lem><rdg wit="#VI-TREVES-1920">Giacinto</rdg></app> Costantino arrivavano, come ogni giorno, all’ora della colazione, per far la corte al principe, e non sapevano niente: scorgendo la folla ed il portone chiuso, si fermarono di botto:</p>
+<p>— Santa fede!... Buon Dio d’amore!...</p>
+<p>E a un tratto affrettarono il passo, entrarono interrogando costernati il portinaio che dava le prime notizie: «Non mi sembra vero!... Un fulmine a ciel sereno!...» Poi salirono per lo scalone con Baldassarre che risaliva anch’egli in quel punto dalla corte e faceva loro strada mormorando:</p>
+<p>— Povera principessa!... Non potè superarla!... Il signor principe è subito partito.</p>
+<p>Traversando la fila delle anticamere dagli usci dorati ma quasi nude di mobili, don <app><lem wit="#VI-GALLI-1894">Giacomo</lem><rdg wit="#VI-TREVES-1920">Giacinto</rdg></app> esclamava a bassa voce, come in chiesa:</p>
+<p>— È una gran disgrazia!... Per questa famiglia è una disgrazia più grande che non sarebbe per ogni altra...</p>
+<p>E piano anch’egli, don Mariano confermava, scrollando il capo:</p>
+<p>— La testa che guidava tutti, che aggiustò la pericolante baracca!...</p>
+<p>Introdotti nella Sala Gialla, si fermarono dopo qualche passo, non distinguendo nulla pel buio; ma la voce della principessa Margherita li guidò:</p>
+<p>— Don Mariano!... Don <app><lem wit="#VI-GALLI-1894">Giacomo!...</lem><rdg wit="#VI-TREVES-1920">Giacinto!...</rdg></app></p>
+<p>— Principessa!... Signora mia!... Com’è stato?... E Lucrezia?... Consalvo?... La bambina?...</p>
+<p>Il principino, seduto sopra uno sgabello, con le gambe penzoloni, le dondolava ritmicamente, guardando per aria a bocca aperta; discosta, in un angolo di divano, Lucrezia stava ingrottata, con gli occhi asciutti.</p>
+<p>— Ma com’è avvenuto, così a un tratto? — insisteva don Mariano.</p>
+<p>E la principessa, aprendo le braccia:</p>
+<p>— Non so... non capisco... È arrivato Salvatore dal Belvedere, con un biglietto del signor Marco... Lì, su quella tavola, guardate... Giacomo è partito subito. — A bassa voce, rivolta a don Mariano, intanto che l’altro leggeva il biglietto: — Lucrezia voleva andare anche lei, — aggiunse; — suo fratello ha detto di no... Che ci avrebbe fatto?</p>
+<p>— Confusione di più!... Il principe ha avuto ragione...</p>
+<p>— Niente! — annunziava frattanto don <app><lem wit="#VI-GALLI-1894">Giacomo,</lem><rdg wit="#VI-TREVES-1920">Giacinto,</rdg></app> finito di leggere il biglietto. — Non spiega niente!... E hanno avvertito gli altri?... hanno dispacciato?...</p>
+<p>— Io non so... Baldassarre...</p>
+<p>— Morire così, sola sola, senza un figlio, un parente! — esclamava don Mariano, non potendo darsi pace; ma don <app><lem wit="#VI-GALLI-1894">Giacomo:</lem><rdg wit="#VI-TREVES-1920">Giacinto:</rdg></app></p>
+<p>— La colpa non è di questi qui, poveretti!... Essi hanno la coscienza tranquilla.</p>
+<p>— Se ci avesse voluti... — cominciò la principessa, timidamente, più piano di prima; ma poi, quasi impaurita, non finì la frase.</p>
+<p>Don Mariano tirò un sospiro doloroso e andò a mettersi vicino alla signorina.</p>
+<p>— Povera Lucrezia! Che disgrazia!... Avete ragione!... Ma fatevi animo!... Coraggio!...</p>
+<p>Ella che se ne stava a guardare per terra, battendo un piede, levò la testa con aria di stupore, quasi non comprendendo. Ma, come udivasi un frastuono di carrozze che entravano nel cortile, don Mariano e don <app><lem wit="#VI-GALLI-1894">Giacomo</lem><rdg wit="#VI-TREVES-1920">Giacinto</rdg></app> tornarono ad esclamare, a due:</p>
+<p>— Che sciagura irreparabile!</p>
+<p>Arrivavano la marchesa Chiara col marito e la cugina Graziella:</p>
+<p>— Lucrezia, la mamma!... Sorella!... Cugina!...</p>
+<p>Subito dopo entrò la zia Ferdinanda, a cui le donne baciarono le mani, mormorando:</p>
+<p>— Eccellenza!... Ha sentito?...</p>
+<p>La zitellona, asciutta asciutta, scrollava il capo; Chiara abbracciava Lucrezia piangendo; il marchese salutava mestamente i lavapiatti; ma la più commossa era donna Graziella:</p>
+<p>— Non mi par vero!... Non volevo crederci!... Che si muore così?... E il povero Giacomo? Dice che è corso subito lassù?... Povero cugino!... Se almeno avesse potuto arrivare a chiuderle gli occhi!... Che dolore, non aver tempo di rivederla!... — Udendo Chiara singhiozzare in seno alla sorella Lucrezia, esclamò: — Hai ragione, sfogati, poveretta! Mamma ce n’è una sola!...</p>
+<p>Ella pareva tanto addolorata della <app><lem wit="#VI-GALLI-1894">disgrazia</lem><rdg/></app><app><lem/><rdg wit="#VI-TREVES-1920">digrazia</rdg></app> dei cugini da dimenticare perfino che la morta era sorella della sua propria madre. Si profferiva alla principessa; le diceva, traendola in disparte:</p>
+<p>— Hai bisogno di nulla?... Vuoi che ti dia una mano?... Come sta la mia figlioccia?... Che ha lasciato detto il cugino?...</p>
+<p>— Non so... Ha ordinato a Baldassarre il da fare...</p>
+<p>Baldassarre, infatti, andava su e giù, mandando ancora messi, ricevendo quelli che tornavano dall’aver eseguito le ambasciate. Tutti i parenti, oramai, erano avvertiti: soltanto il famiglio mandato ai Benedettini <app><lem wit="#VI-GALLI-1894">veniva</lem><rdg wit="#VI-TREVES-1920">venne</rdg></app> a dire che Padre don Lodovico stava per arrivare, ma che Padre don Blasco non era nel convento.</p>
+<p>— Va’ dalla Sigaraia... a quest’ora sarà da lei... Corri, digli che è morta sua cognata...</p>
+<p>Don Lodovico arrivò con la carrozza di San Nicola; e nella Sala Gialla tutti s’alzarono all’apparire del Priore. Chiara e Lucrezia gli andarono incontro, gli presero ciascuna una mano, e la marchesa, cadendo in ginocchio, proruppe:</p>
+<p>— Lodovico!... Lodovico!... La nostra povera mamma!</p>
+<p>Tacevano tutti, guardando quel gruppo: la cugina, con gli occhi rossi, mormorava:</p>
+<p>— È una cosa che strazia l’anima!</p>
+<p>Il Priore, chinatosi sulla sorella, la rialzò senza guardarla in viso, e nel silenzio generale, rotto da brevi singhiozzi repressi, disse, alzando gli occhi asciutti al cielo:</p>
+<p>— Il Signore l’ha chiamata a sè... Chiniamo la fronte ai decreti della Provvidenza divina... — e poiché Chiara voleva baciargli la mano, egli si schermì: — No, no, sorella mia... — e la strinse al petto, baciandola in fronte.</p>
+<p>— Perché si nasce!... — esclamò dolorosamente don <app><lem wit="#VI-GALLI-1894">Giacomo</lem><rdg wit="#VI-TREVES-1920">Giacinto</rdg></app> all’orecchio di don Mariano; ma questi, scrollando il capo, si fece innanzi con piglio risoluto:</p>
+<p>— Basta adesso, signori miei!... I morti son morti, e il pianto non li risuscita... Pensate alla vostra salute, adesso, che è l’importante...</p>
+<p>— Coraggio, poveretti!... — confermò la cugina Graziella, prendendo per mano le cugine, costringendole amorosamente a sedere; mentre il marchese baciava sua moglie in fronte, le asciugava gli occhi, le parlava all’orecchio, e donna Ferdinanda, poco portata alle scene patetiche, si metteva il principino sulle ginocchia.</p>
+<p>Il biglietto del signor Marco passava di mano in mano; il Priore manifestava anch’egli l’intenzione di partire per il Belvedere, ma i lavapiatti <app><lem wit="#VI-GALLI-1894">protestarono:</lem><rdg wit="#VI-TREVES-1920">protestarono.</rdg></app></p>
+<p>— Per far che cosa?... Angustiarsi per niente?... Se si potesse dar aiuto...</p>
+<p>— Partirei io! — soggiunse la cugina.</p>
+<p>— Aspettiamo, piuttosto; — propose il marchese. — Giacomo manderà certo a dire qualcosa...</p>
+<p>L’arrivo di un’altra carrozza fece infatti supporre che venisse qualcuno dal Belvedere. Era invece la duchessa Radalì. Poiché ella aveva il marito impazzato e non faceva visite a nessuno, il suo pronto accorrere intenerì più che mai la cugina, che la chiamava zia, quantunque non ci fosse parentela tra loro; ma il ritorno di donna Vincenza da <app><lem wit="#VI-GALLI-1894">S.</lem><rdg wit="#VI-TREVES-1920">San</rdg></app> Placido segnò il colmo della commozione. La cameriera non trovava parole per esprimere il dolore della monaca, giungeva le mani dalla pietà:</p>
+<p>— Figlia mia! povera figlia!... Come una pazza, fa come una pazza!... E chiama: «Sorelle mie! Sorelle mie!...»</p>
+<p>Lucrezia piangeva anch’ella, adesso; Chiara disse tra i singhiozzi:</p>
+<p>— Io vado alla badia...</p>
+<p>— Vostra Eccellenza farà un’opera santa... Anche la Madre Badessa piangeva: «Povera principessa!... Degna serva di Dio!»</p>
+<p>La cugina s’offerse d’accompagnarla; ma poi, visto che la principessa non sapeva dove dar del capo:</p>
+<p>— Resto piuttosto ad aiutar Margherita — disse a Chiara; e questa s’alzò, mentre le raccomandavano: — Baciala per me... e per me... Dille che domani andrò a trovarla... — E don <app><lem wit="#VI-GALLI-1894">Giacomo</lem><rdg wit="#VI-TREVES-1920">Giacinto</rdg></app> chiamava: — Marchese, marchese!... accompagnate vostra moglie...</p>
+<p>In mezzo alla confusione, mentre la marchesa andava via col marito, spuntò finalmente don Blasco, col faccione sudato che luceva e il tricorno in capo. Entrò senza salutar nessuno, esclamando:</p>
+<p>— L’avevo detto, eh?... Doveva finire così!...</p>
+<p>Non gli risposero. Il Priore, anzi, chinò gli occhi a  terra quasi cercando qualcosa; donna Ferdinanda, per suo conto, pareva non essersi neppure accorta dell’arrivo del fratello. Il monaco si mise a passeggiare da un capo all’altro della sala, asciugandosi il sudore del collo e continuando a parlar solo:</p>
+<p>— Che testa!... Che testa!... Fin all’ultimo!... Andare a crepare in mano di quell’imbroglione!... Io l’avevo profetato, ah?... Dov’è?... Non è venuto?... È lui il padrone, qui dentro!</p>
+<p>Poiché nessuno fiatava, la cugina credè d’osservare:</p>
+<p>— Zio, in questo momento...</p>
+<p>— Che vuol dire, in questo momento?... — rispose il monaco, piccato. — È morta, Dio l’abbia in gloria!... Ma che s’ha da dire? che ha fatto una gran cosa?... E Giacomo?... È andato?... È andato solo?... Perché non va nessun altro?... Ha proibito agli altri di andare?...</p>
+<p>— No, Eccellenza... — rispose timidamente la principessa. — È partito appena saputa la notizia.</p>
+<p>— Io volevo accompagnarlo... — disse Lucrezia; ma allora il Benedettino saltò su:</p>
+<p>— Tu? Per far che cosa? Sempre voialtre femmine tra i piedi? Vi pare che sappiate sole aggiustare il mondo?... Dov’è Ferdinando?... Non è venuto ancora?</p>
+<p>Sopravvenivano in quel momento il cavaliere don Eugenio e don Cono Canalà, altro dei lavapiatti. Don Cono entrò in punta di piedi, quasi per paura di schiacciar qualcosa, e fermatosi dinanzi alla principessa esclamò, gestendo col braccio:</p>
+<p>— Immensa iattura!... Catastrofe immensurabile!... La parola spira sul labbro... — mentre il cavaliere leggeva il biglietto del signor Marco.</p>
+<p>Frattanto don Blasco, girando come un trottolone, soffermavasi dinanzi agli usci, guardava in fondo alla sfilata delle stanze, pareva fiutasse l’aria, borbottava: «Che fretta!... <app><lem wit="#VI-GALLI-1894">L’affezione!...»</lem><rdg wit="#VI-TREVES-1920">Che</rdg></app><app><lem/><rdg wit="#VI-TREVES-1920">ed</rdg></app><app><lem/><rdg wit="#VI-TREVES-1920">edaffezione!..</rdg></app>.» altre parole incomprensibili.</p>
+<p>Nel crocchio dei parenti, ciascuno adesso diceva la sua: il Priore, a bassa voce, accanto alla duchessa ed alla zia Ferdinanda, parlava della «dolorosa ostinazione» della madre; ma tratto tratto, quasi pavido di far male discutendo anche rispettosamente la volontà della morta, s’interrompeva, chinava il capo; la cugina era inquieta per la mancanza di notizie dal Belvedere:</p>
+<p>— Giacomo avrebbe potuto mandar qualcuno!...</p>
+<p>Per questo don Eugenio offrivasi di salir lassù, se gli facevano attaccare una carrozza; ma allora la principessa, imbarazzata, confusa, non sapendo che fare, osservò all’orecchio della cugina:</p>
+<p>— Non so... forse può dispiacere a Giacomo...</p>
+<p>E donna Graziella intervenne:</p>
+<p>— Aspettiamo un altro poco; forse il cugino tornerà egli stesso.</p>
+<p>Il Priore e la duchessa tornarono a domandare:</p>
+<p>— Ferdinando? Non viene più?</p>
+<p>I lavapiatti corsero a interrogar Baldassarre; il maestro di casa rispose:</p>
+<p>— Non ho mandato nessuno dal cavaliere, perché il signor principe m’ha detto che passava lui <app><lem wit="#VI-GALLI-1894">dalla Pietra dell’Ovo...	</lem><rdg/></app><app><lem/><rdg wit="#VI-TREVES-1920">c</rdg></app><app><lem/><rdg wit="#VI-TREVES-1920">chiamarlo.</rdg></app>a</p>
+<p>— Sarà andato anch’egli al Belvedere... Se no a quest’ora sarebbe qui.</p>
+<p>Per arrivare dalla Pietra dell’Ovo ci voleva a ogni modo del tempo; tornò infatti prima dalla badia la marchesa, alla quale la sorella monaca aveva consegnato un abitino della Madonna perché lo mettessero indosso  alla morta.</p>
+<p>— Toccante tratto di pietà filiale! — sussurrò don Cono a don Eugenio.</p>
+<p>Nessun altro parlava, in quei momenti di commozione; solamente la cugina, asciugandosi gli occhi rossi, propose all’orecchio della principessa:</p>
+<p>— Io vorrei profittare di questo momento per indurre lo zio Blasco a far pace con la zia Ferdinanda e con Lodovico. Che ne dici, Margherita?</p>
+<p>— Come credi... se credi... fa’ tu...</p>
+<p>E la cugina andò in cerca del monaco. Non si trovava, era scomparso. Baldassarre, incaricato di rintracciarlo, lo scoperse in fondo alla casa, dinanzi all’uscio serrato che metteva nelle stanze della morta. Udendo rumor di passi, il monaco si voltò di botto:</p>
+<p>— Chi è là?</p>
+<p>— Aspettano Vostra Paternità nella Sala Gialla.</p><p>
+Il Benedettino tornò indietro, soffiando, e come la cugina, andandogli incontro con aria di mistero:</p>
+<p>— Eccellenza — gli disse — venga ad abbracciare sua sorella... Lodovico le bacerà la mano... — egli le voltò le spalle, esclamando forte, in modo che lo udirono sino nella corte:</p>
+<p>— Non facciamo pulcinellate.</p>
+<p>Donna Graziella si strinse nelle spalle, con un gesto di rassegnazione dolente.</p>
+<p>E il monaco, scorto il marchese che era tornato con la moglie dalla badia, l’andò ad afferrare per un braccio e lo trascinò nella Galleria dei ritratti:</p>
+<p>— Che stai a far qui?... Perché non parti?... Quell’altro è scappato...</p>
+<p>— Per far che cosa, Eccellenza?</p>
+<p>— E sarai sempre minchione?... Quell’altro è scappato! A quest’ora fa scomparire ogni cosa!...</p>
+<p>— Eccellenza!... — protestò il nipote, scandalizzato.</p>
+<p>Don Blasco lo guardò nel bianco degli occhi, quasi volesse mangiarselo. Ma, come passava in fretta e in  furia Baldassarre, girò sui tacchi, tonando:</p>
+<p>— Ah, no? E andate un poco a farvi friggere, tutti quanti!...</p>
+<p>Finito di dar ordini alla servitù, Baldassarre aveva adesso un altro gran da fare, poiché cominciavano a venire ambasciate dei parenti più lontani, degli amici, dei conoscenti che mandavano ad esprimere le loro condoglianze e a prender notizie dei superstiti. Il maestro di casa riceveva nell’anticamera dell’amministrazione le persone di riguardo, lasciando al portinaio i servitori; ma parecchi fra questi portavano i regali funebri: vassoi pieni di dolci, di forme di marmellata o di cioccolata, di frutta candite, di pan di Spagna, di bottiglie di moscato o di rosolio, e allora Baldassarre si faceva in quattro per riporre quella roba, e annunziare i doni ai padroni, e ringraziare i donatori, e dare udienza ai sopravvenienti. La cugina Graziella, con le chiavi delle credenze alla cintola, faceva da padrona di casa, per risparmiare la principessa; il cavaliere don Eugenio dava anch’egli una mano, e quantunque i lavapiatti che lavoravano come domestici protestassero: «Lasciate fare a noi;» egli vuotava i vassoi da restituire, trasportava la roba nella sala da pranzo e tratto tratto si ficcava in tasca una manata di dolci.</p>
+<p>Per la duchessa Radalì che era andata via, non potendo lasciare a lungo il marito solo, dieci altre visite erano sopravvenute: il barone Vita, il principe di Roccasciano, i Giliforte, i Grazzeri, don Carlo Carvano, marito della cugina. <app><lem wit="#VI-GALLI-1894">A misura</lem><rdg wit="#VI-TREVES-1920">Secondo</rdg></app> che la giornata s’inoltrava, lettere e biglietti di condoglianza piovevano da tutte le parti: l’Intendente mandava a esprimere il suo dolore per il lutto d’una famiglia devota al Re ed alla buona causa; Monsignor Vescovo associavasi al dolore dei suoi cari figli; dall’Orfanotrofio Uzeda, dall’Ospizio dei Vecchi, dagli altri istituti di beneficenza che i Francalanza avevano fondato o sussidiato, venivano i rettori, i cappellani, una quantità di tonache nere, oppure i poveri ospitati; ma questi non eran lasciati salire ed esprimevano il loro rammarico al portinaio o al sotto-cocchiere. Il comandante della guarnigione, il presidente della Gran Corte, tutte le autorità, tutta la città si condoleva con la famiglia. Gruppi di mendicanti aspettavano, con la speranza che avrebbero distribuito elemosine; molte persone domandavano con insistenza del signor Marco: udendo che ancora non era sceso dal Belvedere, alcuni andavano via per tornare più tardi; altri si mettevano a passeggiare su e giù dinanzi alla casa, aspettando d’acchiapparlo al varco, pazientemente.</p>
+<p>I due cortili parevano una fiera, dalle tante carrozze allineate all’ombra: i cavalli, con le teste <app><lem wit="#VI-GALLI-1894">nelle mangiatoie,</lem><rdg wit="#VI-TREVES-1920">dentro</rdg></app><app><lem/><rdg wit="#VI-TREVES-1920">co</rdg></app><app><lem/><rdg wit="#VI-TREVES-1920">coffe,</rdg></app>le ruminavano raspando tratto tratto il selciato con l’unghia. Ad uno ad uno, poiché imbruniva, arrivavano i servitori dei parenti, aspettando i padroni; e la  conversazione della servitù, animatissima, aggiravasi intorno all’avvenimento ed alle sue conseguenze. Le donne, vedendo quella gran confusione, quell’andirivieni di gente, quel succedersi d’ambasciate e di lettere, compiangevano vivamente la principessa nuora: «Povera signora! A quest’ora dev’essere sulle spine!...» Infatti, ella soffriva d’una specie di malattia nervosa per la quale non tollerava di star pigiata tra la gente, di toccar cose maneggiate da altri: fortunatamente la cugina era lì ad aiutarla. E alcuni facevano riflessioni filosofiche: «Se invece d’oggi la madre del principe fosse morta sei anni addietro, la cugina, adesso, invece di aiutar la padrona, sarebbe lei la padrona qui dentro.» Non era stato permesso dalla principessa <app><lem wit="#VI-GALLI-1894">vecchia</lem><rdg wit="#VI-TREVES-1920">vecchia,</rdg></app> quel matrimonio; e il padrone aveva obbedito alla madre, sposando donna Margherita Grazzeri; però, bisognava dire la verità, la cugina s’era diportata benissimo: maritata col cavaliere Carvano, era rimasta affezionatissima alla zia che non l’aveva voluta per nuora, e aveva trattato come una vera sorella la moglie dell’antico suo innamorato. «E il principe? Forse che pare si rammenti d’averle voluto bene in un certo modo?...» Per <app><lem wit="#VI-GALLI-1894">questo,</lem><rdg wit="#VI-TREVES-1920">tanto,</rdg></app> molti lodavano l’opera della morta: ella aveva ben fatto ad opporsi a quel matrimonio, poiché i due antichi innamorati s’eran messo il cuore in pace. «Gran donna, la principessa! <app><lem wit="#VI-GALLI-1894">Basta</lem><rdg wit="#VI-TREVES-1920">Basti</rdg></app> dire che rifece la casa già fallita!» E tutti domandavano: «A chi lascerà?...» ma come saperne <app><lem wit="#VI-GALLI-1894">nulla,</lem><rdg wit="#VI-TREVES-1920">nulla</rdg></app> <app><lem wit="#VI-GALLI-1894">quando la principessa</lem><rdg wit="#VI-TREVES-1920">se</rdg></app> non si <app><lem wit="#VI-GALLI-1894">confidava</lem><rdg wit="#VI-TREVES-1920">era confidata mai con nessuno,</rdg></app> neppure coi figli?... «Se ci fosse stato il contino Raimondo, però!...»</p>
+<p>Allora i partigiani del principe, senza tanti riguardi: «La roba dovrebbe andare al padrone, se quella pazza non ne avrà fatta un’altra delle sue!...» Infatti non aveva potuto soffrire il primogenito, prediligendo il contino Raimondo; e il contino, quantunque chiamato e richiamato dalla madre che sentiva vicina la propria fine, non s’era mosso da Firenze!...</p>
+<p>All’arrivo di Frà Carmelo, spedito dall’abate di San Nicola per aver notizie di don Lodovico e di don Blasco, il discorso prese un’altra piega. Frà Carmelo sapeva la via del palazzo, dalle tante volte che ci aveva accompagnato don Lodovico novizio; e tutta la servitù lo conosceva e gli voleva bene, tant’era buono, con quel suo faccione che pareva scoppiare, grasso fin sulla nuca.</p>
+<p>— Povera principessa!... Che gran disgrazia!</p>
+<p>Egli lodava la morta e rammentava i tempi del noviziato di Padre Lodovico, quando, conducendo a casa il ragazzo in permesso, le portava regalucci di <app><lem wit="#VI-GALLI-1894">nocciole, di castagne</lem><rdg wit="#VI-TREVES-1920">frutta</rdg></app> che la buona signora degnavasi<app><lem/><rdg wit="#VI-TREVES-1920">di</rdg></app> accettare.</p>
+<p>— Alla mano con tutti!... Affezionata con tutti!... Povero <app><lem wit="#VI-GALLI-1894">padre</lem><rdg wit="#VI-TREVES-1920">Padre</rdg></app> Lodovico! Deve aver pianto!</p>
+<p>Le donne esclamarono:</p>
+<p>— Figuriamoci! Un santo come lui!...</p>
+<p>E Frà Carmelo:</p>
+<p>— Un vero santo! Non c’è monaci che gli possano  stare a paragone. Non per nulla l’han fatto Priore a trent’anni!</p>
+<p>— Suo zio don Blasco non gli somiglia?... — disse improvvisamente il cocchiere maggiore, con una strizzatina d’occhi.</p>
+<p>— È un’altra cosa. Tutti gli uomini possono esser formati a un modo?... Ma bravo anche lui!... Signore anche lui!...</p>
+<p>E giusto il discorso era a quel punto, quando un lontano rumore di carrozza con le sonagliere fece tacer tutti. Giuseppe, <app><lem wit="#VI-GALLI-1894">guardato</lem><rdg wit="#VI-TREVES-1920">guardando</rdg></app> dallo sportello, spalancò il portone: il carrozzino della mattina entrò a rotta di collo e ne scesero il principe e il signor Marco che teneva una valigia in mano, mentre tutti si scoprivano e dalla loggia del piano nobile affacciavasi don Blasco.</p>
+<p>Il ritorno del capo della famiglia, nella Sala Gialla, produsse una nuova commozione: sospiri, singhiozzi, mute strette di mano. Il principe era sempre pallido e parlava a stento, con gesti larghi di sconforto:</p>
+<p>— Troppo tardi!... Più nulla da fare!... Fino a iersera stava benissimo, mangiò anzi con appetito due uova e bevve una tazza di latte... All’alba di stamani, improvvisamente, chiamò e... — e tacque, quasi non potendo proseguire.</p>
+<p>Il signor Marco, deposta la valigia, confermava:</p>
+<p>— Impossibile prevedere questa catastrofe... Nel primo momento, speravo fosse soltanto una sincope... ma pur troppo la triste verità...</p>
+<p>Chiara e la cugina piangevano; il Priore <app><lem wit="#VI-GALLI-1894">lamentava</lem><rdg wit="#VI-TREVES-1920">deplorava</rdg></app> specialmente che nessun sacerdote l’avesse assistita negli ultimi istanti; ma il signor Marco assicurò che ella erasi confessata due giorni innanzi, che il vicario Ragusa era arrivato in tempo a darle l’assoluzione; mentre il principe da canto suo riferiva:</p>
+<p>— Abbiamo improvvisato una cappella ardente... tutti i fiori della villa... ne hanno mandati da ogni parte...</p>
+<p>— E Ferdinando? — domandò Chiara.</p>
+<p>— Non è venuto?... Ah! — Egli si battè a un tratto la fronte. — Dovevo passar io ad avvertirlo!... Me ne sono scordato!... Baldassarre!... Baldassarre!...</p>
+<p>Ma, sul più bello, don <app><lem wit="#VI-GALLI-1894">Blasco</lem><rdg wit="#VI-TREVES-1920">Blasco,</rdg></app> il quale aveva tenuto d’occhio la valigia quasi ci fosse dentro roba di contrabbando, lo tirò per la manica, domandando:</p>
+<p>— E il testamento?</p>
+<p>Il principe, con un altro tono di voce, non più dolente, ma premuroso, pieno di scrupoli:</p>
+<p>— Il signor Marco qui presente — rispose — m’ha comunicato che le ultime volontà di nostra madre sono depositate presso il notaio Rubino. Noi aspetteremo, se credete, l’arrivo di Raimondo e dello zio duca... Frattanto, abbiamo suggellato tutto quel che s’è trovato, per renderne stretto conto, a suo tempo, a chi di ragione... Il signor Marco possiede però un documento che riguarda i funerali... Credo che di questo si debba dar subito lettura...</p>
+<p>E il signor Marco, tratto di tasca un foglio, lesse in mezzo a un profondo silenzio:</p>
+<p>«In questo giorno, 19 maggio 1855, trovandomi sana di mente e non di corpo, io sottoscritta, Teresa Uzeda principessa di Francalanza, raccomando l’anima a Dio e dispongo quanto appresso. Il giorno che piacerà al Signore chiamarmi con sè, ordino che il mio corpo sia affidato ai Reverendi Padri Cappuccini affinché sia da essi imbalsamato e nella necropoli del loro cenobio custodito. Voglio che il funerale sia celebrato, con quel decoro che compete alla famiglia, nella chiesa dei detti Padri in segno della mia devozione alla Beata Ximena, nostra gloriosa parente, la cui salma nella loro chiesa si venera. Durante il funerale e dopo che il mio corpo sarà imbalsamato, voglio, ordino e comando che esso sia vestito della tonaca delle Religiose di San Placido, e che alla cintura mi sia messa la corona del Santissimo Rosario donatami dalla mia diletta figlia Suor Maria Crocifissa il giorno della sua monacazione, e che sul petto mi sia posto il crocifisso d’avorio, memoria del mio amato consorte principe Consalvo di Francalanza. In segno di particolare penitenza ed umiltà, espressamente impongo che il mio capo sia appoggiato sopra una semplice e nuda tegola: così voglio e non altrimenti. Per la necropoli dei Cappuccini ordino che si costruisca una cassa a cristalli, dentro alla quale sarà posto il mio corpo nel modo di cui sopra; essa avrà una serratura con tre chiavi delle quali una rimarrà a mio figlio Raimondo conte di Lumera, la seconda, in segno di speciale benevolenza pei servigi prestatimi, al signor Marco Roscitano, mio procuratore e amministratore generale, e la terza al reverendo Padre Guardiano di esso cenobio dei Cappuccini. Nel caso però che il detto signor Roscitano dovesse lasciare l’amministrazione della mia casa, ordino che la chiave passi all’altro mio figlio Lodovico, Priore nel monastero di San Nicola dell’Arena. Questa è la mia volontà e non altra.
+ <lb/>«Teresa <app><lem wit="#VI-GALLI-1894">Uzeda.»</lem><rdg wit="#VI-TREVES-1920">Uzeda».</rdg></app></p>
+<p>Il signor Marco, che s’era rispettosamente inchinato al passaggio relativo alla sua persona, abbassò il foglio; il principe disse guardando in giro gli astanti:</p>
+<p>— Le volontà di nostra madre sono leggi per noi. Sarà fatto secondo ha prescritto.</p>
+<p>— In tutto e per tutto... — confermò il Priore, chinando il capo.</p>
+<p>Don Blasco, che soffiava come un mantice, non aspettò neppure che l’adunanza si sciogliesse. Afferrato il marchese per un bottone del soprabito, esclamò:</p>
+<p>— Sempre pulcinellate?... Fin all’ultimo?... Per far ridere la gente?...</p>
+<p>E il signor Marco era appena salito al primo piano, nelle stanze dell’amministrazione contigue al suo quartierino, per dare ai dipendenti gli ordini opportuni, che le persone venute a cercarlo si presentarono a lui. Il ceraiolo di San Francesco veniva a offrire cera di prima qualità, lavorata all’uso di Venezia, a sei tari; il maestro Mascione portava una lettera dell’avvocato Spedalotti, il quale pregava il signor Marco di far eseguire la messa <app><lem wit="#VI-GALLI-1894">da</lem><rdg wit="#VI-TREVES-1920">di</rdg></app> requiem del giovane <app><lem wit="#VI-GALLI-1894">compositore:</lem><rdg wit="#VI-TREVES-1920">compositore;</rdg></app> Brusa, il pittore, sollecitava l’appalto della decorazione pel funerale solenne della principessa...</p>
+<p>— Come sapete che ci sarà un funerale solenne?</p>
+<p>— Per una signora come la principessa!</p>
+<p>— Ripassate domani...</p>
+<p>E Baldassarre chiamava:</p>
+<p>— Signor Marco! signor Marco!... Il <app><lem wit="#VI-GALLI-1894">principe...</lem><rdg wit="#VI-TREVES-1920">principe!...</rdg></app></p>
+<p>Ma nuovi postulanti sopravvenivano. Nessuno l’aveva ancor detto, ma si sapeva che la principessa di Francalanza non poteva andare all’altro <app><lem wit="#VI-GALLI-1894">móndo</lem><rdg wit="#VI-TREVES-1920">mondo</rdg></app> senza una gran cerimonia, senza un gran scialacquo di quattrini, e ognuno sperava di guadagnarne. Raciti, il primo violino del Comunale, voleva offrire la messa funebre di suo figlio; saputo che Mascione aveva ottenuto una lettera di Spedalotti, era corso a sollecitare la raccomandazione più valevole del barone Vita; Santo Ferro, che aveva la manutenzione del giardino pubblico, sperava gli commettessero la camera ardente, e poiché Baldassarre, dal cortile, tornava a chiamare:</p>
+<p>— Signor Marco! signor Marco!... Il <app><lem wit="#VI-GALLI-1894">principe...</lem><rdg wit="#VI-TREVES-1920">principe!...</rdg></app> — il signor Marco si sbarazzò bruscamente dei postulanti:</p>
+<p>— Ma andate al diavolo!... Ho altro da fare, adesso!</p>
+<p>Un formicaio, la chiesa dei Cappuccini nella mattina del sabato, ché neppure il Giovedì Santo tanta gente traeva a visitarvi il <app><lem wit="#VI-GALLI-1894">sepolcro.</lem><rdg wit="#VI-TREVES-1920">Sepolcro.</rdg></app> Tutta la notte era venuto dalla chiesa un frastuono di martelli, <app><lem wit="#VI-GALLI-1894">d’ascie</lem><rdg/></app><app><lem/><rdg wit="#VI-TREVES-1920">d’asce</rdg></app> e di seghe, e le finestre erano state abbrunate fin dal giorno precedente. A buon’ora, dinanzi alla folla curiosa che gremiva la terrazza e le scalinate, avevano inchiodato sulla porta maggiore il drappellone di velluto nero con frange d’argento, sul quale leggevasi a caratteri d’oro:</p>
+<p>PER L’ANIMA<lb/>
+ DI<lb/>
+ DONNA TERESA UZEDA E RISA<lb/>
+ PRINCIPESSA DI FRANCALANZA<lb/>
+ ESEQUIE<lb/>
+</p>
+ <p>Verso sedici ore, don <app><lem wit="#VI-GALLI-1894">Cono</lem><rdg wit="#VI-TREVES-1920">Carlo</rdg></app> Canalà, col naso in aria, sotto la porta, spiegava al principe di Roccasciano, tra le gomitate di quelli che entravano continuamente:</p>
+<p>— Veda: all’esterno non giudicai conveniente... dilungarmi del soverchio... Massima semplicità: per l’anima... esequie... Penso che nella sua concisione... per avventura...</p>
+<p>Ma gli urti, le pestate di piedi, le esclamazioni dei curiosi non gli consentivano di filare il discorso; la gente sbucava a torrenti da tutte le parti, sospingevasi in chiesa, calpestava i mendicanti venuti a mettersi accosto alle porte ed ai cancelli per far baiocchi.</p>
+<p>— Sol esso il nome... onde i concetti, per avventura...</p>
+<p>Alla fine, don Cono si decise anch’egli ad entrare; ma, separato dal compagno, fu travolto, come un chicco di caffè nel macinino, dal turbine umano che per il troppo angusto passaggio s’ingolfava nella chiesa.</p>
+<p>Essa era buia, pei veli delle finestre, pei manti neri che rivestivano le pareti e pendevano dalle arcate delle cappelle e si stendevano <app><lem wit="#VI-GALLI-1894">su pel</lem><rdg wit="#VI-TREVES-1920">lungo il</rdg></app> cornicione. Sopra una piattaforma alta sei o sette gradini dal pavimento e girata da una triplice fila di ceri, sorgeva il catafalco: una piramide tronca le cui quattro facce, tappezzate d’ellera e di mortella, portavano nel mezzo, disegnati a fiori freschi, quattro grandi scudi della casa di Francalanza. Al sommo della piramide, due angeli d’argento inginocchiati da una sola gamba aspettavano di reggere il feretro. Ad ogni angolo inferiore del catafalco, su tripodi d’argento, erano confitte quattro torce grosse quanto le <app><lem wit="#VI-GALLI-1894">stanghe</lem><rdg wit="#VI-TREVES-1920">stanghe,</rdg></app> con uno scudo di cartone legato a mezz’asta; sei valletti con le livree del secolo XVIII, rosse, <app><lem wit="#VI-GALLI-1894">nere,</lem><rdg wit="#VI-TREVES-1920">nere</rdg></app> e dorate, impalati come statue, con le facce rase di fresco, reggevano ciascuno una delle antiche bandiere d’alleanza; dopo i valletti dodici prefiche, vestite di neri manti, coi capelli scarmigliati, stavano tutt’intorno al catafalco coi fazzoletti in mano, per asciugarsi le lacrime. Ma bisognava lavorar di gomiti, camminare sui piedi dei vicini, lasciarsi ammaccare le costole e pestare i calli e sudare una camicia prima d’arrivare a quell’apparato, intorno al quale una folla d’operai, di servi, di donnicciuole stava estatica ad ammirare, in attesa del corteo, il finto marmo della piattaforma, le urne di cartone scaglionate sui gradini, le lacrime di carta argentata gocciolanti dai veli neri: «Una galanteria!... Una cosa mai vista!... Per questo sono signoroni!... Lasciate fare a loro!... E dodici piangenti!... Neanche pel funerale del papa!... Ma il cadavere è già posto al colatoio per l’imbalsamazione.» E Vito Rosa, il barbiere del principe, spiegava: «Appena sceso dal Belvedere fu portato a palazzo e gli fecero girare gli appartamenti per l’ultima volta, come usano... Il cataletto era portato a spalla, senza stanghe... e tutta la parentela dietro, la servitù con le torce accese, come una processione!...» Le comari esclamavano: «E una tegola sotto il capo!... Che gli mancavano forse cuscini di velluto?... Anzi, questo è per maggior penitenza, con la tonaca di <app><lem wit="#VI-GALLI-1894">S.</lem><rdg wit="#VI-TREVES-1920">San</rdg></app> Placido: non capite?»</p>
+<p>Ma la gente incalzava alle spalle e i discorsi s’interrompevano, i primi arrivati dovevano cedere il posto,  dse ne andavano sotto il palco <app><lem wit="#VI-GALLI-1894">dell’orchestra</lem><rdg wit="#VI-TREVES-1920">dell’orchestra,</rdg></app> eretto <app><lem wit="#VI-GALLI-1894">addosso all’organo,</lem><rdg/></app><app><lem/><rdg wit="#VI-TREVES-1920">r</rdg></app><app><lem/><rdg wit="#VI-TREVES-1920">ridosso dell’organo,</rdg></app>a con quattro ordini di panche e i manichi dei<app><lem/><rdg wit="#VI-TREVES-1920">contrabbassi</rdg></app> <app><lem wit="#VI-GALLI-1894">contrabassi</lem><rdg/></app> che spuntavano dal più alto, ma ancora vuoto; o giravano dalla parte opposta, verso la cappella della Beata Uzeda, tutta splendente di lampade votive; e si fermavano, una volta fuor della ressa, a <app><lem wit="#VI-GALLI-1894">guardarne</lem><rdg/></app><app><lem/><rdg wit="#VI-TREVES-1920">guardare</rdg></app> l’altare scavato dove si vedeva, attraverso un vetro, la cassa antica rivestita di cuoio, che racchiudeva il corpo della santa donna; poi tentavano tornare verso il centro della chiesa per leggere le iscrizioni attaccate <app><lem wit="#VI-GALLI-1894">intorno</lem><rdg/></app> agli<app><lem/><rdg wit="#VI-TREVES-1920">altri</rdg></app> <app><lem wit="#VI-GALLI-1894">altari,</lem><rdg wit="#VI-TREVES-1920">altari;</rdg></app> ma la folla era adesso compatta come un muro. Don Cono Canalà, <app><lem wit="#VI-GALLI-1894">dato</lem><rdg wit="#VI-TREVES-1920">data</rdg></app> un’occhiata all’apparato, aveva tentato tre o quattro volte, per conto suo, d’avvicinarsi a qualcuno degli epitaffii, ma non era riuscito a spingersi tanto innanzi da leggerli; e col capo rovesciato, il cappello ammaccato dai continui urtoni, i piedi pestati, la camicia in sudore, tangheggiava come una barca in mezzo alla tempesta. Con belle maniere, dicendo: «Di grazia!... La prego!... Mi scusi!...» arrivò finalmente a tiro della prima tabella, dove leggevasi:</p>
+<p>SOTTO MULIEBRI SPOGLIE<lb/>
+ CUORE GAGLIARDO PIETOSO<lb/>
+ ANIMO ELETTO MUNIFICO<lb/>
+ SPIRITO SVEGLIATO FECONDO<lb/>
+ ONNINAMENTE DEGNA<lb/>
+DELLA MAGNANIMA STIRPE CHE LA <app><lem wit="#VI-GALLI-1894">FÉ</lem><rdg wit="#VI-TREVES-1920">FE’</rdg></app> SUA.</p>
+<p>— Onninamente?... — disse il barone Carcaretta che si trovava a fianco di don Cono. — Che cosa significa?</p>
+<p>— Importa interamente, o vogliam dire del tutto... Onninamente degna della stirpe... Come le piace questo concetto?...</p>
+<p>— Eh, va bene; ma non capisco perché si divertano a pescar le parole difficili!</p>
+<p>— Veda... — spiegò allora don Cono, insinuante: — lo stile epigrafico tiene al sommo grado del nobile e del sostenuto... Io non potevo adoprare...</p>
+<p>— Ah, l’avete scritta voi?</p>
+<p>— Sissignore... ma non solo, veramente: di unita col cavaliere don Eugenio... Io ho curato sovra tutto la forma... Bramerei vedere le altre: temo non abbian preso un qualche abbaglio, in copiando...</p>
+<p>Ma la chiesa era talmente gremita che potevano appena fare due passi ogni quarto d’ora; e tutt’intorno la gente che non riusciva ad andare nè avanti nè indietro nè a veder altro fuorché la cima della piramide, ingannava l’impazienza dell’attesa chiacchierando, dicendo vita, morte e miracoli della principessa: «Adesso i suoi figli potranno respirare! Li ha tenuti in un pugno di ferro...<app><lem/><rdg wit="#VI-TREVES-1920">—</rdg></app> I suoi figli: quali?...<app><lem/><rdg wit="#VI-TREVES-1920">—</rdg></app> Costrinse don Lodovico, il secondogenito, a farsi monaco mentre gli toccava il titolo di duca; la primogenita fu chiusa alla badia!... Se campava ancora ci avrebbe messo anche l’altra!... Maritò Chiara perché questa non voleva maritarsi!... Tutto per amor d’un solo, del contino Raimondo... — Ma il padre?... — Il padre, ai suoi tempi, non contava più del due di briscola; la principessa teneva in un pugno lui e il suocero!...»</p>
+<p>Però tutti riconoscevano che, se non fosse stata lei, a quell’ora non avrebbero avuto più niente. Ignorante, sì; ma accorta, calcolatrice!</p>
+<p>— È vero che non sapeva leggere nè scrivere?</p>
+<p>— Sapeva leggere soltanto nel libro delle devozioni e in quello dei conti!</p>
+<p>Frattanto don Cono avvicinavasi, a passo di formica, alla seconda iscrizione:</p>
+<p>ORBATA<lb/>
+ DEL TUO FIDO CONSORTE<lb/>
+ NEL MORTALE VIAGGIO<lb/>
+ VECE FACESTI<lb/>
+ AI TUOI FIGLI<lb/>
+DEL PADRE LORO.</p>
+<p>Prima ancora di scorgere i caratteri, don Cono che la sapeva a memoria, recitò l’epigrafe al barone, fermandosi un poco a ciascuna parola, più a lungo ad ogni capoverso, gestendo con la mano come se spruzzasse acqua benedetta, per sottolineare i passaggi salienti:</p>
+<p>— Ignoro se approvate questo concetto: orbata... vece facesti...</p>
+<p>Ma nuove ondate della folla lo divisero la seconda volta dal compagno. Veniva ora dalla terrazza e dalle scalinate un vasto <app><lem wit="#VI-GALLI-1894">sussurro</lem><rdg wit="#VI-TREVES-1920">sussurro,</rdg></app> perché i rintocchi del mortorio annunziavano finalmente la partenza del corteo dal palazzo.</p>
+<p>Intorno alla casa Francalanza c’era <app><lem wit="#VI-GALLI-1894">come</lem><rdg wit="#VI-TREVES-1920">sempre</rdg></app> una fiera, per le tante carrozze aspettanti, pel tanto popolo fremente d’impazienza. Dal portone socchiuso vedevasi un’altra folla ragunata nei due cortili, uno sciame di servi con le livree nere che andavano e venivano, il maestro di casa senza cappello che s’affannava a dar ordini, la carrozza di gala a quattro cavalli che sarebbe servita da carro funebre. Quando finalmente le due pesanti imposte girarono sui cardini, tutte le teste si voltarono, tutte le persone s’alzarono sulle punte dei piedi. Veniva innanzi la fila dei frati cappuccini con la croce, poi la carrozza funebre, dentro alla quale si vedeva il feretro di velluto rosso, fiancheggiata da tutta la servitù con le torce in mano; poi l’Ospizio Uzeda dei vecchi indigenti, tutti a testa nuda; poi le ragazze dell’Orfanotrofio coi veli azzurri pendenti fino a terra; poi tutte le carrozze di famiglia: altri due tiri a quattro, cinque tiri a due, e poi ancora un altro gruppo di gente: una quarantina d’uomini, la più parte barbuti, con le giubbe di velluto nero, anch’essi coi ceri in mano.</p>
+<p>— Chi sono?... Di dove spuntano?...</p>
+<p>Erano i zolfai delle miniere dell’Oleastro chiamati a posta da Caltanissetta per l’accompagnamento della padrona: quest’ultimo accessorio finiva di sbalordire tutti quanti: ancora non s’era <app><lem wit="#VI-GALLI-1894">visto</lem><rdg wit="#VI-TREVES-1920">vista</rdg></app> una cosa simile!... Ma gli equipaggi che s’avanzavano da ogni parte per mettersi in fila sbaragliavano la calca: tiri a quattro che venivano a prendere i primi posti, tiri a due che rinculavano scalpitando tra un fitto<app><lem/><rdg wit="#VI-TREVES-1920">schioccar</rdg></app> <app><lem wit="#VI-GALLI-1894">scioccar</lem><rdg/></app> di fruste; e i curiosi, a rischio di lasciarsi pestare sotto i piedi delle bestie, li venivano riconoscendo dagli stemmi degli sportelli e anche dai cocchieri:</p>
+<p>— Il duca Radalì... il principe di Roccasciano... <app><lem wit="#VI-GALLI-1894">Il</lem><rdg wit="#VI-TREVES-1920">il</rdg></app> barone Grazzeri... i Cùrcuma... i Costante... non manca nessuno!...</p>
+<p>Di repente tutti si volsero a un lontano vocìo:</p>
+<p>— Che è?... Che cos’è stato?... La carrozza di Trigona!... Il cocchiere non vuole andare in coda, gli altri non cedono il posto... Ha ragione!... Questi sono soprusi!...</p>
+<p>Il cocchiere del marchese Trigona, appunto, quantunque guidasse un trespolo tirato da due ronzinanti, non voleva mettersi in coda dove c’erano le carrozze dei non nobili più belle della sua. E Baldassarre, tutto in sudore per la fatica sostenuta nell’ordinare il corteo, nel far rispettare le precedenze, s’avanzava per dar ragione al cocchiere, aprendosi a stento il varco tra la folla, allungando ceffoni ai monelli che gli si mettevano <app><lem wit="#VI-GALLI-1894">tra</lem><rdg wit="#VI-TREVES-1920">fra</rdg></app> i piedi, ingiungendo: «Largo!... largo!...» mentre una buona metà dell’accompagnamento s’era avviata.</p>
+<p>Il mortorio sonato da tutte le chiese della città chiamava gente da ogni parte sul suo passaggio; ma specialmente il campanone della cattedrale sospingeva a frotte i curiosi. Sonava a morto solo pei nobili e i dottori, e il suo nton-nton grave e solenne costava quattr’onze di moneta; talché la gente, udendo la gran voce di bronzo, diceva: «Se n’è andato qualche pezzo grosso!»</p>
+<p>E ancora buon numero di carrozze, dopo quella di Trigona, aspettavano d’incamminarsi, che già la testa del corteo fermavasi ai Cappuccini.</p>
+<p>Impossibile portare in chiesa la bara dalle scale. Non già che pesasse molto, ché anzi era vuota; ma la ressa, sulle scale, cresceva, nessuno poteva andare nè avanti nè indietro, solo il cannone avrebbe potuto far luogo. Bisognò girare la situazione, aprire un varco fra la turma che gremiva la salita del Santo Carcere e di San Domenico e portare il feretro dal convento e dalla sacrestia: trascorse quasi un’ora prima che fosse posto sul catafalco.</p>
+<p>I sonatori avevano già preso posto sul palco e sfoderato i loro strumenti, i frati accendevano con le canne lunghe i ceri dell’altar maggiore. E i curiosi stipati nella chiesa, continuando a parlar della morta, si rivolgevano insistentemente una domanda e si proponevano una quistione: «Chi sarà l’erede?...» Nobili e plebei, ricchi e poveri, tutti volevano sapere che direbbe il testamento, come se la morta avesse potuto lasciar qualcosa a tutti i suoi concittadini. Aspettavano,<app><lem/><rdg wit="#VI-TREVES-1920">al</rdg></app> <app><lem wit="#VI-GALLI-1894">a</lem><rdg/></app> palazzo, l’arrivo del contino da Firenze e del duca da Palermo per leggere le ultime volontà della principessa; e le opinioni, nel pubblico, erano diametralmente opposte: alcuni sostenevano che tutto sarebbe andato al contino; ma, quantunque la defunta odiasse il primogenito, era proprio possibile che lo diseredasse? «Nossignore: tutto andrà al primogenito: è vero che non lo poteva soffrire, ma è il capo della casa, l’erede del principato!...»</p>
+<p>Un nuovo pigia pigia troncò di botto ogni discorso, infittì la folla in fondo <app><lem wit="#VI-GALLI-1894">della</lem><rdg wit="#VI-TREVES-1920">alla</rdg></app> chiesa: entravano le orfanelle del Sacro Cuore con le vesti verdi e gli scialletti <app><lem wit="#VI-GALLI-1894">bianchi:</lem><rdg wit="#VI-TREVES-1920">bianchi;</rdg></app> Baldassarre, tutto vestito di nero, le dirigeva verso l’altar maggiore, ingiungendo:</p>
+<p>— Largo, largo, signori miei!...</p>
+<p>Un bambino, mezzo soffocato tra la calca, si mise a strillare; un mendicante, riuscito ad entrare, inciampò contro un gradino d’altare e cadde per terra.</p>
+<p>BENEFICENTE<lb/>
+ COI DERELITTI <lb/>
+ L’OBOLO DELLA CARITÀ<lb/> 
+ TI FIA RESO <lb/>
+ CENTUPLICATO <lb/>
+CON L’ESPIATORIE PRECI.</p>
+<p>Don Cono declamava, a bassa voce, l’altra iscrizione al canonico Sortini che aveva pescato tra la folla:</p>
+<p>— Conciliar l’invenzione del concetto con la venustà della forma: difficoltà precipua dello stile epigrafico... L’obolo... centuplicato... non so se mi appongo...</p>
+<p>Adesso l’altar maggiore era tutto una fiamma, dai tanti ceri; il movimento dei frati e dei sagrestani cresceva; sul palco della musica accordavano gli strumenti, un clarino sospirava, gli archetti stridevano, un contrabasso borbottava; e Baldassarre, aiutato dai camerieri di tutta la parentela, vestiti di nero anch’essi, faceva disporre due file di sedie pei vecchi e le orfanelle: le sedie, tenute alte sulla folla, parevano navigare sul mar delle teste, e poiché sempre nuova gente entrava a furia, la ressa era terribile. I fiati, l’odor di moccolaia, il caldo della giornata facevano della piccola chiesa una bolgia; alcune donne erano già svenute, in due o tre punti si litigava fra chi voleva spingersi avanti e chi non voleva tirarsi indietro; ma nessuno si decideva ad andarsene; e negli angoli, lungo i muri, avanti agli altari, i curiosi, gli scioperati rifacevano la storia della morta e della famiglia, ne commentavano le stravaganze:</p>
+<p>— La cassa con tre chiavi!... Sarà tanto più difficile tornare a questo mondo!... E la tonaca e il rosario!... Tanta penitenza con un funerale da regina!</p>
+<p>A voce più bassa le male lingue aggiungevano:</p>
+<p>— Dopo l’allegra vita!...</p>
+<p>Accanto alla pila dell’acqua santa, in mezzo a un crocchio di nobilastri invidiosi e a corto di quattrini, don Casimiro Scaglisi annunziava:</p>
+<p>— E il principe? Non sapete che ha fatto il principe? Quand’ebbe la notizia della morte della madre, scappò al Belvedere senza far chiudere il portone, per avere il tempo d’arrivar solo alla villa, e senza avvertir Ferdinando alla Pietra dell’Ovo...</p>
+<p>Alcuni protestarono: don Casimiro confermò:</p>
+<p>— Se ve lo dico io!... Per aver tempo di maneggiarsi, di far sparire carte e denari!</p>
+<p>Tutt’intorno scrollavano il capo: don Casimiro parlava così per astio, giacché fin a tre giorni addietro era stato lavapiatti di casa Francalanza, ma fin da quando la principessa era andata in campagna, il principe non l’aveva più ricevuto, credendolo <app><lem wit="#VI-GALLI-1894">jettatore.</lem><rdg wit="#VI-TREVES-1920">iettatore.</rdg></app></p>
+<p>— Del resto, scusate, — gli facevano osservare — che bisogno aveva mai il principe d’allontanare Ferdinando?</p>
+<p>— Sissignori, fa la vita del Robinson <app><lem wit="#VI-GALLI-1894">Crosuè</lem><rdg wit="#VI-TREVES-1920">Crusoè</rdg></app> alla Pietra dell’Ovo, non s’occupa d’affari e in famiglia lo chiamano il Babbeo, col soprannome messogli da sua madre. Ma che vuol dire? Babbeo o no, il principe non voleva nessuno dei suoi tra i piedi!... Vi dico che lo so di sicuro!</p>
+<p>Un altro osservò:</p>
+<p>— Non parlate male di Ferdinando; con le sue <app><lem wit="#VI-GALLI-1894">manie</lem><rdg wit="#VI-TREVES-1920">manìe</rdg></app> non fa male a nessuno; è il migliore di tutta la casata.</p>
+<p>— Tanto che non parrebbe dello stesso seme... — rispose don Casimiro.</p>
+<p>— Sst, sst! Siamo in chiesa, — gl’ingiunsero.</p>
+<p>— Passa don Cono.</p>
+<p>Don Cono adesso traversava la chiesa per leggere l’iscrizione posta sulla pila dell’acqua benedetta; come fu giunto vicino al crocchio, lo fermarono:</p>
+<p>— Don Cono!... Don Cono!... Voi che avete la vista lunga; come dice lassù?</p>
+<p>E don Cono compitò:</p>
+<p>IN QUESTO TEMPIO <lb/>
+ OVE IL FRALE SI ACCOGLIE <lb/> 
+ DELLA BEATA UZEDA <lb/>
+ <app><lem wit="#VI-GALLI-1894">CORROBORATE</lem><rdg wit="#VI-TREVES-1920">CORROBORATI</rdg></app> <lb/>
+ FIENO LE PRECI <lb/>
+DALL’INTERCESSORA <app><lem wit="#VI-GALLI-1894">PARENTE.</lem><rdg wit="#VI-TREVES-1920">PARENTE</rdg></app></p>
+<p>— Bellissimo! Bravo!... Bene l’intercessora... — esclamarono in coro; ma un sst prolungato passò di repente di bocca in bocca: il maestro Mascione, appollaiato in cima al palco dell’orchestra, aveva picchiato tre colpi sul leggio; e le conversazioni morirono, tutte le teste si volsero verso i sonatori. In mezzo all’attenzione generale don Casimiro urtò a un tratto col gomito i vicini, esclamando piano:</p>
+<p>— Guardate! Guardate!</p><p>
+Entrava in quel punto, protetto contro la folla dal servitore, il vecchio don Alessandro Tagliavia: nonostante l’età, reggeva ancora diritta l’alta persona e dominava la folla con la bella testa bianca e rosea, dagli occhi chiari com’acqua marina e dai baffi bionditi dal tabacco. Non potendo avanzare, guardava da lontano il catafalco, il palco della musica, le tabelle degli<app><lem/><rdg wit="#VI-TREVES-1920">epitaffii;</rdg></app> <app><lem wit="#VI-GALLI-1894">epitaffi;</lem><rdg/></app> e intanto, nel silenzio fattosi come per incanto, l’orchestra intonava il preludio: un lungo gemito, suoni rotti in cadenza come da brevi singulti si diffondevano per la chiesa, e le piangenti <app><lem wit="#VI-GALLI-1894">ripresero</lem><rdg wit="#VI-TREVES-1920">riprendevano</rdg></app> a lacrimare, mentre i monaci, dinanzi all’altare, cominciavano le genuflessioni. Molti capi si chinarono, al sordo vocìo sottentrò un raccoglimento profondo.</p>
+<p>— Guardate!... — ripetè don Casimiro, nel gruppo accanto alla pila. — È venuto a dirle l’ultimo addio!</p>
+<p>Tutti avevano gli occhi fissi sul vecchio: il lavapiatti a spasso continuò, interrompendosi quando l’orchestra taceva:</p>
+<p>— Ed io che me lo rammento piangere come un bambino... come un disperato... quando la morta lo lasciò per Felice Cùrcuma... dopo quello che c’era stato fra loro!... Adesso lei è a marcire al colatoio... Lui camperà vent’anni ancora: una salute di ferro... — A voce più bassa, mentre le trombe tratto tratto squillavano e le voci cantavano Requiem aeternam dona eis, aggiunse: — Ed ha la sua brava ragazza, in una <app><lem wit="#VI-GALLI-1894">casina</lem><rdg wit="#VI-TREVES-1920">villetta</rdg></app> al Borgo... Tutte le sere le passa con lei!...</p>
+<p>Il vecchio tentava ancora di avvicinarsi ad una iscrizione; ma poiché, principiata la messa, nessuno più si moveva, tornò indietro. Giunto sulla porta della chiesa, colpendogli l’aria fresca la fronte, si calcò il cappello sulla testa che non era ancor fuori.</p>
+<p>— Sic transit gloria mundi!...</p>
+<p>Però, passato il primo effetto della musica, le conversazioni andavano qua e là riappiccandosi; e Raciti, il primo violino del Comunale, borbottava in mezzo agli sconosciuti:</p>
+<p>— Bell’apparato, non c’è che dire; bella funzione!... La quistione è di sapere chi pagherà!</p>
+<p>Era furente, dopo che il signor Marco aveva preferito la messa di Mascione a quella di suo figlio; ma si consolava sparlando della casata: non c’era l’eguale per la stitichezza nel pagare; e Titta Caruso, il bollettinaio del teatro, ne sapeva qualcosa, costretto com’era ogni anno a far cento volte le scale del palazzo prima di vedersi pagato l’appalto del palchetto: oggi non c’era il principe, domani non c’era la principessa, un’altra volta mancava pel signor Marco, poi erano tutti in campagna...</p>
+<p>— Mio figlio Salvatore non voleva offrir loro la sua messa? Meglio sonarla gratis per le anime del Purgatorio; almeno se ne guadagna altrettanta salute all’anima!</p>
+<p>E voltò le spalle, furioso, per andarsene, mentre intonavano il Tuba mirum rubato al Palestrina!... Come lui, erano venuti in chiesa quanti eran corsi nei primi momenti<app><lem/><rdg wit="#VI-TREVES-1920">al</rdg></app> <app><lem wit="#VI-GALLI-1894">a</lem><rdg/></app> palazzo per offrire i loro servigi; ma i rimasti a mani vuote tiravano adesso in ballo le storie d’avarizia e d’intima spilorceria di quella famiglia il cui lusso era solo apparente: la principessa, una volta, non aveva fatto citare dinanzi al giudice il suo calzolaio perché le restituisse il prezzo di un paio di scarpe non riuscite di suo gradimento? E in cucina, il cuoco non aveva l’ordine di scolar l’olio rimasto nella padella dopo la frittura per riconsegnarlo alla padrona?</p>
+<p>— Più sono ricchi, cotesti porci, più sono spilorci!...</p>
+<p>Un zitti! imperioso troncò le chiacchiere: l’orchestra intonava il Che dirò io misero? e la gente che stava attenta alla musica non voleva esser disturbata. Ma dopo un momento le conversazioni si riannodarono.</p>
+<p>In certi crocchi di liberali, vantavano il patriottismo del duca Gaspare, sotto voce, però, e guardandosi intorno per paura che qualche spia non udisse.</p>
+<p>— Un colpo al cerchio e un altro alla botte! — esclamava don Casimiro accanto alla pila. — In questa casa chi fa il rivoluzionario e chi il borbonico; così sono certi di trovarsi bene, qualunque cosa avvenga! La ragazza Lucrezia non fa la liberale per amore di quello sciocco di Benedetto Giulente?...</p>
+<p>Il barone Carcaretta, unitosi ai <app><lem wit="#VI-GALLI-1894">maldicenti</lem><rdg wit="#VI-TREVES-1920">maldicenti,</rdg></app> protestò:</p>
+<p> — Non daranno mai un’Uzeda a un Giulente!</p>
+<p>E don Casimiro:</p>
+<p>— Per questo io dico che il Giulente è uno sciocco...</p>
+<p>— Silenzio, eccoli lì.</p>
+<p>Il giovanotto infatti entrava in quel momento insieme con suo zio don Lorenzo, il celebre liberale lavapiatti del duca.</p>
+<p>— E così? — domandò don Casimiro — quando la farete questa rivoluzione?</p>
+<p>— Non lo diremmo a voi, in ogni caso! — rispose Benedetto sorridendo.</p>
+<p>Allora l’altro si rivolse allo zio:</p>
+<p>— E il vostro amico, il duca? Gli muore la cognata, i suoi nipoti l’aspettano, e non parte subito? Che sta macchinando?</p>
+<p>— A voi che importa?</p>
+<p>— A me? Un fico secco! Io non faccio il lavapiatti a <app><lem wit="#VI-GALLI-1894">nessuno!</lem><rdg wit="#VI-TREVES-1920">nessuna!</rdg></app></p>
+<p>— I lavapiatti — rispose don Lorenzo — dovete sapere che io li ho tenuti sempre in cucina...</p>
+<p>— Silenzio!... Siamo in chiesa.</p>
+<p>La preghiera ieratica diceva giustamente: «Serbami un posto nel gregge.» Ma don Casimiro non voleva riconoscere che il dispiacere di non goder più dell’intimità degli Uzeda lo animava contro di loro.</p>
+<p>— Bestioni! — esclamò, quando i due Giulente si allontanarono. — Mi diranno poi come finirà loro, con quei birbanti!</p>
+<p>Il principe di <app><lem wit="#VI-GALLI-1894">Roccasciano</lem><rdg wit="#VI-TREVES-1920">Roccasciano,</rdg></app> che aveva girato per la chiesa sballottato dalla folla, fu sospinto in mezzo al gruppo; tutta la sua <app><lem wit="#VI-GALLI-1894">persona</lem><rdg wit="#VI-TREVES-1920">persona,</rdg></app> così piccola e magra che pareva fatta in economia, esprimeva uno straordinario stupore:</p>
+<p>— Signori miei, che funerale! che spesa!... Ci saranno per lo meno cent’onze di cera! E l’apparato! La messa cantata! Io vi so dire che per la felice memoria di mio padre spesi sessantotto onze e tredici tari, e che feci? Niente!... Qui vi dico che ci sono spese cent’onze di sole torce...</p>
+<p>— Sst... il Lux aeterna.</p>
+<p>Ad ogni passaggio della messa operavasi un rimescolamento nella folla: alcuni tentavano uscire, la più parte mutavan di posto, giravano intorno al catafalco, andavano a leggere le iscrizioni. Restava a don Cono da verificar l’ultima; don Casimiro gli si pose alle costole, seguito da parecchi della comitiva.</p>
+<p>AHI DURA MORTE<lb/>
+ IL PIANTO<lb/>
+ D’UNA ILLUSTRE PROSAPIA <lb/>
+ D’UN POPOLO INTERO <lb/>
+ A DISARMARE IL TUO BRACCIO <lb/>
+NON VALSE.</p>
+<p>— Benissimo! — fece don Casimiro. — La prosapia è illustre: discende difilato dall’anche d’Anchise. Il popolo piange: non vedete le lacrime? — e mostrava quelle  d’argento che frangiavano l’addobbo funebre. — Piangono anche le ragazze dell’Orfanotrofio... pensando che andranno a finir cameriere dell’illustre principe...</p>
+<p>— Parmi sconvenga... — obbiettò don Cono.</p>
+<p>— E v’accerto io che sono tutti disperati per questa morte, dal gran bene che si vogliono in casa. Poh! Non possono stare un giorno senza abbracciarsi e baciarsi...</p>
+<p>— Parmi sconvenga...</p>
+<p>— Prudenza, signori miei... siamo in chiesa!</p>
+<p>Giusto, la ripresa del Dies irae assordava tutti; i <app><lem wit="#VI-GALLI-1894">preti</lem><rdg wit="#VI-TREVES-1920">frati</rdg></app> erano scesi verso il catafalco, benedicendo; la musica intonava il Libera me, riprendeva le frasi del principio, implorava il Requiem. «È finito?... Se Dio vuole!» E un rimescolamento generale: chi era rimasto lontano dal catafalco e dalle iscrizioni vi si dirigeva; molti che non reggevansi più in piedi dalla stanchezza, s’avvicinavano alle porte; ma lì la confusione e la ressa ricominciavano più grandi; perché tutta la gente rimasta fuori, credendo <app><lem wit="#VI-GALLI-1894">finalmente di poter entrare</lem><rdg wit="#VI-TREVES-1920">che,</rdg></app> finita la messa,<app><lem/><rdg wit="#VI-TREVES-1920">fosse agevole entrare,</rdg></app> s’affollava tumultuosamente, cozzando contro quelli che <app><lem wit="#VI-GALLI-1894">tentavano</lem><rdg wit="#VI-TREVES-1920">volevano</rdg></app> uscire, travolgendo gli storpi, i ciechi e i mutilati che arrischiavano nuovamente di tender la mano ai passanti. «Adagio!... I piedi!... Che maniera!» e dominando quel vocìo veniva dalla piazza un incessante scalpitar di cavalli: le carrozze del corteo funebre che sfilavano una dopo l’altra, andandosene.</p>
+<p>Il principe di Roccasciano, affacciato dalla terrazza, le veniva numerando:</p>
+<p>— Sette tiri a quattro, sessantatre carrozze padronali, dodici di rimessa — disse, quando passò l’ultima. E fece il conto: — A dodici tari l’una, tolte quelle di famiglia, sono trentaquattr’onze!...</p>
+<p>Allora l’onda degli spettatori cominciò a disperdersi. I poveri rimasti accoccolati lungo i muri poterono finalmente trascinarsi ai loro posti; ma oramai non passava più nessuno.</p>
+    </div>
+	<div n="Parte Seconda Capitolo IV">	
+		<head>PARTE SECONDA</head>
+		<head>IV.</head>
+		<p xml:id="n1">
+				 L&apos;impressione prodotta da quell&apos;avvenimento fu tale che tutt&apos;a un tratto Garibaldi e Rattazzi, Roma ed Aspromonte passarono in seconda linea. Il conte Uzeda con donna Isabella! All&apos;albergo insieme, quasi fossero due innamorati fuggiti di casa per forzar la mano alle famiglie! E la contessa? E il barone? Com&apos;era successo il pasticcio? E come sarebbe andato a finire? Pasqualino Riso, reduce da Firenze, col padrone, fu assediato di domande. Pareva un signore, Pasqualino: abito tagliato all&apos;ultima moda, biancheria finissima, anelli alle dita, scarpe verniciate, ché se non era la faccia sbarbata, ognuno lo avrebbe preso per un cavaliere. E nelle portinerie, nelle stalle, nei caffè dei cocchieri, nelle anticamere della parentela, diede tutte le spiegazioni desiderate. «Che il contino non potesse durarla a lungo con la moglie, egli l&apos;aveva previsto da un pezzo, e tutti avevano potuto accorgersene l&apos;anno innanzi, quando il signor don Raimondo era scappato lontano da quella donna che gli amareggiava l&apos;esistenza. Lo sapevan tutti che egli voleva bene a donna Isabella; dunque la contessa, se fosse stata un&apos;altra, che cosa avrebbe dovuto fare? Usar prudenza, per amore dei figli! Invece, 
+				<app n="1">
+					<lem wit="#VI-GALLI-1894">nossignore</lem>
+					<rdg wit="#VI-TREVES-1920">nossignori</rdg>
+				</app>
+				: pianti, strepiti, accuse, minaccie, suo padre sempre tra i piedi: bisognava 
+				<app n="2">
+					<lem wit="#VI-GALLI-1894">essere</lem>
+					<rdg wit="#VI-TREVES-1920">esser</rdg>
+				</app>
+				 fatti di stucco per resisterci! Ma quantunque la pazienza fosse scappata una prima volta al povero contino, pure egli aveva ceduto — tant&apos;era vero che il torto non stava dalla sua parte! — dimenticando il passato, rassegnandosi a tornar con lei perché i figli ne andavan di mezzo. Gli uomini, si sa, non possono star sempre cuciti alle gonne delle mogli, e il contino non aveva fatto più di 
+				<app n="3">
+					<lem wit="#VI-GALLI-1894">quel</lem>
+					<rdg wit="#VI-TREVES-1920">ciò</rdg>
+				</app>
+				 che fanno tutti i mariti. Le donne accorte, quelle che hanno due dita di cervello, capiscono queste cose, chiudono un occhio e fanno la volontà di Dio. Invece, quella santa cristiana della contessina, dopo d&apos;aver promesso d&apos;essere ragionevole, aveva cominciato da capo; ma come? peggio di prima! Suo marito non poteva pigliare un po&apos; d&apos;aria che lei non gli facesse una scenata: se andava al Glubbo a trovar gli amici, a far quattro passi, subito i sospetti, i pianti ed i rimproveri. E gli strepiti per la passeggiata alle Cassine? Il contino, che usciva a cavallo, ci trovava donna Isabella in carrozza e, naturale! si fermava a salutarla; giusto in quel punto: ciaff-ciaff, chi spuntava? la carrozza della padrona!... O buona donna, se questo le dispiaceva, perché non se ne andava al giardino dei Popoli, che non è meno bello?... E poi, con le bambine? con quel diavoletto della maggiore che capiva tante cose come una donna fatta? Le bambine avrebbe dovuto lasciarle alla Missa inglese che il contino aveva preso appunto per questo!... La sera, poi, a casa, un inferno! E il povero contino: santa pazienza, aiutami tu!... La padrona, quando smetteva di andargli dietro, cominciava un&apos;altra musica: chiusa in camera quindici giorni di fila, senza metter fuori la punta del naso, non ascoltando né ragioni né preghiere, senza riguardi per la bambina piccola che aveva bisogno di pigliar aria e non voleva andar fuori se la sua mamma restava in casa! E il conte: santa pazienza!... Ma questo sarebbe stato niente: finché era sua moglie quella che lo metteva con le spalle al muro, il padrone sopportava tutto in santa pace. Un bel giorno, che pensa di fare la contessa? Pensa di chiamare suo padre, di metterselo in casa e di scatenare una guerra tra suocero e genero!... Bisognava che fosse ammattita! Lei, fino a un certo punto, poteva mescolarsi nelle faccende del contino; ma suo padre? Chi era suo padre? Un estraneo, villano rivestito per giunta, e rompiscatole anche! Diciamo le cose come sono: prima di tutto gli mancava l&apos;educazione: uno che aveva imparato alle figlie a dargli del tu! Istigato poi dalla contessa, era diventato una bestia, salvo sempre il santo battesimo, e il conte doveva sorbirsi le sue impertinenze, in casa propria! Un giorno, solo per aver detto che certi affari gli impedivano d&apos;accompagnare la moglie al teatro, il barone villano ardì perfino minacciarlo col bastone! Santo Dio d&apos;amore, era un po&apos; troppo! Il contino non gli disse niente, altro che una parola: Facchino!... quella che ci voleva! e preso il cappello se n&apos;andò, per sempre, stavolta. Chi poteva più consigliargli di tornare a perdonare? Le figlie, pazienza, sarebbero andate in collegio, o, se la padrona voleva tenerle con sé, il padrone 
+				<app n="4">
+					<lem wit="#VI-GALLI-1894">glie le avrebbe</lem>
+					<rdg wit="#VI-TREVES-1920">gliele avrebbe anche</rdg>
+				</app>
+				 lasciate... quantunque... quantunque... Perché il più curioso, signori miei, era questo: che la contessa, mentre faceva la gelosa, si divertiva anche lei in società! Non che fosse successo niente; in coscienza, questo non si poteva dire, né il padrone sarebbe restato con le mani a cintola, se mai! ma bisognava vedere che smania di andare ai balli, al teatro; che sfarzo di abiti quando riceveva tanti uomini, tanti scapoli, un certo conte Rossi, fra gli altri, il padrone di casa...» E la storia di Pasqualino passava di bocca in bocca, era ripetuta dai cocchieri ai famigli, dai guatteri ai cuochi, dai portinai agli affittacamere, ciascuno dei quali ci ricamava su qualcosa del proprio, finché, arrivando al gran pubblico, preparava l&apos;opinione, guadagnava simpatie alla causa del conte. Molti però scrollavano il capo, non si lasciavano prendere; e a poco a poco, senza che si sapesse donde, da certe informazioni venute da Firenze e da Milazzo, da certe parole sfuggite allo stesso Pasqualino quando si trovava a quattr&apos;occhi con gl&apos;intimi, dopo aver bevuto, la verità cominciava a venire a galla. Raimondo aveva giurato di romperla con sua moglie nel punto stesso che lo zio duca lo costringeva a riprenderla. Come tutte le volte che cercavano dissuaderlo da un proposito, egli s&apos;era maggiormente incaponito. Lontano da Matilde e da donna Isabella
+				<app n="5">
+					<lem wit="#VI-GALLI-1894"></lem>
+					<rdg wit="#VI-TREVES-1920">,</rdg>
+				</app>
+				 aveva goduto l&apos;illusione di quella libertà che gli stava a cuore sopra ogni cosa; costretto a rinunziarvi, s&apos;era promesso di riguadagnarla a qualunque costo, e la sua facile sottomissione ai consigli del duca non aveva avuto altro scopo che dimostrare, con la propria arrendevolezza, il torto della moglie, unico punto in cui la versione di Pasqualino non mentisse del tutto. L&apos;ideale del suo padrone era di liberarsi della moglie e dell&apos;amica ad un tempo; ma il conto era fatto senza l&apos;oste, cioè senza donna Isabella. Fin dai primordii dell&apos;amicizia con Raimondo, fin da quando, in casa del marito, ella resisteva alla corte del giovane, dimostrandogli simpatia ma opponendogli i doveri del proprio stato, gli aveva detto e ripetuto, con un rammarico che doveva dargli la prova dei suoi sentimenti per lui: «Se ci fossimo conosciuti prima, liberi entrambi! Come saremmo stati felici!...» E quelle parole alle quali egli non credeva, lo gelavano, e più lo avrebbero gelato se le avesse credute espressione di un sentimento sincero: come il gran torto di sua moglie era il bene che gli voleva, la pretesa di averlo tutto per sé, di far tutt&apos;uno con lui, torto egualmente grave sarebbe stato una simile pretesa da parte dell&apos;amica. Tuttavia, impegnato a vincere le sue resistenze, anch&apos;egli le aveva ripetuto: «Come saremmo stati felici!» e giurato che l&apos;unico suo sogno era di vivere con lei, per lei. Dopo, aveva tentato di dare addietro; ma donna Isabella, perdutasi per lui, senza famiglia, senza protezione, non intendeva che le sfuggisse. Per ricondurre a sé quel tiepido amante, del quale aveva imparato a conoscere a proprie spese la conformazione, le era bastato addebitare la freddezza di lui all&apos;opposizione dei parenti, alla volontà della moglie. Ognuna di queste allusioni era un colpo di sprone nei fianchi del giovane; impegnato a dimostrarle che era libero di fare ciò che voleva
+				<app n="6">
+					<lem wit="#VI-GALLI-1894"></lem>
+					<rdg wit="#VI-TREVES-1920">,</rdg>
+				</app>
+				 egli faceva ciò che non voleva... E il martirio della contessa Matilde era ricominciato, più atroce di prima, accresciuto dal nuovo disinganno, dall&apos;impossibilità di ricorrere al padre, non già perché ella credesse all&apos;abbandono di cui l&apos;aveva 
+				<app n="7">
+					<lem wit="#VI-GALLI-1894">minacciato</lem>
+					<rdg wit="#VI-TREVES-1920">minacciata</rdg>
+				</app>
+				, ma per una specie d&apos;impegno contratto dinanzi a sé stessa di non confessare l&apos;errore, per l&apos;antica paura d&apos;un urto tra quelle due nature violente... Suo padre, quand&apos;ella si sentì più sola e perduta, la raggiunse. Il suo cieco amore per la figlia e il non meno cieco odio pel genero avevano reso 
+				<app n="8">
+					<lem wit="#VI-GALLI-1894">vani i suoi propositi</lem>
+					<rdg wit="#VI-TREVES-1920">vano il suo proponimento</rdg>
+				</app>
+				 d&apos;indifferenza; da lontano egli li seguiva di passo in passo, aspettando l&apos;ora d&apos;intervenire: e quando la misura fu colma apparve. E Pasqualino l&apos;aveva proprio udito
+				<app n="9">
+					<lem wit="#VI-GALLI-1894"></lem>
+					<rdg wit="#VI-TREVES-1920">,</rdg>
+				</app>
+				 il colloquio fra suocero e genero, la spiegazione definitiva avvenuta, dopo pochi giorni di calma apparente, giù nelle scuderie del palazzo Rossi, per impedire che Matilde, che le bambine udissero. Alle ingiunzioni sordamente minacciose del barone che gli diceva: «Non vuoi finirla? Non vuoi?» Raimondo aveva risposto col tono consueto di sprezzante superiorità: «Di che intendete parlare? 
+				<app n="10">
+					<lem wit="#VI-GALLI-1894">Mescolatevi</lem>
+					<rdg wit="#VI-TREVES-1920">Occupatevi</rdg>
+				</app>
+				 di ciò che vi riguarda!...» Sì, di ciò che lo riguardava, rispondeva il barone, della pace di sua figlia che gli stava a cuore sopra ogni cosa, che voleva garantita a qualunque costo, a costo di portarsela via e di romperla per sempre... «E chi vi trattiene? Andatevene pure!» Era appiattato nella stalla, Pasqualino, lì a costo, e se udiva i padroni non poteva vederli; ma a quella risposta del contino, al breve silenzio da cui era stata seguita, aveva sentito un certo senso di freddo in pelle in pelle. «Sì, ce ne andremo... ma prima...» E allora Pasqualino accorse. Col sangue agli occhi, il pugno levato, il barone aveva già agguantato il genero; ma, senza il cocchiere gettatosi in mezzo, era bastato a Raimondo dire una sola parola: «Facchino!...» perché tutt&apos;a un tratto il suocero lo lasciasse. Sicuro, l&apos;aveva detta il conte quella parola
+				<app n="11">
+					<lem wit="#VI-GALLI-1894">,</lem>
+					<rdg wit="#VI-TREVES-1920"></rdg>
+				</app>
+				 Pasqualino non lavorava di fantasia, riferendola; e bisognava aver veduto l&apos;effetto prodotto sul barone! Quel pezzo d&apos;uomo che con un soffio avrebbe buttato a terra il genero 
+				<app n="12">
+					<lem wit="#VI-GALLI-1894">piccolo</lem>
+					<rdg wit="#VI-TREVES-1920">esile</rdg>
+				</app>
+				 e 
+				<app n="13">
+					<lem wit="#VI-GALLI-1894">delicato</lem>
+					<rdg wit="#VI-TREVES-1920">sfiaccato</rdg>
+				</app>
+				, che lo avrebbe spezzato come una canna tra le mani grosse e villose, pareva diventato un ragazzo dinanzi al maestro: il contino Uzeda, il 
+				<app n="14">
+					<lem wit="#VI-GALLI-1894">minuto</lem>
+					<rdg wit="#VI-TREVES-1920">grazioso</rdg>
+				</app>
+				 e 
+				<app n="15">
+					<lem wit="#VI-GALLI-1894">fiacco</lem>
+					<rdg wit="#VI-TREVES-1920">frollo</rdg>
+				</app>
+				 discendente dei Viceré fulminava il barone contadino con quella parola, con quell&apos;insulto che diceva la distanza da cui erano separati il signore vizioso ma bene educato e il manesco villano ringentilito. Facchino, sì, approvava Pasqualino: tra persone d&apos;una certa nascita le 
+				<app n="16">
+					<lem wit="#VI-GALLI-1894">questioni</lem>
+					<rdg wit="#VI-TREVES-1920">quistioni</rdg>
+				</app>
+				 non vanno definite a pugni: e con quella parola appunto il conte rammentava al suocero l&apos;onore fattogli sposando sua figlia; e se il barone restava immobile come una statua era perché subitamente riconosceva d&apos;esser nel torto. La parentela con gli Uzeda non gli era parsa una fortuna? L&apos;orgoglio d&apos;essere entrato nella famiglia dei Viceré non l&apos;aveva accecato al punto di non scorgere per tanti anni il sacrifizio della figlia? Un confuso e quasi istintivo sentimento della propria inferiorità dinanzi al genero non lo aveva impacciato ogni volta che, aperti gli occhi, s&apos;era proposto di rinfacciargli la sua condotta, i suoi vizii, la sua durezza, il sangue avvelenato all&apos;innocente bambina? Facchino, sì; egli meritava l&apos;insulto se, lasciandosi trasportare dall&apos;ira, aveva voluto definire la lite come tra cocchieri; e aveva riconosciuto di meritarlo, ad alta voce, dinanzi al genero, prima di voltargli le spalle. Perché infatti la scena non era finita in quel punto, aveva
+				<app n="17">
+					<lem wit="#VI-GALLI-1894"></lem>
+					<rdg wit="#VI-TREVES-1920">anzi</rdg>
+				</app>
+				 avuto una 
+				<app n="18">
+					<lem wit="#VI-GALLI-1894">piccola coda</lem>
+					<rdg wit="#VI-TREVES-1920">codetta</rdg>
+				</app>
+				 che Pasqualino narrava solo a quattr&apos;occhi. «Io facchino... sì...» aveva balbettato il barone; «ma tu?...» E ad un tratto gli aveva buttato in faccia una parola che il cocchiere ripeteva, piano, all&apos;orecchio delle persone... Raimondo lasciò allora immediatamente la sua casa, corse dall&apos;amica, la costrinse a far le 
+				<app n="19">
+					<lem wit="#VI-GALLI-1894">valigie</lem>
+					<rdg wit="#VI-TREVES-1920">valige</rdg>
+				</app>
+				 e la condusse seco in Sicilia. Dovette costringerla, perché infatti donna Isabella non era ben sicura dell&apos;opportunità di quel viaggio. Ella vedeva che Raimondo voleva condurla al suo paese per rompere clamorosamente e definitivamente coi Palmi; ma comprendeva pure che soltanto l&apos;eccitazione dei contrasti sofferti e l&apos;impeto dell&apos;odio provocato dalla tempestosa spiegazione determinavano l&apos;amico suo a quel passo, e non l&apos;amore di lei; e sentiva anche che l&apos;ostentazione della loro amicizia, laggiù, in una piccola città, le avrebbe fatto torto, che la morale più o meno sincera della provincia si sarebbe ribellata. Pure, essendo ormai tardi, non riuscendo 
+				<app n="20">
+					<lem wit="#VI-GALLI-1894">del resto</lem>
+					<rdg wit="#VI-TREVES-1920"></rdg>
+				</app>
+				 con le sue osservazioni 
+				<app n="21">
+					<lem wit="#VI-GALLI-1894">che ad</lem>
+					<rdg wit="#VI-TREVES-1920">se non a</rdg>
+				</app>
+				 eccitare maggiormente Raimondo, non 
+				<app n="22">
+					<lem wit="#VI-GALLI-1894">le restando</lem>
+					<rdg wit="#VI-TREVES-1920">restandole altro</rdg>
+				</app>
+				 per trarlo a sé che fare assegnamento su queste eccitazioni, ella era venuta. Gli Uzeda, a ogni modo, sarebbero stati per lei. Appena arrivata, infatti, donna Ferdinanda che non ostante 
+				<app n="23">
+					<lem wit="#VI-GALLI-1894">le</lem>
+					<rdg wit="#VI-TREVES-1920">la</rdg>
+				</app>
+				 mal 
+				<app n="24">
+					<lem wit="#VI-GALLI-1894">sedate inquietudini pubbliche</lem>
+					<rdg wit="#VI-TREVES-1920">sedata inquietudine pubblica</rdg>
+				</app>
+				 era in città per una sua causa contro certi debitori morosi, venne a trovarli all&apos;albergo, s&apos;informò dell&apos;accaduto, approvò la determinazione di Raimondo con una sola parola, ma molto espressiva: «Finalmente!...» C&apos;erano in città anche Benedetto e Lucrezia che s&apos;era poi fatto coraggio: Raimondo andò a trovarli il domani del suo arrivo. Lucrezia gli restituì la visita nella stessa serata, non curando l&apos;opposizione del marito. Questi giudicava molto severamente la condotta del cognato, e se avesse osato, avrebbe impedito alla moglie di far quella visita; ma Lucrezia dichiarò che non vedeva nulla di male 
+				<app n="25">
+					<lem wit="#VI-GALLI-1894">nell&apos;andare</lem>
+					<rdg wit="#VI-TREVES-1920">nel recarsi</rdg>
+				</app>
+				 a trovare il proprio fratello: era forse obbligata a sapere che «accompagnava» una signora? E andarono all&apos;albergo, dove Raimondo li ricevette solo; ma dopo un poco che discorrevano del viaggio e del tempo, egli 
+				<app n="26">
+					<lem wit="#VI-GALLI-1894">andò</lem>
+					<rdg wit="#VI-TREVES-1920">s&apos;accostò</rdg>
+				</app>
+				 a picchiare all&apos;uscio della camera accanto, e
+				<app n="27">
+					<lem wit="#VI-GALLI-1894"></lem>
+					<rdg wit="#VI-TREVES-1920">comparve</rdg>
+				</app>
+				 donna Isabella 
+				<app n="28">
+					<lem wit="#VI-GALLI-1894">comparve</lem>
+					<rdg wit="#VI-TREVES-1920"></rdg>
+				</app>
+				, la quale strinse la mano a Giulente e baciò Lucrezia. Né presentazioni, né spiegazioni, né nulla. Benedetto, sulle prime, era imbarazzatissimo, non sapeva come trattare, con qual nome chiamare la Fersa; ma ella stessa diede il tono alla conversazione, parlando del più e del meno con molta disinvoltura, come tra vecchi amici, anzi come tra veri parenti. «Pel momento erano all&apos;albergo; ma non potevano naturalmente restarci. Raimondo aveva intenzione di prendere in affitto un quartiere in città; ella giudicava preferibile una villetta, anche per evitare le indiscrezioni della gente.» Giulente stava per dire che facevano bene, quando Lucrezia esclamò: — Che c&apos;entra la gente? Se vi nascondete, dirà che avete paura! Parliamo chiaro: vi saranno molti che faranno gli schifiltosi, — donna Isabella chinò gli occhi; — se cominciate voialtri a dar loro ragione, è finita! Raimondo non disse nulla, aspettando di veder Giacomo che era al Belvedere ed al quale nella mattina aveva spedito Pasqualino per avvertirlo del suo arrivo. Ma il cocchiere tornò con un&apos;aria confusa e mortificata e non sapeva spiccicar parola. «È venuto?» gli aveva detto il principe; «e che vuole?...» come ad uno che si 
+				<app n="29">
+					<lem wit="#VI-GALLI-1894">presenta</lem>
+					<rdg wit="#VI-TREVES-1920">presenti</rdg>
+				</app>
+				 per chiedere quattrini. «Niente, Eccellenza... manda ad avvertire l&apos;Eccellenza Vostra... desidera sapere quando tornerà in città Vostra Eccellenza...» Con lo stesso tono di voce il principe aveva risposto: «
+				<app n="30">
+					<lem wit="#VI-GALLI-1894">Comincia</lem>
+					<rdg wit="#VI-TREVES-1920">Comincio</rdg>
+				</app>
+				 adesso la villeggiatura; tornerò a novembre...» e gli aveva voltato le spalle. Raimondo, alla narrazione della scena, si morse le labbra; donna Isabella esclamò: — Che abbiamo fatto!... Tuo fratello ci disapprova! — Ed incolpando solo sé stessa: — Ti ho messo in urto con la tua famiglia!... — La vedremo, — rispose brevemente Raimondo. Le previsioni di lei si avveravano. I più, senza accogliere né rifiutare le scuse e le accuse relative al secondo e decisivo abbandono della famiglia, biasimavano Raimondo 
+				<app n="31">
+					<lem wit="#VI-GALLI-1894">pel</lem>
+					<rdg wit="#VI-TREVES-1920">per il</rdg>
+				</app>
+				 viaggio fatto insieme con l&apos;amica, il soggiorno nell&apos;albergo, l&apos;unione apertamente confessata, quasi sfidando l&apos;opinione pubblica. Egli poteva aver torto o ragione di lagnarsi della moglie; la passione per donna Isabella poteva scusarsi; però i moralisti, i padri di famiglia, le signore più o meno timorate volevan salve le apparenze; e quantunque ci fosse poca gente in città, pure quegli umori si manifestavano in certi freddi saluti rivolti a Raimondo, in certi ambigui discorsi di servitori. In campagna, nelle ville dove la notizia dello scandalo giungeva, tutti discutevano della condotta da tenere verso la coppia al ritorno in città. Molti dichiaravano che avrebbero troncato ogni rapporto; altri, più intimi, perciò più imbarazzati, facevano dipendere la loro risoluzione dal modo col quale si sarebbe comportata la famiglia. Ora l&apos;improvvisa 
+				<app n="32">
+					<lem wit="#VI-GALLI-1894">fredda accoglienza del</lem>
+					<rdg wit="#VI-TREVES-1920">severità espressa dal</rdg>
+				</app>
+				 principe a Pasqualino significava chiaro che egli ritirava loro a un tratto il suo appoggio. Dinanzi all&apos;ostacolo Raimondo s&apos;impennava, prendeva l&apos;impegno di vincere; ma come donna Ferdinanda gli suggerì di andare personalmente da Giacomo, egli entrò in una sorda agitazione: era disposto a far tutto fuorché a pregare quel birbante che, dopo avergli dato mano, gli si schierava contro chi sa per qual fine, fuorché ad umiliarsi dinanzi a quel fratello del quale per tanti anni, ai tempi della madre, s&apos;era sentito odiato. Poi il pensiero delle dimostrazioni ostili che si preparavano a lui ed all&apos;amica sua lo arrovellava, gli metteva un&apos;altra smania nel sangue. E un giorno prese una carrozza e salì al Belvedere. Giacomo, vedendolo arrivare, gli disse, non nel dialetto familiare, ma in lingua: — Buon giorno, come stai? — e senza stendergli la mano. — Bene, e tu? — rispose Raimondo. — Benissimo, — e il principe si lisciò la barba. La principessa che si teneva accanto Teresina intenta a ricamare, rispose a monosillabi alle domande del cognato, sentendo pesarsi addosso lo sguardo del marito. — Resterete ancora un pezzo? — domandò Raimondo, rosso come un papavero. — Sì, fino a novembre. Te lo mandai a dire, credo. E lasciò di nuovo cadere il discorso. La bambina volgeva 
+				<app n="33">
+					<lem wit="#VI-GALLI-1894">tratto tratto</lem>
+					<rdg wit="#VI-TREVES-1920"></rdg>
+				</app>
+				 lo sguardo a quello zio di cui non rammentava bene le fattezze, che non l&apos;accarezzava, che suo padre trattava come un estraneo. — Volevo dirti una cosa, — riprese Raimondo esitante, quasi pauroso, e tanto più crucciato contro sé stesso quanto più cresceva il suo impaccio. — Volevo domandarti se c&apos;è qualche villetta da affittare... una casetta che faccia per me... non importa se piccola, purché pulita... Il principe parve cercare nella memoria. — No, — rispose. — Tutto è preso, fin da quando passò Garibaldi. Raimondo che si torceva i baffi nervosamente, insistè: — Cercherò, ad ogni modo. E allora il fratello, con voce fredda, senza guardarlo: — Cerca, se vuoi. È inutile, non ne troverai. Raimondo andò via pallido, muto e fremente. S&apos;era umiliato per nulla! Colui gli dichiarava guerra! Non lo voleva vicino!... Il principe, infatti, aveva 
+				<app n="34">
+					<lem wit="#VI-GALLI-1894">dichiarato</lem>
+					<rdg wit="#VI-TREVES-1920">spiattellato</rdg>
+				</app>
+				 a tutta la parentela ed a tutte le conoscenze che non trovava parole per disapprovare la condotta di Raimondo. «È uno scandalo inaudito! Come non si vergogna? Ha il viso di tornarsene nel suo paese? Ma quando si vuol fare una di queste pazzie, bisogna nascondersi dove più lontano è possibile
+				<app n="35">
+					<lem wit="#VI-GALLI-1894">;</lem>
+					<rdg wit="#VI-TREVES-1920">,</rdg>
+				</app>
+				 dove non si è conosciuti, dove si può dare a intendere ciò che si vuole!» E alla zia donna Ferdinanda che salì un giorno a posta al Belvedere per intromettersi, per indurlo a far come lei: — La nostra situazione è diversa, — rispose. — Vostra Eccellenza è padrona di pensare ciò che crede, di fare ciò che le piace: può anche prenderseli in casa, non avendo da render conto a nessuno. Io ho mia moglie e mia figlia alle quali non posso metter sotto gli occhi un simile scandalo. Diceva queste cose dinanzi alla principessa e alla bambina, e le insistenze della zitellona lo trovavano incrollabile nella sua indignazione. Anche Chiara disapprovava il fatto del fratello poiché Federico lo giudicava immorale; non si parla della cugina Graziella, la quale faceva da portavoce al principe. Tutte le parole di costui, per mezzo della zitellona stomacata, dei lavapiatti dolenti, del servitorame pettegolo, arrivavano all&apos;orecchio di Raimondo, il quale fremeva, entrava in collere mute; ma allora donna Isabella, con un sorriso triste: — Vedi che non puoi durarla! — gli diceva. —Il meglio è che tu mi lasci! Non voglio costarti la pace della famiglia! Così egli che sentiva aggravarsi le conseguenze del suo passo falso, che in cuor suo malediceva l&apos;ora e il punto in cui aveva posto mente a quella donna della quale era già stufo, per la quale aveva sofferto l&apos;affronto di rinchinarsi al fratello, si stringeva più a lei, per puntiglio le si dava mani e piedi legati. Non la volevano ricevere? Egli le prometteva che avrebbe visto tutti ai suoi piedi. Parlavano male di lei? 
+				<app n="36">
+					<lem wit="#VI-GALLI-1894">La</lem>
+					<rdg wit="#VI-TREVES-1920">Le</rdg>
+				</app>
+				 assicurava che sarebbe stata sua moglie. Per avere altri parenti dalla sua, andò a cercare dello zio Eugenio. Il povero cavaliere era molto giù, il commercio dei vecchi cocci non rendeva più niente; e Vittorio Emanuele poteva forse dare una cattedra al Gentiluomo di Camera di Ferdinando II? Così egli aveva lasciato il quartierino dove stava da tanto tempo, s&apos;era ridotto in due camerette più piccole, più fuori mano. Sempre in busca di quattrini, aveva fondato adesso 
+				<app n="37">
+					<lem wit="#VI-GALLI-1894">l&apos;Academia</lem>
+					<rdg wit="#VI-TREVES-1920">L&apos;Accademia</rdg>
+				</app>
+				 dei quattro Poeti, di cui era presidente, segretario, economo e tutto, e nominava a destra e a manca socii promotori, fondatori, protettori, effettivi, benemeriti, corrispondenti, onorarii: ciascuno di questi riceveva un diploma, una medaglia di bronzo, lo statuto e una noticina di venti lire di spese; ma sovente la posta, invece del vaglia, gli portava indietro l&apos;involto rifiutato. I parenti lo tenevano un poco a distanza, temendo richieste di quattrini; ma vedendosi cercato da Raimondo, egli fiutò a un tratto il buon vento. Andò subito a trovare donna Isabella, si dichiarò per lei contro il principe, s&apos;invitò tutti i giorni a colazione e a desinare. Aveva certi abiti che gli piangevano addosso e certe scarpe che, viceversa, gli ridevano ai piedi: pochi giorni dopo mise pelle nuova. Con l&apos;abito fiammante, le camicie di bucato e le mani inguantate accompagnò donna Isabella tutte le volte che ella andò fuori, le fece da cavalier servente, perorò in pubblico e in privato la sua causa dandole della «nipote.» Anche Lucrezia, a dispetto del marito, si faceva vedere per le strade con lei, la sosteneva, si scagliava con violenza contro il fratello maggiore, spiegandone l&apos;opposizione con un motivo semplicissimo. — Per la morale? Per farsi pagare il suo appoggio! Scommettiamo? Io non ho dovuto pagargli il suo consenso al mio matrimonio? — Lucrezia!... — 
+				<app n="38">
+					<lem wit="#VI-GALLI-1894">esclamava</lem>
+					<rdg wit="#VI-TREVES-1920">avvertiva</rdg>
+				</app>
+				 Benedetto. — Che c&apos;è? Non è forse vero? Non ho dovuto accettare la transazione strozzata per sposarti? È storia che tutti sanno! Adesso viene la tua volta, — e si volgeva a Raimondo. — Vedrete se sbaglio! Aveva ragione lo zio don Blasco, quando diceva... 
+				<app n="39">
+					<lem wit="#VI-GALLI-1894">A</lem>
+					<rdg wit="#VI-TREVES-1920">Oh, a</rdg>
+				</app>
+				 proposito, perché non vai a fargli una visita? E a Lodovico? Quanti più saranno dalla tua, tanto meno varranno gli scrupoli di Giacomo. Andiamo insieme, v&apos;accompagno io... E Raimondo rifece la via del Bosco, andò con la sorella e col cognato a Nicolosi, dove i Benedettini villeggiavano, a mendicar l&apos;appoggio del fratello e dello zio 
+				<app n="40">
+					<lem wit="#VI-GALLI-1894">monaci</lem>
+					<rdg wit="#VI-TREVES-1920">monaco</rdg>
+				</app>
+				. Don Blasco era a giorno di tutto, e dimenticato a un tratto Garibaldi, non faceva altro, lassù, che gridare come 
+				<app n="41">
+					<lem wit="#VI-GALLI-1894">un ossesso</lem>
+					<rdg wit="#VI-TREVES-1920">indemoniato</rdg>
+				</app>
+				 contro Raimondo che aveva fatto l&apos;ultimo e più grande imbroglio; poi contro Giacomo, non meno imbroglione del fratello, verso il quale, dopo avergli tenuto il sacco, faceva adesso il puritano: perché? per strozzarlo!... All&apos;arrivo dei nipoti, dopo il refettorio, egli dormiva come un ghiro, quando Frà Carmelo lo destò: — Che c&apos;è? — vociò. — Perché mi rompi il capo? — Vostra Paternità mi scusi; ci sono i parenti di Vostra Paternità. Egli venne fuori, e appena vide Raimondo aprì bene gli occhi ancora imbambolati. Come Lucrezia e Benedetto, Raimondo gli baciò la mano. Egli lasciò fare, borbottando: — Che c&apos;è? A quest&apos;ora? Con questo sole? — Siamo venuti a fare una visita a Vostra Eccellenza, — spiegò Lucrezia per tutti. — La giornata non è tanto calda. Vostra Eccellenza sta bene? Sono due anni dacché non venivo più qui... E Lodovico? Frà Carmelo, costernato, venne a dire che Sua Paternità il Priore era in conferenza con l&apos;Abate e che non poteva scendere giù pel momento. Raimondo impallidì: anche quest&apos;altro gli dichiarava guerra; si mettevano tutti contro di lui!... Per questa ragione, quando Lucrezia, 
+				<app n="42">
+					<lem wit="#VI-GALLI-1894">confabulato</lem>
+					<rdg wit="#VI-TREVES-1920">accordatasi</rdg>
+				</app>
+				 con lo zio, propose di fare un giro pel 
+				<app n="43">
+					<lem wit="#VI-GALLI-1894">convento</lem>
+					<rdg wit="#VI-TREVES-1920">giardino</rdg>
+				</app>
+				, egli disse brevemente: — No, ho fretta di tornare. Andiamo via. Il domani mattina, all&apos;albergo, egli non s&apos;era ancora levato che il cameriere venne ad annunziargli: — C&apos;è lo zio di Vostra Eccellenza. E don Blasco apparve. Per la prima volta dacché viveva, Raimondo vedeva lo zio venirgli incontro, l&apos;udiva domandargli, con voce quasi garbata: «Come stai...?» Non pareva vero al monaco, sentendo riprepararsi una gran lite, di poter rificcare il naso nelle faccende altrui. C&apos;era adesso da spingere l&apos;uno contro l&apos;altro i due fratelli, da dar mano a disfare un&apos;altra opera della principessa defunta, il matrimonio di Raimondo: egli si sentiva invitato al suo giuoco. Donna Isabella si mostrò in veste da camera, gli baciò la mano, dandogli dell&apos;«Eccellenza,» quasi fosse già suo zio; e il discorso s&apos;avviò sul da fare. Udendola ripetere che voleva nascondersi in campagna, il monaco saltò su: — In campagna? Perché in campagna? Per la villeggiatura, va bene, fino a novembre; ma la casa in città bisogna prepararla! Avete paura della gente? Allora perché siete venuti? Questa è logica, mi pare! Il suo consiglio era di chieder subito i conti a Giacomo, di togliergli la procura e di iniziare la divisione: a quelle minaccie il principe sarebbe subito venuto a più miti consigli. Ma 
+				<app n="44">
+					<lem wit="#VI-GALLI-1894">giusto</lem>
+					<rdg wit="#VI-TREVES-1920">proprio</rdg>
+				</app>
+				 il domani della visita del monaco, scese il signor Marco dal Belvedere per dire al conte che il signor principe voleva restituirgli la procura e dargli i conti, una volta che era tornato in patria. Raimondo mandò via l&apos;amministratore con un violento: «Ho capito; va bene!...» e un malumore terribile lo tenne a bocca chiusa per tutto un giorno. Donna Isabella, costernata, gli ripeteva: «Non vedi? Io ti porto disgrazia! Lasciami andare! Sarà di me quel che vorrà Dio...» E allora egli di rimando: «No; ho da vincer io!...» Giusto Lucrezia, che oramai era tutta una cosa con la cognata della mano manca, fece una pensata: — Giacché non potete stare sempre all&apos;albergo, e ora è il tempo della villeggiatura, perché non ve ne andate alla Pietra dell&apos;Ovo, da Ferdinando? Ha tanto posto; vi darà due camere. Starete con un parente e la cosa farà buon effetto. Tutti approvarono la proposta. né Raimondo era ancora andato a trovar quel fratello, né Ferdinando sapeva che Raimondo era tornato: dalla tanta indifferenza, dalla tanta diversità di educazione, di gusti, di vita, erano diventati peggio che estranei, ciascuno ignorava l&apos;esistenza dell&apos;altro. Lucrezia, incaricatasi delle trattative, andò alle Ghiande. Non vedendo il Babbeo da molti mesi, rimase. Egli era dimagrato come dopo una lunga malattia, aveva gli occhi infossati, la barba incolta, la voce fioca, una malinconia più nera dell&apos;abituale. — Venga pure... è il padrone... — rispose alla sorella, senza 
+				<app n="45">
+					<lem wit="#VI-GALLI-1894">mostrare</lem>
+					<rdg wit="#VI-TREVES-1920">esprimere</rdg>
+				</app>
+				 nessuna meraviglia pel ritorno di Raimondo, per la richiesta dell&apos;ospitalità. — Ma, sai, ti debbo dire una cosa... — aggiunse Lucrezia. — Non è solo... — È con sua moglie? — Con sua moglie, sì... come se fosse sua moglie... E gli spiegò che aveva lasciato la Palmi, che era con la Fersa. Ferdinando stette ad ascoltarla guardando a destra ed a sinistra, quasi avesse smarrito qualcosa, poi ripetè: — Va bene, va bene; digli che venga quando gli piace. Arrivati che furono alle Ghiande, Raimondo e donna Isabella vollero visitare la casa, il giardino e il podere, e profusero elogi per l&apos;ottima coltivazione della vigna e pel magnifico aspetto del frutteto, approvarono la trasformazione delle colture, ammirarono ogni cosa. Ma le lodi non facevano più sul povero Babbeo l&apos;effetto d&apos;un tempo. Una trasformazione erasi compita nel suo spirito, le cose che prima lo allettavano adesso lo lasciavano indifferente, la vita del Robinson aveva perduto per lui ogni attrattiva, senza di che non avrebbe consentito a prendere altra gente in casa. Il fattore era adesso il vero padrone delle Ghiande, vi faceva quel che voleva, le coltivava a modo suo, ne intascava le rendite mostrando al cavaliere le bucce. Se talvolta, preso da uno scrupolo, gli chiedeva qualche ordine, Ferdinando rispondeva: «Lasciatemi stare! Non mi parlate di nulla! Per me è finita... Avrò sei mesi di vita, forse... Potete prepararmi il cataletto...» La cosa era andata a questo modo: che il libraio, dal quale aveva comperate le opere d&apos;agricoltura, di meccanica e di storia naturale, trovandosi una quantità di opuscoli di medicina d&apos;ignoti autori, tesi di laurea di dottori asini, vecchi ricettarii farmaceutici, fascicoli spaiati di enciclopedie anonime, tutta cartaccia che non si poteva vendere altrimenti che a peso, 
+				<app n="46">
+					<lem wit="#VI-GALLI-1894">glie ne</lem>
+					<rdg wit="#VI-TREVES-1920">gliene</rdg>
+				</app>
+				 propose un giorno l&apos;acquisto dandogli a intendere che c&apos;era dentro il fior fiore della dottrina. Egli la pagò salata, e si mise a leggere tutto. Allora la sua mente cominciò a turbarsi. La descrizione dei morbi, l&apos;enumerazione dei sintomi, 
+				<app n="47">
+					<lem wit="#VI-GALLI-1894">la difficoltà</lem>
+					<rdg wit="#VI-TREVES-1920">l&apos;incertezza</rdg>
+				</app>
+				 delle cure lo 
+				<app n="48">
+					<lem wit="#VI-GALLI-1894">atterrì</lem>
+					<rdg wit="#VI-TREVES-1920">atterrirono</rdg>
+				</app>
+				: chiuso nella sua camera, col libro in una mano, egli si teneva l&apos;altra sul cuore per verificarne il numero dei battiti, o si palpava dappertutto con lo spavento di scoprire i tumori, gli incordamenti, le 
+				<app n="49">
+					<lem wit="#VI-GALLI-1894">dislogazioni</lem>
+					<rdg wit="#VI-TREVES-1920">infiammazioni</rdg>
+				</app>
+				 di cui parlavano i medici. A poco a poco, per un colpo di tosse, per una digestione difficile, per un dolor di capo, per un leggiero prurito, per un 
+				<app n="50">
+					<lem wit="#VI-GALLI-1894">formicolìo</lem>
+					<rdg wit="#VI-TREVES-1920">formicolio</rdg>
+				</app>
+				 in pelle in pelle credette d&apos;avere tutte le malattie; e quell&apos;idea, ficcatasi nel suo cervello di solitario misantropo, aveva compita una devastazione. La morte, per lui, era questione di tempo; e giusto la paura di dover morire solo, il bisogno di vedersi dinanzi un viso amico lo aveva persuaso a prendere con sé il fratello. Quando 
+				<app n="51">
+					<lem wit="#VI-GALLI-1894">questi</lem>
+					<rdg wit="#VI-TREVES-1920">costui</rdg>
+				</app>
+				 vide che non mangiava quasi nulla, che stava chiuso in camera, che certi giorni neppur si levava, cominciò a chiedergli che aveva, se si sentiva male; e sulle prime, quasi arrestato da una specie di pudore, egli si tenne sulle negative; messo alle strette, confessò. Aveva un catarro intestinale cronico, un&apos;espansione della milza, una bronchite lenta; l&apos;erpete gli serpeggiava nel sangue, il sistema glandolare gli s&apos;era ingorgato. Come Raimondo rideva di quell&apos;enumerazione, egli soggiunse, con voce triste e quasi con le lacrime agli occhi: — C&apos;è poco da ridere, sai! Credi che siano fantasie? So io quel che soffro!... — Allora perché non chiami un medico? — Un medico? Che possono fare i medici? Al punto in cui sono ridotto? E non ci fu verso di persuaderlo. Allora entrò in iscena donna Isabella. Invece di contrariare il maniaco, prese a secondarlo: riconobbe l&apos;esistenza e la gravità delle sue malattie, l&apos;inutilità delle prescrizioni mediche; però, se i dottori ci perdevano il latino, non poteva egli provare almeno qualcuno di quei rimedii empirici che certe volte fanno miracoli? — Quand&apos;ero ragazza anch&apos;io ebbi un catarro intestinale lungo e ostinato più del vostro. Sapete come andò via? Con l&apos;insalata di lattughe! E 
+				<app n="52">
+					<lem wit="#VI-GALLI-1894">glie ne</lem>
+					<rdg wit="#VI-TREVES-1920">gliene</rdg>
+				</app>
+				 fece preparare un piatto, come contorno d&apos;una gran fetta d&apos;arrosto sanguinolento. Ferdinando si mise a mangiare come Cristo all&apos;ultima cena: non aveva fiducia nel risultato, era sicuro che quella roba avrebbe affrettata la sua fine. — Adesso bisogna farci sopra una bella passeggiata! — e offertogli il braccio, come ad un povero convalescente, lo condusse a spasso pel giardino. Non parve vero al malato, il domani, di svegliarsi vivo e con un certo appetito. L&apos;insalata e l&apos;arrosto, in poco tempo, fecero miracoli; ma restava da guarire il prurito al quale egli dava il nome di erpete. — Per questo il rimedio è ancora più semplice: fate un bel bagno d&apos;acqua dolce. Da mesi e mesi, egli non si lavava altro che la punta del naso e delle dita, due o tre volte la settimana, per paura di prendere una polmonite; così l&apos;erpete andò via. Il latte, le uova, il moto, la nettezza, lo ritornarono in vita, e dalla gratitudine verso donna Isabella gli spuntavano i lucciconi: — Che donna! Che testa! Che intelligenza! 
+				<app n="53">
+					<lem wit="#VI-GALLI-1894">Conosceva poca gente</lem>
+					<rdg wit="#VI-TREVES-1920">Aveva ben poche amicizie</rdg>
+				</app>
+				, ma tutte le volte che si trovava con qualcuno cominciava a parlar di lei con tanta ammirazione, come fosse la donna più saggia e virtuosa, un angelo sceso dal cielo. Presa l&apos;abitudine di muoversi, se ne andava dalla sorella Lucrezia, 
+				<app n="54">
+					<lem wit="#VI-GALLI-1894">faceva visita alle poche persone che conosceva, e non ristava dal parlar</lem>
+					<rdg wit="#VI-TREVES-1920">cercava la gente apposta per parlare</rdg>
+				</app>
+				 di lei. — Quanto bene vuole a Raimondo! Che cura ha della casa! Quel che ha fatto per me non si può ridire! Se non era lei, a quest&apos;ora sarei morto e sepolto! Un giorno arrivò da Lucrezia mentre moglie e marito discutevano vivamente: al suo apparire essi tacquero. — Di che parlavate? — Si parlava della situazione di Raimondo, — rispose sua sorella, decidendosi di metterlo a parte del secreto. — Non può durare a lungo così. Bisogna pensare a legittimarla, sciogliendo i matrimonii. Ella annunziava quel partito con la stessa semplicità con cui Raimondo e donna Ferdinanda lo avevano partecipato a lei. Chiedere ed ottenere il doppio annullamento di matrimonio era, per gli Uzeda, una cosa semplicissima: chi poteva negare ai Viceré ciò che essi volevano? La loro volontà non doveva esser legge per tutti? Non possedevano essi tutti i mezzi materiali e morali per vincere 
+				<app n="55">
+					<lem wit="#VI-GALLI-1894">le velleità di resistenza</lem>
+					<rdg wit="#VI-TREVES-1920">gli ostacoli e le resistenze</rdg>
+				</app>
+				? Avevano clientele dappertutto, tra i borbonici e i liberali, in sacrestia e in tribunale: i nobili erano con loro per solidarietà, gli ignobili per rispetto: ognuno doveva essere superbo e lieto di render loro servizio. Bisognava, per riuscire in questa impresa, esser bene indirizzati; perciò volevano l&apos;opera di Benedetto. Come la prima volta che 
+				<app n="56">
+					<lem wit="#VI-GALLI-1894">glie ne</lem>
+					<rdg wit="#VI-TREVES-1920">gliene</rdg>
+				</app>
+				 avevano parlato, Benedetto titubava, arrestato dagli scrupoli, con la coscienza del male che gli facevano commettere, delle difficoltà enormi dell&apos;impresa, del dispiacere che avrebbe fatto allo zio duca, tanto amico di Palmi; ma sua moglie insisteva a dimostrargli che gli scrupoli erano sciocchi, che anzi l&apos;opera sarebbe stata meritoria. — Se domani nasce un figlio? Sarà condannato a restare bastardo? Raimondo non riprende più sua moglie, certo com&apos;è certa la morte. Allora? Meglio mettersi in regola con la legge e la società! Non dico bene? E Ferdinando, rivolto al cognato: — Ne dubiti forse?... Ma come ragioni?... Dov&apos;hai la testa? Benedetto tentava dimostrare che non ragionavano loro invece; che i figli già nati c&apos;erano e che bisognava pensare a questi prima che ai nascituri, ma Lucrezia e Ferdinando gli davano sulla voce, tutt&apos;e due insieme: — C&apos;è la famiglia della madre che pensa alle figlie! Nostro fratello le rinnegherà per questo?... E gl&apos;interessi saranno regolati come vogliono i Palmi... Se i matrimonii sono sciolti di fatto, perché non scioglierli di diritto? Chi ci guadagna? La gente che ci fa sopra i suoi commenti! E questo era il pungolo di Raimondo. Quanto maggiori difficoltà aveva incontrato nella via per la quale s&apos;era messo, tanto più s&apos;era incaponito a persistervi: l&apos;opposizione del fratello, 
+				<app n="57">
+					<lem wit="#VI-GALLI-1894">l&apos;ostinazione</lem>
+					<rdg wit="#VI-TREVES-1920">le mormorazioni</rdg>
+				</app>
+				 degli estranei, il biasimo quasi universale lo spingevano a vincer la partita in un modo imprevisto da tutti e da lui stesso. Egli non pensava più che la sua passione era stata quella della libertà, che donna Isabella, come moglie, gli sarebbe pesata più della moglie, e che gli pesava già come amante; impuntato, accecato dall&apos;opposizione, dalla disapprovazione, dal biasimo, voleva trionfare degli avversarii, sbaragliarli con un colpo di cui si sarebbe parlato un pezzo... Dicevano che l&apos;impresa era disperata, che il doppio scioglimento non si sarebbe mai ottenuto, che donna Isabella era condannata a restare in una falsa posizione, bandita dalla società, dalla stessa casa del principe? Egli metteva i piedi al muro, deciso a spuntarla a qualunque costo, contro tutto e tutti. E Lucrezia, Ferdinando, donna Ferdinanda, don Blasco lo aiutavano ciascuno per conto e a modo proprio, congiuravano per vincere le ultime resistenze di Benedetto, che all&apos;idea di contentare sua moglie, di cattivarsi la fiducia, la stima e la gratitudine dei parenti sentiva ammorzarsi a poco a poco i rimorsi. Al principio dell&apos;inverno, quando il principe tornò dalla villeggiatura, non si parlò d&apos;altro che della rottura tra i due fratelli. Giacomo non solamente non salutò Raimondo, incontrandolo per via, ma non tollerò neppure che toccassero in sua presenza il tasto dei pasticci di lui. Per tanto tempo, mentre il fratello minore era stato in Toscana, o era andato e tornato di qua e di là, col capo all&apos;amica, l&apos;eredità era rimasta indivisa, e il principe l&apos;aveva amministrata anche nell&apos;interesse e per procura del coerede; adesso, per troncare ogni rapporto con lui, gli mandava il signor Marco a notificargli che rinunziava la procura e voleva subito subito dargli i conti e venire alla divisione. Quella trombetta della cugina Graziella annunziava a tutti queste cose, e dovunque si 
+				<app n="58">
+					<lem wit="#VI-GALLI-1894">trovava</lem>
+					<rdg wit="#VI-TREVES-1920">trovasse</rdg>
+				</app>
+				, tra parenti od amici o semplici conoscenze, approvava il cugino Giacomo, esprimeva il grande dispiacere che «a noi della famiglia» cagionava l&apos;ostinazione di Raimondo. Come mai poteva egli del resto sperare di ottener l&apos;intento? Dicevano che donna Isabella chiedesse lo scioglimento del matrimonio perché non era stato consumato! Ma a chi volevano darla a bere? Perché non c&apos;erano figli? Non sapevano tutti che Fersa, giovanotto, avea corso la cavallina?... O forse speravano di poter sostenere, come dicevano certi altri, che donna Isabella era stata forzata a sposar Fersa, senza volerlo? Questa doveva essere fatica particolare del Giulente! «Guardate un po&apos; che immoralità! sostenere una causa condannata da tutti, che fa tanto dispiacere alla famiglia! È venuto a ficcarsi tra noi per metter guerre e liti, questo avvocato delle cause perse!...» Ma ella prevedeva un fiasco colossale. Già, cominciamo che il tribunale civile non era buono 
+				<app n="59">
+					<lem wit="#VI-GALLI-1894">di</lem>
+					<rdg wit="#VI-TREVES-1920">ad</rdg>
+				</app>
+				 annullare un matrimonio contratto sotto il codice 
+				<app n="60">
+					<lem wit="#VI-GALLI-1894">napoletano</lem>
+					<rdg wit="#VI-TREVES-1920">napolitano</rdg>
+				</app>
+				 del 1819; bisognava rivolgersi alla Corte vescovile; ma qui cascava l&apos;asino, perché Monsignor Vescovo, e il vicario Coco e il canonico Russo e tutti i maggiorenti della Curia erano col principe contro il conte, giustamente, sapendo i torti di Raimondo e della Fersa, non potendo metter mano a sanzionare uno scandalo di quella fatta!... 
+				<app n="61">
+					<lem wit="#VI-GALLI-1894">Dall&apos;altra</lem>
+					<rdg wit="#VI-TREVES-1920">D&apos;altra</rdg>
+				</app>
+				 parte i fautori del conte e di donna Isabella davano sicura la riuscita. L&apos;impotenza di Fersa, la violenza patita da sua moglie erano affermate da una quantità di persone; ma specialmente Pasqualino sonava la campana per conto del suo padrone.
+				<app n="62">
+					<lem wit="#VI-GALLI-1894"></lem>
+					<rdg wit="#VI-TREVES-1920">«</rdg>
+				</app>
+				 Sissignori: il cavaliere Giulente, e non avvocato, studiava e dirigeva la causa del cognato, piuttosto che lasciarla in mano di qualche strascinafaccende di quelli da quattro il mazzo; ma del resto egli non aveva molto da faticare, perché il motivo della nullità del matrimonio di donna Isabella era chiaro e lampante. Lasciamo stare che Fersa non era precisamente un vulcano, come uomo; ma lo zio di lei l&apos;avea costretta a prenderselo mettendole il coltello alla gola: altro che la storia della signorina Chiara! Almeno la principessa, sant&apos;anima, avea cercato di prendere sua figlia con le buone, ricorrendo alle minaccie soltanto all&apos;ultimo, dopo due anni di persuasioni e di preghiere; ma lo zio di donna Isabella? Bastonate mattina e sera, fin dal primo momento che la ragazza aveva detto: 
+				<app n="63">
+					<lem wit="#VI-GALLI-1894">«</lem>
+					<rdg wit="#VI-TREVES-1920">-</rdg>
+				</app>
+				Meglio morta che sposar Fersa!» Come Pasqualino, tutta la servitù, la minuta clientela della famiglia era, nonostante l&apos;opposizione del principe, favorevole al contino; questi, per accaparrarsi simpatie, non faceva più venire, come un tempo, le sue robe da Firenze o da Napoli, ma dava ogni genere di commissioni in città, e il sarto, il calzolaio, il cravattaio, onorati dai comandi del contino Uzeda, lo portavano al cielo, peroravano in favor suo, tenevano fronte agli scandalizzati. V&apos;era gente che rammentava l&apos;amore di donna Isabella per Fersa? Rispondevano adducendo infinite testimonianze contrarie: da Palermo sarebbero venuti tutti i servi di casa Pinto, pronti a giurar sul Vangelo che l&apos;orfanella era stata picchiata di santa ragione dallo zio tutore, perché costui, senza badare che Fersa, se aveva quattrini, non nasceva bene, voleva darglielo per forza. Dicevano che queste testimonianze erano sospette, ottenute per via di quattrini? Enumeravano gli amici palermitani di casa Pinto, don Michele Broggi, il cavaliere Cutica, il 
+				<app n="64">
+					<lem wit="#VI-GALLI-1894">notaro</lem>
+					<rdg wit="#VI-TREVES-1920">notaio</rdg>
+				</app>
+				 Rosa, tutti superiori al sospetto di corruzione, citati da donna Isabella perché 
+				<app n="65">
+					<lem wit="#VI-GALLI-1894">testimoniassero</lem>
+					<rdg wit="#VI-TREVES-1920">attestassero</rdg>
+				</app>
+				 le sevizie usatele, i rifiuti costanti da lei opposti. Che più? lo stesso zio sarebbe venuto a confermare la violenza esercitata!... «E poi?» esclamava da suo canto la cugina. «Dopo che avranno sciolto questo matrimonio? Credono di poter riuscire a sciogliere quell&apos;altro? Non sanno che cosa ha detto Palmi?» E narrava che 
+				<app n="66">
+					<lem wit="#VI-GALLI-1894">quell&apos;accattabrighe</lem>
+					<rdg wit="#VI-TREVES-1920">quell&apos;attaccabrighe</rdg>
+				</app>
+				 di Giulente gli aveva scritto per ottenere che anche lui, il barone, consentisse allo scioglimento del matrimonio di sua figlia, testimoniando d&apos;averla forzata a prendersi il conte Uzeda. Per amore della verità, spiegava che Giulente s&apos;era dapprima rifiutato, parendogli una cosa 
+				<app n="67">
+					<lem wit="#VI-GALLI-1894">troppo</lem>
+					<rdg wit="#VI-TREVES-1920">proprio</rdg>
+				</app>
+				 enorme, proponendo, se mai, di affidare questa missione al duca che era intimo del senatore. Ma sì! il duca aveva altro pel capo! Se ne stava a Torino, badando ai suoi affari, non voleva tornare in Sicilia per paura che la sua lontananza durante 
+				<app n="68">
+					<lem wit="#VI-GALLI-1894">le agitazioni</lem>
+					<rdg wit="#VI-TREVES-1920">i turbamenti</rdg>
+				</app>
+				 dell&apos;anno precedente gli avesse fatto torto; e quando gli scrivevano dell&apos;affare di Raimondo rispondeva che per nulla al mondo voleva mescolarvisi. Giulente, dunque, per contentar la moglie, il cognato e gli zii, aveva dovuto rassegnarsi a rivolgersi lui al barone. «Sapete quanto tempo ha impiegato a scrivere la lettera?» aggiungeva la cugina, informata di tutti i più piccoli particolari. «Una settimana! Ha stracciato una risma di carta! Sfido io! Come dire a un cristiano: consentite che il matrimonio di vostra figlia si sciolga, che le vostre nipoti restino senza padre!...» Ma la lettera, piena d&apos;espressioni riguardose, di complimenti, di scuse, era partita: e Giulente aspettava ancora la risposta!... L&apos;avrebbe aspettata un pezzo! Ché per mezzo di certe persone di Messina, la cugina sapeva quel che aveva detto il barone a un amico, stringendo il pugno: «Voglio piuttosto veder morire tutti quanti!...» Perché infatti la «povera Matilde»
+				<app n="69">
+					<lem wit="#VI-GALLI-1894"></lem>
+					<rdg wit="#VI-TREVES-1920">,</rdg>
+				</app>
+				 moribonda dai tanti dispiaceri, indifferente a tutto oramai, comprendendo che non c&apos;era più alcun riparo, avrebbe anche contentata l&apos;ultima pretesa del marito! Il barone, invece, faceva certi giuramenti tremendi per dire che mai, mai, lui vivente, suo genero sarebbe riuscito a rompere il matrimonio: sapeva bene che era spezzato di fatto, ma voleva che Raimondo restasse incatenato per tutta la vita, che la Fersa non potesse prendere, dinanzi al mondo, il posto della propria figliuola... Anche Pasqualino sapeva tutto questo; ma al cocchiere di donna Graziella, che tenendo per la padrona, gli prediceva il fiasco del conte: «Un po&apos; per volta!» rispondeva. «Lasciate che si finisca la prima causa
+				<app n="70">
+					<lem wit="#VI-GALLI-1894">!</lem>
+					<rdg wit="#VI-TREVES-1920"></rdg>
+				</app>
+				... Quando la padrona sarà libera, penseremo a liberare anche il padrone!... Adesso non hanno a decidere i canonici, ma i giudici civili. Con la legge di Vittorio Emanuele, il matrimonio dinanzi alla 
+				<app n="71">
+					<lem wit="#VI-GALLI-1894">chiesa</lem>
+					<rdg wit="#VI-TREVES-1920">Chiesa</rdg>
+				</app>
+				 vale un fondello, e solo ha peso quello dinanzi al sindaco: abbasso Francesco II! Viva la libertà!...» Ma donna Ferdinanda, Lucrezia, tutti i sostenitori di Raimondo non si contentavano di una sentenza civile
+				<app n="72">
+					<lem wit="#VI-GALLI-1894">,</lem>
+					<rdg wit="#VI-TREVES-1920">;</rdg>
+				</app>
+				 volevano legittimare la situazione di Raimondo e di donna Isabella dinanzi agli uomini e a Dio. Per 
+				<app n="73">
+					<lem wit="#VI-GALLI-1894">questo</lem>
+					<rdg wit="#VI-TREVES-1920">tanto</rdg>
+				</app>
+				, Ferdinando il quale era intimo del canonico Ravesa, pezzo grosso della Curia e proprietario d&apos;una vigna attigua alle Ghiande, gli parlava tutti i giorni a favore del fratello, e don Blasco andava tutti i giorni dal vicario Coco, intronandolo con le clamorose dimostrazioni della convenienza, della giustizia, della necessità di quell&apos;annullamento di matrimonii; della stramberia, della prepotenza, della birbonaggine del principe che 
+				<app n="74">
+					<lem wit="#VI-GALLI-1894">la</lem>
+					<rdg wit="#VI-TREVES-1920">lo</rdg>
+				</app>
+				 contrastava. Il pezzo più grosso da guadagnare era però monsignor Vescovo; il quale adesso non faceva nulla senza l&apos;approvazione del Priore don Lodovico. Questi, persuaso che l&apos;abolizione delle comunità religiose era quistione di tempo, disinteressatosi di 
+				<app n="75">
+					<lem wit="#VI-GALLI-1894">S.</lem>
+					<rdg wit="#VI-TREVES-1920">San</rdg>
+				</app>
+				 Nicola, s&apos;era rivolto al Vescovato
+				<app n="76">
+					<lem wit="#VI-GALLI-1894">,</lem>
+					<rdg wit="#VI-TREVES-1920"></rdg>
+				</app>
+				 dove la sua nascita, la sua reputazione d&apos;intelligenza, di dottrina e di santità gli avevano spalancato le porte. In poco tempo, com&apos;era già stato il braccio destro dell&apos;Abate, era diventato il braccio destro del capo della diocesi: la prudenza dei suoi consigli, l&apos;eccellenza della sua posizione, a cavaliere di tutti i partiti, lo avevano reso indispensabile in molte circostanze delicate, quando bisognava conciliarsi le nuove autorità politiche senza tradire le «legittime», salvar capra e cavoli, servir Cristo e Mammone. Ora, se egli avesse detto una parola a favore di Raimondo, il matrimonio di donna Isabella sarebbe stato annullato; ma a donna Ferdinanda che gli si metteva alle costole per guadagnarlo alla causa della sua protetta, il Priore rispondeva ambiguamente, adducendo le difficoltà da superare, l&apos;imbarazzo in cui lo mettevano. — Sciogliere un matrimonio è una cosa grave... Vostra Eccellenza sa bene quanto la 
+				<app n="77">
+					<lem wit="#VI-GALLI-1894">chiesa</lem>
+					<rdg wit="#VI-TREVES-1920">Chiesa</rdg>
+				</app>
+				 sia giustamente contraria a pronunziare sentenze di questo genere, come vada coi calzari di piombo. Essa non può contentarsi di certe prove e di certe ragioni... Queste potevano forse bastare ai giudici secolari, la cui responsabilità non è impegnata dinanzi alla Maestà divina. Mi duole moltissimo, in coscienza, di vedere Raimondo messo per una via falsa... Dopo questa causa ne verrà una seconda, lo scandalo è immenso... Io ho i miei doveri da compiere... la mia coscienza... — Coscienza?... Coscienza?... — Donna Ferdinanda che stava a sentirlo a bocca chiusa e a denti stretti, una volta cantò: — Lasciala da parte la coscienza! Di&apos; piuttosto che non gli hai ancora perdonato d&apos;aver preso il tuo posto e 
+				<app n="78">
+					<lem wit="#VI-GALLI-1894">glie la</lem>
+					<rdg wit="#VI-TREVES-1920">gliela</rdg>
+				</app>
+				 vuoi far pagare, ora che l&apos;hai nelle forbici!... Il Priore impallidì repentinamente, guardando un istante in viso la zia che lo guardava fisso anche lei, come se gli volesse leggere nell&apos;anima. Poi chinò il capo
+				<app n="79">
+					<lem wit="#VI-GALLI-1894">,</lem>
+					<rdg wit="#VI-TREVES-1920">e</rdg>
+				</app>
+				 portò le braccia in croce sul petto: — Vostra Eccellenza m&apos;affligge crudelmente... Sa bene che le passioni del mondo sono straniere al mio cuore... che io amo mio fratello come rispetto Vostra Eccellenza!... Dica questo a Raimondo; mi fornisca l&apos;occasione di darne la prova... Donna Ferdinanda andò pertanto da Raimondo per dirgli di recarsi personalmente dal fratello e di raccomandarglisi. Un momento, il giovane si ribellò. Era stanco di pregare e di umiliarsi, di far la corte a Ferdinando e a Giulente per guadagnarli alla sua causa, di imbeccare Pasqualino e gli altri portavoce. S&apos;era già umiliato una volta dinanzi a Giacomo e non gli era valso nulla; s&apos;era umiliato anche dinanzi a Lodovico, quando era andato a Nicolosi, e il fratello non s&apos;era lasciato vedere. Adesso bisognava gettarsi ai piedi di cotesto gesuita, chiedergli perdono del posto sottrattogli, implorarne col perdono la protezione e l&apos;appoggio. Era troppo, non ne poteva più. Le mortificazioni dell&apos;amor proprio gli cocevano 
+				<app n="80">
+					<lem wit="#VI-GALLI-1894">sopra tutto</lem>
+					<rdg wit="#VI-TREVES-1920">più di tutte</rdg>
+				</app>
+				, gli facevano stringer le pugna e mordersi le dita e quasi spuntar le lacrime agli occhi... Ma giusto, finita la villeggiatura, tornati tutti in città, la parentela e la nobiltà si schierava col principe contro di lui. La cugina Graziella andava dicendo dovunque che neppure la causa civile sarebbe andata avanti, che i giudici avrebbero essi fatto un processo per falsa testimonianza a chi 
+				<app n="81">
+					<lem wit="#VI-GALLI-1894">sarebbe venuto a deporre pel mancato</lem>
+					<rdg wit="#VI-TREVES-1920">avesse tentato di provare la mancanza del</rdg>
+				</app>
+				 consenso; figuriamoci poi la causa ecclesiastica! E una domenica donna Isabella che era scesa in città per far certe compere, tornò alle Ghiande con gli occhi rossi. — Che hai? — le domandò Raimondo, quasi bruscamente, quasi pronto a sfogare contro di lei, causa prima di tutto quello che gli accadeva. — Nulla... nulla... — e piangeva dirottamente. Egli dovette alzar la voce per sapere il motivo di quel pianto. La sua amica aveva incontrato per via i Grazzeri e la cugina Graziella; la cugina s&apos;era voltata dall&apos;altra parte, Lucia e Agatina Grazzeri non avevano risposto al suo saluto, fingendo di non vederla... Il giorno dopo egli salì a 
+				<app n="82">
+					<lem wit="#VI-GALLI-1894">S.</lem>
+					<rdg wit="#VI-TREVES-1920">San</rdg>
+				</app>
+				 Nicola, cercando del Priore. Lodovico lo ricevette a braccia aperte, lo ascoltò con attenzione benevola. Raimondo gli disse, un po&apos; pallido: «Ti prego d&apos;aiutarmi...» Invocava il suo appoggio per uscire dalla falsa situazione in cui si trovava. Era urgente legittimarla per una potente e nuova ragione che nessuno ancora sapeva, che confidava a lui prima che ad ogni altro: donna Isabella era incinta... Con gli occhi quasi chiusi, il capo un poco piegato, le mani raccolte in grembo, il Priore pareva un confessore indulgente ed amico: non una contrazione del viso, non una dilatazione del petto svelava l&apos;intima soddisfazione di vedersi finalmente dinanzi, sommesso e quasi supplice
+				<app n="83">
+					<lem wit="#VI-GALLI-1894"></lem>
+					<rdg wit="#VI-TREVES-1920">,</rdg>
+				</app>
+				 il ladro che lo aveva spogliato, pel quale era stato bandito dalla famiglia e dal mondo. — Tu puoi aiutarmi, mettere una buona parola... — continuava Raimondo, — far considerare che in fondo non si domanda se non giustizia... perché la volontà di Isabella fu violentata; trenta testimonii proveranno la verità... — Lo so! Lo so!... — rispose finalmente il Priore. — Io non t&apos;avrei neppure ascoltato se non conoscessi che la ragione sta dalla vostra parte! — Allora, posso fare assegnamento su te? — Certo, certo!... Ma 
+				<app n="84">
+					<lem wit="#VI-GALLI-1894">v&apos;è</lem>
+					<rdg wit="#VI-TREVES-1920">c&apos;è</rdg>
+				</app>
+				 un&apos;altra quistione... Nel caso presente, non si tratta tanto di giustizia astratta, quanto di prudenza mondana. Sicuramente, noi dobbiamo render conto solo a Dio delle nostre azioni, ma perché la nostra coscienza s&apos;acqueti del tutto, non dobbiamo e non possiamo perder di mira l&apos;effetto che i nostri giudizii sono capaci di produrre!... Ora, come vuoi che 
+				<app n="85">
+					<lem wit="#VI-GALLI-1894">questo</lem>
+					<rdg wit="#VI-TREVES-1920">cotesto</rdg>
+				</app>
+				 provvedimento sia stimato giusto, se nella nostra stessa famiglia, se il capo della nostra casa, non riconosce le tue ragioni e ti condanna con tanta severità?... — E se Giacomo si piega? — insistè Raimondo. — Sarà un gran passo innanzi! Vedrai che l&apos;opinione pubblica lo seguirà, che tutti quelli finora dichiaratisi tuoi avversarii ti sosterranno concordi. Allora sarà molto più facile ottenere l&apos;intento. Lo stesso Giacomo potrà giovarti presso i giudicanti molto meglio di me. Sai bene quali relazioni egli ha tra quanti circondano Monsignore... una sua parola varrà molto più della mia... E questa era la dimostrazione a cui voleva arrivare attraverso tante parole. L&apos;affare di Raimondo, tutto quel 
+				<app n="86">
+					<lem wit="#VI-GALLI-1894">pasticcio</lem>
+					<rdg wit="#VI-TREVES-1920">pateracchio</rdg>
+				</app>
+				 di matrimonii da sciogliere e da ristringere non gli piaceva: il biasimo sordo del gran pubblico gli era noto e lo metteva in guardia contro l&apos;errore di sostenere una cattiva causa, il trionfo della quale, del resto, non gli avrebbe menomamente giovato... Raimondo, tornando alle Ghiande, mandò a chiamare il signor Marco. Chiusi in camera tutt&apos;e due, restarono pochi minuti a confabulare. L&apos;amministratore tornò il domani e poi il giorno dopo, restando sempre più a lungo. Un pomeriggio Ferdinando era buttato sul letto a dormire, quando l&apos;abbaiare dei cani lo destò di repente; il fattore già picchiava all&apos;uscio. —Eccellenza! Eccellenza!... C&apos;è qui suo fratello... il signor principe... Egli balzò in piedi, stropicciandosi gli occhi. Giacomo da lui? Adesso che c&apos;era Raimondo? E se si fossero incontrati?... — Vengo subito... trattienilo tu... ma non dir nulla... — Come, Eccellenza?... Se i suoi fratelli stanno parlando insieme?... C&apos;è anche la principessa... Sceso giù a precipizio per evitare qualche guaio, Ferdinando entrò nel salotto e trovò i fratelli e le cognate che chiacchieravano allegramente. — Passavamo di qui, — gli disse il principe, — e abbiamo pensato
+				<app n="87">
+					<lem wit="#VI-GALLI-1894">,</lem>
+					<rdg wit="#VI-TREVES-1920"></rdg>
+				</app>
+				 di farvi una visita... Il domani, nella Sala Gialla, la cugina Graziella venuta prima di colazione e trovata la principessa in compagnia di don Mariano, se la prendeva con più calore del solito contro Raimondo e l&apos;amica sua, narrava i loro nuovi armeggii, le istanze fatte allo zio duca perché prestasse la sua autorità di deputato per ottenere lo scioglimento dei matrimonii, perché persuadesse il suo
+				<app n="88">
+					<lem wit="#VI-GALLI-1894"></lem>
+					<rdg wit="#VI-TREVES-1920">buon</rdg>
+				</app>
+				 amico Palmi 
+				<app n="89">
+					<lem wit="#VI-GALLI-1894">a dare il suo consenso</lem>
+					<rdg wit="#VI-TREVES-1920">ad acconsentirvi</rdg>
+				</app>
+				. La principessa, sui carboni ardenti, si faceva di mille colori, alzava, abbassava e girava gli occhi, pareva invocare l&apos;intervento di don Mariano
+				<app n="90">
+					<lem wit="#VI-GALLI-1894">; e don Mariano</lem>
+					<rdg wit="#VI-TREVES-1920">,</rdg>
+				</app>
+				 tossicchiando un poco voleva avvertire la cugina di non insistere; ma questa continuava con nuova lena: — Almeno, avessero un po&apos; di pazienza! Si libereranno egualmente, perché la povera Matilde sta per morire... Pare che vogliano affrettare la sua fine!... Tutte queste notizie figuratevi che effetto le fanno!... Ma suo padre giura più terribilmente di prima che non acconsentirà mai a fare il comodo loro... Sua figlia lo scongiura di desistere perché anche a lui, quando arrivano di queste notizie, è come se
+				<app n="91">
+					<lem wit="#VI-GALLI-1894"></lem>
+					<rdg wit="#VI-TREVES-1920">gli</rdg>
+				</app>
+				 pigliasse un colpo apoplettico... Veramente, è un po&apos; troppo!... Qui sotto c&apos;è lo zampino della zia Ferdinanda!... Non credete giunto il punto di avvertirli che siano più prudenti?... La principessa non ebbe il tempo di rispondere, di nascondere il nuovo imbarazzo in cui quella domanda la gettava, quando Baldassarre, entrato senza far rumore, annunziò con la consueta sua bella serenità: — Il signor conte e la signora contessa. La cugina restò di sale. Raimondo? La contessa? Quale contessa?... E donna Isabella apparve, andò incontro alla principessa che le veniva incontro, l&apos;abbracciò e la baciò sulle due guance. — Come stai, Margherita? Ero impaziente di restituirti la tua cara visita di ieri... Si davano del tu! La Fersa trovava modo di dire che Margherita era già stata da lei! E il principe sopravveniva, stringeva la mano a Raimondo, dicendo: — Cognata e cugina, resterete a colazione con noi?...
+			</p>
+	</div>
+   </body>
+  </text>
+</TEI>

@@ -1,0 +1,1197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Verismo Digitale: I Malavoglia (Hyperedizione) CAPITOLO 1</title>
+            <author>Giovanni Verga</author>
+            <respStmt>
+               <resp>Codifica a cura di</resp>
+               <name xml:id="NomeCognome">[NOME COGNOME]</name>
+            </respStmt>
+            <respStmt>
+               <resp>Progetto Verismo Digitale (fondi PNRR 2024) a cura di </resp>
+               <name xml:id="MarinaPaino">Marina Paino</name>
+               <name xml:id="AndreaManganaro">Andrea Manganaro</name>
+               <name xml:id="AntonioSichera">Antonio Sichera</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Prima versione <date>Agosto 2024</date></edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>Università di Catania</authority>
+            <availability status="free">
+               <p>Codifica del testo per il progetto PNRR NEXT GENERATION EU.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <!-- Eventuale descrizione del manoscritto, se l'edizione ne tiene conto. -->
+            <msDesc type="manuscript"> 
+               <msIdentifier>
+                  <settlement>[LUOGO DOVE SI TROVA IL MANOSCRITTO]</settlement> 
+                  <repository>[BIBLIOTECA O FONDAZIONE DOVE SI TROVA]</repository>
+                  <idno>[IDENTIFICATIVO DEL MANOSCRITTO]</idno>
+               </msIdentifier>
+               <p>[DESCRIZIONE DELLE CARATTERISTICHE PRINCIPALI DEL MANOSCRITTO, BREVE STORIA, INFORMAZIONI SUL MATERIALE SCRITTORIO, ECC.]</p>
+            </msDesc>
+            <bibl>
+               <title level="m">[TITOLO]</title>
+               <author>[AUTORE]</author>
+               <publisher>[CASA EDITRICE]</publisher>
+               <pubPlace>[LUOGO PUBBLICAZIONE]</pubPlace>
+               <date when="1900">ANNO</date>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Il progetto Verismo Digitale mira a creare edizioni scientifiche digitali commentate, open-access, dell’opera del Verismo otto-novecentesco. Le opere di Verga, Capuana e De Roberto sono presentate attraverso un commento digitale dinamico, corredato da un repertorio bibliografico dinamico e arricchito da applicazioni didattiche e reader-oriented.</p> 
+            <p>Verismo Digitale è promosso dall'Università di Catania (Responsabile Scientifico Marina Paino) ed è a cura di Marina Paino, Andrea Manganaro, Antonio Sichera. L'équipe di ricerca è composta: Liborio Barbarino, Ottavia Branchina, Elisa Conti, Christian D'Agata, Miryam Grasso, Laura Lupo, Ninna Martines, Eliana Vitale, Giovanna Zisa.</p>
+         </projectDesc>
+         <editorialDecl> 
+            <p>Il testo de [OPERA] è stato ricontrollato sul [MANOSCRITTO, DATTILOSCRITTO, MINUTA] e presenta le seguenti varianti rispetto al testo precedentemente edito:
+               <list>
+                  <item><!-- VARIANTE RISPETTO AL TESTO EDITO --></item>
+               </list>
+            </p>
+            <correction method="silent">
+               <p>I seguenti errori della princeps sono stati corretti:
+                  <list>
+                     <item>p. [numero pag] r. [numero riga] [parola originale] > [parola corretta]</item>
+                  </list>
+               </p>
+            </correction>
+            <normalization> 
+               <p>Sono state normalizzate le è secondo l'uso comune in parole come "perché, giacché".</p>
+            </normalization>
+            <quotation marks="all"> 
+               <p>Tutte le virgolette doppie sono rese con ", tutte le virgolette singole con l'apostrofo.</p>
+            </quotation>
+            <hyphenation eol="all">
+               <p>Le parole sillabate che compaiono alla fine della riga nella princeps sono state normalizzate.</p>
+            </hyphenation>
+         </editorialDecl>
+         <tagsDecl partial="true">
+            <namespace name="http://www.tei-c.org/ns/1.0">
+               <tagUsage gi="persName">Il tag persName è stato utilizzato per codificare tutti i nomi propri.</tagUsage>
+               <tagUsage gi="placeName">Il tag placeName è stato utilizzato per codificare tutti i nomi propri di luoghi all'interno del romanzo.</tagUsage>
+               <tagUsage gi="rs">Il tag rs è stato utilizzato per segnalare i riferimenti (stringa di riferimento) che non sono nomi propri a personaggi, luoghi, organizzazioni (inserendo un attributo type per esplicitarne la categoria).</tagUsage>
+               <tagUsage gi="div">Usato per dividere le unità testuali presenti nel medesimo testo.</tagUsage>
+               <!-- DA INTEGRARE -->
+            </namespace>
+         </tagsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <creation>
+            <date>Maggio 2024</date>
+            <placeName>Catania</placeName>
+         </creation>
+         <langUsage>
+            <language ident="Ita">Italiano</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2024-01" resp="#NomeCognome">Ricontrollo testo e prima bozza a cura di [NOME].</change>
+         <change when="2024-03" resp="#NomeCognome">Codifica delle entità nominate, date, citazioni, titoli opere, lessico.</change>
+         <change when="2024-03" resp="#NomeCognome">Codifica del commento secondo i tre livelli del modello.</change>
+         <change when="2024-04" resp="#NomeCognome">Revisione del documento con aggiunta della codifica strutturale, del numero di pagine, dei pointer e delle note.</change>
+      </revisionDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="chapter" n="Prefazione">
+            <p xml:id="MA_000002" n="Pref">PREFAZIONE</p>
+            <p xml:id="MA_000003" n="Pref.1">Questo racconto è lo studio sincero e spassionato del come probabilmente devono nascere e svilupparsi nelle più umili condizioni, le prime irrequietudini pel benessere; e quale perturbazione debba arrecare in una famigliuola vissuta sino allora relativamente felice, la vaga bramosìa dell'ignoto, l'accorgersi che non si sta bene, o che si potrebbe star meglio.</p>
+            <p xml:id="MA_000004" n="Pref.2">Il movente dell'attività umana che produce la fiumana del progresso è preso qui alle sue sorgenti, nelle proporzioni più modeste e materiali. Il meccanismo delle passioni che la determinano in quelle basse sfere è meno complicato, e potrà quindi osservarsi con maggior precisione. Basta lasciare al quadro le sue tinte schiette e tranquille, e il suo disegno semplice. Man mano che cotesta ricerca del meglio di cui l'uomo è travagliato cresce e si dilata, tende anche ad elevarsi, e segue il suo moto ascendente nelle classi sociali. Nei Malavoglia non è ancora che la lotta pei bisogni materiali. Soddisfatti questi, la ricerca diviene avidità di ricchezze, e si incarnerà in un tipo borghese, Mastro don Gesualdo, incorniciato nel quadro ancora ristretto di una piccola città di provincia, ma del quale i colori cominceranno ad essere più vivaci, e il disegno a farsi più ampio e variato. Poi diventerà vanità aristocratica nella Duchessa de Leyra; e ambizione nell'Onorevole Scipioni, per arrivare all'Uomo di lusso, il quale riunisce tutte coteste bramosìe, tutte coteste vanità, tutte coteste ambizioni, per comprenderle e soffrirne, se le sente nel sangue, e ne è consunto. A misura che la sfera dell'azione umana si allarga, il congegno delle passioni va complicandosi; i tipi si disegnano certamente meno originali, ma più curiosi, per la sottile influenza che esercita sui caratteri l'educazione, ed anche tutto quello che ci può essere di artificiale nella civiltà. Persino il linguaggio tende ad individualizzarsi, ad arricchirsi di tutte le mezze tinte dei mezzi sentimenti, di tutti gli artifici della parola onde dar rilievo all'idea, in un'epoca che impone come regola di buon gusto un eguale formalismo per mascherare un'uniformità di sentimenti e d'idee. Perché la riproduzione artistica di cotesti quadri sia esatta, bisogna seguire scrupolosamente le norme di questa analisi; esser sinceri per dimostrare la verità, giacché la forma è così inerente al soggetto, quanto ogni parte del soggetto stesso è necessaria alla spiegazione dell'argomento generale.</p>
+            <p xml:id="MA_000005" n="Pref.3">Il cammino fatale, incessante, spesso faticoso e febbrile che segue l'umanità per raggiungere la conquista del progresso, è grandioso nel suo risultato, visto nell'insieme, da lontano. Nella luce gloriosa che l'accompagna dileguansi le irrequietudini, le avidità, l'egoismo, tutte le passioni, tutti i vizi che si trasformano in virtù, tutte le debolezze che aiutano l'immane lavoro, tutte le contraddizioni, dal cui attrito sviluppasi la luce della verità. Il risultato umanitario copre quanto c'è di meschino negli interessi particolari che lo producono; li giustifica quasi come mezzi necessari a stimolare l'attività dell'individuo cooperante inconscio a beneficio di tutti. Ogni movente di cotesto lavorìo universale, dalla ricerca del benessere materiale, alle più elevate ambizioni, è legittimato dal solo fatto della sua opportunità a raggiungere lo scopo del movimento incessante; e quando si conosce dove vada questa immensa corrente dell'attività umana, non si domanda al certo come ci va. Solo l'osservatore, travolto anch'esso dalla fiumana, guardandosi attorno, ha il diritto di interessarsi ai deboli che restano per via, ai fiacchi che si lasciano sorpassare dall'onda per finire più presto, ai vinti che levano le braccia disperate, e piegano il capo sotto il piede brutale dei sopravvegnenti, i vincitori d'oggi, affrettati anch'essi, avidi anch'essi d'arrivare, e che saranno sorpassati domani.</p>
+            <p xml:id="MA_000006" n="Pref.4">I Malavoglia, Mastro don Gesualdo, la Duchessa de Leyra, l'Onorevole Scipioni, l'Uomo di lusso sono altrettanti vinti che la corrente ha deposti sulla riva, dopo averli travolti e annegati, ciascuno colle stimate del suo peccato, che avrebbero dovuto essere lo sfolgorare della sua virtù. Ciascuno, dal più umile al più elevato, ha avuta la sua parte nella lotta per l'esistenza, pel benessere, per l'ambizione - dall'umile pescatore al nuovo arricchito - alla intrusa nelle alte classi - all'uomo dall'ingegno e dalle volontà robuste, il quale si sente la forza di dominare gli altri uomini; di prendersi da sé quella parte di considerazione pubblica che il pregiudizio sociale gli nega per la sua nascita illegale; di fare la legge, lui nato fuori dalla legge - all'artista che crede di seguire il suo ideale seguendo un'altra forma dell'ambizione. Chi osserva questo spettacolo non ha il diritto di giudicarlo; è già molto se riesce a trarsi un istante fuori del campo della lotta per studiarla senza passione, e rendere la scena nettamente, coi colori adatti, tale da dare la rappresentazione della realtà com'è stata, o come avrebbe dovuto essere.</p>
+            <p xml:id="MA_000007" n="Pref.5">Milano, 19 gennaio 1881</p>
+         </div>
+         <div type="chapter" n="I">
+            <head xml:id="MA_000008" n="I">I</head>
+            <p xml:id="MA_000009" n="I.1">Un tempo <persName ref="#iMalavoglia">i <hi rend="italic">Malavoglia</hi></persName> erano stati numerosi come i sassi della strada vecchia di <placeName ref="#Acitrezza">Trezza</placeName>; ce n’erano persino ad <placeName ref="#Ognina">Ognina</placeName>, e ad <placeName ref="#AciCastello">Aci Castello</placeName>, tutti buona e brava gente di mare, <ptr type="bibl" target="#N_MA_bibl_incipit"/><ptr type="comm" target="#N_MA_comm_incipit"/><ptr type="media" target="#N_MA_media_genteDiMare"/><seg type="explgen" ana="#seg_MA_explgen_nomignolo">proprio all’opposto di quel che sembrava dal nomignolo</seg>, come dev’essere<ptr type="bibl" target="#N_MA_bibl_comeDevEssere"/><ptr type="philol" target="#N_MA_philol_comeDevEssere"/><ptr type="comm" target="#N_MA_comm_comeDevEssere"/>. Veramente nel libro della parrocchia si chiamavano <persName ref="#iMalavoglia">Toscano</persName>, ma questo non voleva dir nulla, poiché <seg type="fraseologia" ana="#seg_MA_phrase_DaCheIlMondo">da che il mondo era mondo</seg>, <placeName ref="#Ognina">all’Ognina</placeName>, a <placeName ref="#Acitrezza">Trezza</placeName> e ad <placeName ref="#AciCastello">Aci Castello</placeName>, li avevano sempre conosciuti per <persName ref="#iMalavoglia">Malavoglia, di padre in figlio</persName>, che avevano sempre avuto <seg type="fraseologia" ana="#seg_MA_phrase_DelleBarcheSullAcqua">delle barche sull’acqua, e delle tegole al sole</seg>. Adesso a <placeName ref="#Acitrezza">Trezza</placeName> non rimanevano che <persName ref="#iMalavoglia">i Malavoglia di <persName ref="#PadronNtoniMalavoglia">padron ’Ntoni</persName></persName>, <rs type="person" ref="#iMalavoglia">quelli<ptr type="bibl" target="#N_MA_bibl_UnTempoAdessoQ"/> della <placeName ref="#CasaDelNespolo">casa del nespolo</placeName>, e della <objectName ref="#Provvidenza"><hi rend ="italic">Provvidenza</hi></objectName></rs> ch’era <distinct ana="#Ammarrare">ammarrata</distinct> sul greto, sotto il lavatoio, accanto alla <objectName ref="#Concetta"><hi rend ="italic">Concetta</hi></objectName> dello <persName ref="#ZioCola">zio Cola</persName>, e alla <distinct ana="#Paranza">paranza</distinct> di <persName ref="#PadronCipolla">padron Fortunato <hi rend ="italic">Cipolla</hi></persName>.</p>
+            <p xml:id="MA_000010" n="I.2">Le burrasche che avevano disperso <seg type="fraseologia" ana="#seg_MA_phrase_DiQuaEDiLà">di qua e di là</seg> <persName ref="#altriMalavoglia">gli altri Malavoglia</persName>, erano passate senza far gran danno sulla <placeName ref="#CasaDelNespolo">casa del nespolo</placeName> e sulla <rs type="object" ref="#Provvidenza">barca <distinct ana="#Ammarrare">ammarrata</distinct> sotto il lavatoio</rs>; e <persName ref="#PadronNtoniMalavoglia">padron ’Ntoni</persName>, per spiegare il miracolo, soleva dire, mostrando il pugno chiuso – un pugno che sembrava fatto di legno di noce –<ptr type="bibl" target="N_MA_bibl_Pugno"/><ptr type="philol" target="N_MA_philol_Pugno"/> <seg type="fraseologia" subtype="proverb" ana="#seg_MA_phrase_PerMenareIlRemo"><q who="#PadronNtoniMalavoglia">Per <distinct ana="#Menare">menare</distinct> il remo bisogna che le cinque dita s’aiutino l’un l’altro.</q></seg></p> 
+            <p xml:id="MA_000011" n="I.3">Diceva pure, – <seg type="fraseologia" subtype="proverb" ana="#seg_MA_phrase_GliUominiSonFatti"><q who="#PadronNtoniMalavoglia">Gli uomini son fatti come le dita della mano: il dito grosso deve far da dito grosso, e il dito piccolo deve far da dito piccolo.</q></seg> –</p> 
+            <p xml:id="MA_000012" n="I.4">E <rs type="person" ref="#iMalavoglia">la famigliuola di <persName ref="#PadronNtoniMalavoglia">padron ’Ntoni</persName></rs> era realmente disposta come le dita della mano.<ptr type="philol" target="N_MA_philol_ComeLeDita"/> Prima veniva <rs type="person" ref="#PadronNtoniMalavoglia">lui, il dito grosso</rs>, che <seg type="fraseologia" subtype="proverb" ana="#seg_MA_phrase_ComandavaLefeste">comandava le feste e le quarant’ore</seg>; poi <persName ref="#BastianoMalavoglia">suo figlio Bastiano, <hi rend ="italic">Bastianazzo</hi></persName>, perché <rs type="person" ref="#BastianoMalavoglia">era grande e grosso quanto il San Cristoforo che c’era dipinto sotto l’arco della <placeName ref="#Pescheria">pescheria</placeName> della città; e così grande e grosso com’era filava diritto alla manovra comandata, e non si sarebbe soffiato il naso se <rs type="person" ref="#PadronNtoniMalavoglia">suo padre</rs> non gli avesse detto <q who="#PadronNtoniMalavoglia" toWhom="#BastianoMalavoglia" >«sòffiati il naso»</q> tanto che s’era <distinct ana="#ToltaInMoglie">tolta in moglie</distinct> <persName ref="#MaruzzaMalavoglia"><hi rend ="italic">la Longa</hi></persName> quando gli avevano detto <q toWhom="#BastianoMalavoglia">«pìgliatela»</q></rs><ptr type="bibl" target="#N_MA_bibl_PresentazioneBastianazzo"/>. Poi veniva <persName ref="#MaruzzaMalavoglia">la Longa, una piccina</persName> <rs type="person" ref="#MaruzzaMalavoglia">che badava a tessere, salare le acciughe, e far figliuoli, da buona massaia</rs><ptr type="bibl" target="#N_MA_bibl_PresentazioneMaruzza"/>; infine i nipoti, in ordine di anzianità:  <persName ref="#NtoniMalavoglia">’Ntoni, il maggiore</persName>, <rs type="person" ref="NtoniMalavoglia">un <distinct ana="#Bighellone">bighellone</distinct> di vent’anni, che si <distinct ana="#Buscare">buscava</distinct> tutt’ora qualche scappellotto dal nonno, e qualche pedata più giù per rimettere l’equilibrio, quando lo scappellotto era stato troppo forte</rs><ptr type="bibl" target="#N_MA_bibl_PresentazioneNtoni"/>; <persName ref="#LucaMalavoglia">Luca</persName>, <rs type="person" ref="#LucaMalavoglia"><q who="#PadronNtoniMalavoglia">«che aveva più giudizio del grande»</q> ripeteva <rs type="person" ref="#PadronNtoniMalavoglia">il nonno</rs></rs><ptr type="bibl" target="#N_MA_bibl_PresentazioneLuca"/>; <persName ref="#MenaMalavoglia">Mena (Filomena) soprannominata <q>«Sant’Agata»</q></persName> perché <rs type="person" ref="#MenaMalavoglia">stava sempre al telaio, e si suol dire <seg type="fraseologia" subtype="proverb" ana="#seg_MA_phrase_DonnaDiTelaio"><q>«donna di telaio, gallina di pollaio, e triglia di gennaio»</q></seg></rs><ptr type="bibl" target="#N_MA_bibl_PresentazioneMena"/>; <persName ref="#AlessiMalavoglia">Alessi (Alessio)</persName> <rs type="person" ref="#AlessiMalavoglia">un moccioso tutto <rs type="person" ref="#PadronNtoniMalavoglia">suo nonno</rs> colui!</rs><ptr type="bibl" target="#N_MA_bibl_PresentazioneAlessi"/>; e <persName ref="#LiaMalavoglia">Lia (Rosalia)</persName> <rs type="person" ref="#LiaMalavoglia">ancora né carne né pesce</rs><ptr type="bibl" target="#N_MA_bibl_PresentazioneLia"/>. – Alla domenica, quando entravano in chiesa, l’uno dietro l’altro, pareva una processione.</p>
+            <p xml:id="MA_000013" n="I.5"><persName ref="#PadronNtoniMalavoglia">Padron ’Ntoni</persName> sapeva anche certi <distinct ana="#MottiEProverbi"><hi rend ="italic">motti</hi> e proverbi</distinct> che aveva sentito dagli <hi rend ="italic">antichi</hi>: <seg type="fraseologia" subtype="proverb" ana="#seg_MA_phrase_IlMottoDegliAntichi"><q who="#PadronNtoniMalavoglia">«perché il motto degli antichi mai mentì»</q></seg>: – <seg type="fraseologia" subtype="proverb" ana="#seg_MA_phrase_SenzaPilotaBarca"><q who="#PadronNtoniMalavoglia">«Senza pilota barca non cammina»</q></seg><ptr type="philol" target="#N_MA_philol_SenzaPilotaBarca"/> – <seg type="fraseologia" subtype="proverb" ana="#seg_MA_phrase_PerFarDaPapa"><q who="#PadronNtoniMalavoglia">«Per far da papa bisogna saper far da sagrestano»</q></seg> – oppure – <seg type="fraseologia" subtype="proverb" ana="#seg_MA_phrase_FaIlMestiereCheSai"><q who="#PadronNtoniMalavoglia">«Fa il mestiere che sai, che se non arricchisci camperai»</q></seg> – <seg type="fraseologia" subtype="proverb" ana="#seg_MA_phrase_ContentatiDiQuel"><q who="#PadronNtoniMalavoglia">«Contentati di quel che t’ha fatto tuo padre; se non altro non sarai un birbante»</q></seg> ed altre <distinct ana="#Sentenze">sentenze</distinct> giudiziose.<ptr type="bibl" target="N_MA_bibl_PresentazionePadronNtoni"/></p>
+            <p xml:id="MA_000014" n="I.6">Ecco perché la <placeName ref="#CasaDelNespolo">casa del nespolo</placeName> prosperava, e <persName ref="#PadronNtoniMalavoglia">padron ’Ntoni</persName> <rs type="person" ref="#PadronNtoniMalavoglia">passava per <distinct ana="#TestaQuadra">testa quadra</distinct>, al punto che a <placeName ref="#Acitrezza">Trezza</placeName> l’avrebbero fatto consigliere comunale</rs>, se <persName ref="#DonSilvestro">don Silvestro, il segretario</persName>, il quale <rs type="person" ref="#DonSilvestro">la sapeva lunga</rs>, non avesse predicato che <rs type="person" ref="#PadronNtoniMalavoglia">era un <seg type="fraseologia" ana="seg_MA_phrase_CodinoMarcio">codino marcio, un reazionario</seg> di quelli che proteggono <persName ref="#Borbone">i Borboni</persName>, e che cospirava pel ritorno di <persName ref="#FrancescoIIdiBorbone">Franceschello</persName>, onde poter spadroneggiare nel villaggio, come spadroneggiava in casa propria</rs>.</p>
+            <p xml:id="MA_000015" n="I.7"><persName ref="#PadronNtoniMalavoglia">Padron ’Ntoni</persName> invece non lo conosceva neanche di vista <seg type="explgen" ana="#seg_MA_explgen_Franceschello"><persName ref="#FrancescoIIdiBorbone">Franceschello</persName></seg>, e badava agli affari suoi, e soleva dire: <q who="#PadronNtoniMalavoglia"><seg type="fraseologia" subtype="proverb" ana="#seg_MA_phrase_ChiHaCarico">«Chi ha carico di casa non può dormire quando vuole»</seg> perché <seg type="fraseologia" subtype="proverb" ana="#seg_MA_phrase_ChiComandaHa">«chi comanda ha da dar conto»</seg></q>.<ptr type="bibl" target="#N_MA_bibl_DonSilvestroPadronNtoni"/><ptr type="philol" target="#N_MA_philol_DonSilvestroPadronNtoni"/><ptr type="comm" target="N_MA_comm_DonSilvestroPadronNtoni"/></p>
+            <p xml:id="MA_000016" n="I.8">Nel <date when="1863-12" ana="#NtoniLeva">dicembre del 1863</date>, <persName ref="#NtoniMalavoglia">’Ntoni, il maggiore dei nipoti</persName>, era stato chiamato per la leva di mare. <persName ref="#PadronNtoniMalavoglia">Padron ’Ntoni</persName> allora era corso dai pezzi grossi del paese, che son quelli che possono aiutarci. Ma <persName ref="#DonGiammaria">don Giammaria, il vicario</persName>, gli avea risposto che gli stava bene, e questo era il frutto di quella rivoluzione di satanasso che avevano fatto collo sciorinare il fazzoletto tricolore dal campanile. Invece <persName ref="#DonFranco">don Franco lo speziale</persName> si metteva a ridere fra i peli della barbona, e gli giurava fregandosi le mani che se arrivavano a mettere assieme <orgName ref="#Repubblica">un po’ di repubblica</orgName>, tutti quelli della leva e delle tasse li avrebbero presi a calci nel sedere, ché soldati non ce ne sarebbero stati più, e invece tutti sarebbero andati alla guerra, se bisognava. Allora  <persName ref="#PadronNtoniMalavoglia">padron ’Ntoni</persName> lo pregava e lo strapregava per l’amor di Dio di fargliela presto <orgName ref="#Repubblica">la repubblica</orgName>, prima che <persName ref="#NtoniMalavoglia">suo nipote ’Ntoni</persName> andasse soldato, come se <persName ref="#DonFranco">don Franco</persName> ce l’avesse in tasca; tanto che <rs type="person" ref="#DonFranco">lo speziale</rs> finì coll’andare in collera. Allora <persName ref="#DonSilvestro">don Silvestro il segretario</persName> si smascellava dalle risa a quei discorsi, e finalmente disse lui che con certo gruzzoletto fatto scivolare in tasca a tale e tal altra persona che sapeva lui, avrebbero saputo trovare a <rs type="person" ref="#NtoniMalavoglia">suo nipote</rs> un difetto da riformarlo. Per disgrazia <rs type="person" ref="#NtoniMalavoglia">il ragazzo</rs> era fatto con coscienza, come se ne fabbricano ancora ad <placeName ref="#Acitrezza">Aci Trezza</placeName>, e il dottore della leva, quando si vide dinanzi <rs type="person" ref="#NtoniMalavoglia">quel pezzo di giovanotto</rs>, gli disse che aveva il difetto di esser piantato come un pilastro su quei piedacci che sembravano pale di ficodindia; ma i piedi fatti a pala di ficodindia ci stanno meglio degli stivalini stretti sul ponte di una corazzata, in certe giornataccie; e perciò si presero <persName ref="#NtoniMalavoglia">’Ntoni</persName> senza dire <q>«permettete»</q>. <persName ref="#MaruzzaMalavoglia">La Longa</persName>, mentre i coscritti erano condotti in quartiere, trottando trafelata accanto al passo lungo del <rs type="person" ref="#NtoniMalavoglia">figliuolo</rs>, gli andava raccomandando di tenersi sempre sul petto <objectName ref="#AbitinoDellaMadonna">l’abitino della <objectName ref="#Madonna">Madonna</objectName></objectName>, e di mandare le notizie ogni volta che tornava qualche conoscente dalla città, che poi gli avrebbero mandati i soldi per la carta.</p> 
+            <p xml:id="MA_000017" n="I.9"><rs type="person" ref="#PadronNtoniMalavoglia">Il nonno, da uomo</rs>, non diceva nulla; ma si sentiva un gruppo nella gola anch’esso, ed evitava di guardare in faccia <rs type="person" ref="#MaruzzaMalavoglia">la nuora</rs>, quasi ce l’avesse con lei. Così se ne tornarono ad <placeName ref="#Acitrezza">Aci Trezza</placeName> zitti zitti e a capo chino. <persName ref="#BastianoMalavoglia">Bastianazzo</persName>, che si era sbrigato in fretta dal disarmare <objectName ref="#Provvidenza">la <hi rend ="italic">Provvidenza</hi></objectName>, per andare ad aspettarli in capo alla via, come li vide comparire a quel modo, mogi mogi e colle scarpe in mano, non ebbe animo di aprir bocca, e se ne tornò a casa con loro. <persName ref="#MaruzzaMalavoglia">La Longa</persName> corse subito a cacciarsi in cucina, quasi avesse furia di trovarsi a quattr’occhi colle vecchie stoviglie, e  <persName ref="#PadronNtoniMalavoglia">padron ’Ntoni</persName> disse al <rs type="person" ref="#BastianoMalavoglia">figliuolo</rs>:</p>
+            <p xml:id="MA_000018" n="I.10">– Va a dirle qualche cosa, a <rs type="person" ref="#MaruzzaMalavoglia">quella poveretta; non ne può più</rs>.</p> 
+            <p xml:id="MA_000019" n="I.11">Il giorno dopo tornarono <rs type="person" ref="#iMalavoglia">tutti</rs> alla stazione di <placeName ref="#AciCastello">Aci Castello</placeName> per veder passare il convoglio dei coscritti che andavano a Messina, e aspettarono più di un’ora, pigiati dalla folla, dietro lo stecconato. Finalmente giunse il treno, e si videro tutti quei ragazzi che annaspavano, col capo fuori dagli sportelli, come fanno i buoi quando sono condotti alla fiera. I canti, le risate e il baccano erano tali che sembrava la festa di Trecastagni, e nella ressa e nel frastuono ci si dimenticava perfino quello stringimento di cuore che si aveva prima.</p> 
+            <p xml:id="MA_000020" n="I.12">– Addio <persName ref="#NtoniMalavoglia">’Ntoni</persName>! – Addio <rs type="person" ref="#MaruzzaMalavoglia">mamma</rs>! – Addio! ricordati! ricordati! – Lì presso, sull’argine della via, c’era <persName ref="#Sara">la Sara<persName ref="#ComareTudda"> di comare Tudda</persName></persName>, a mietere l’erba pel vitello; ma <persName ref="#VeneraZuppidda">comare Venera <hi rend ="italic">la Zuppidda</hi></persName> andava soffiando che c’era venuta per salutare  <persName ref="#NtoniMalavoglia">’Ntoni di  <persName ref="#PadronNtoniMalavoglia">padron ’Ntoni</persName></persName>, col quale si parlavano dal muro dell’orto, li aveva visti lei, con quegli occhi che dovevano mangiarseli i vermi. Certo è che <persName ref="#NtoniMalavoglia">’Ntoni</persName> salutò <persName ref="#Sara">la Sara</persName> colla mano, ed ella rimase colla falce in pugno a guardare finché il treno non si mosse. <persName ref="#MaruzzaMalavoglia">Alla Longa</persName>, l’era parso rubato a lei quel saluto; e molto tempo dopo, ogni volta che incontrava <persName ref="#Sara">la Sara<persName ref="#ComareTudda"> di comare Tudda</persName></persName>, nella piazza o al lavatoio, le voltava le spalle. Poi il treno era partito fischiando e strepitando in modo da mangiarsi i canti e gli addii. E dopo che i curiosi si furono dileguati, non rimasero che alcune donnicciuole, e qualche povero diavolo, che si tenevano ancora stretti ai pali dello stecconato, senza saper perché. Quindi a poco a poco si sbrancarono anch’essi, e  <persName ref="#PadronNtoniMalavoglia">padron ’Ntoni</persName>, indovinando che <rs type="person" ref="#MaruzzaMalavoglia">la nuora</rs> dovesse avere la bocca amara, le pagò due centesimi di acqua col limone.</p>
+            <p xml:id="MA_000021" n="I.13"><persName ref="#VeneraZuppidda">Comare Venera la Zuppidda</persName> per confortare <persName ref="#MaruzzaMalavoglia">comare la Longa</persName>, le andava dicendo: – Ora mettetevi il cuore in pace, che per cinque anni bisogna fare come se vostro figlio fosse morto, e non pensarci più.</p>
+            <p xml:id="MA_000022" n="I.14">Ma pure ci pensavano sempre, nella <placeName ref="#CasaDelNespolo">casa del nespolo</placeName>, o per certa scodella che le veniva tutti i giorni sotto mano <persName ref="#MaruzzaMalavoglia">alla Longa</persName> nell’apparecchiare il deschetto, o a proposito di certa ganza che <persName ref="#NtoniMalavoglia">’Ntoni</persName> sapeva fare meglio di ogni altro alla funicella della vela, e quando si trattava di serrare una scotta tesa come una corda di violino, o di alare una parommella che ci avrebbe voluto l’argano. <rs type="person" ref="#PadronNtoniMalavoglia">Il nonno</rs> anzimando cogli ohi! ooohi! Intercalava – Qui ci vorrebbe <persName ref="#NtoniMalavoglia">’Ntoni</persName> – oppure – Vi pare che io abbia il polso di <rs type="person" ref="#NtoniMalavoglia">quel ragazzo</rs>? La madre, mentre ribatteva il pettine sul telaio – uno! due! tre! – pensava a quel bum bum della macchina che le aveva portato via <rs type="person" ref="#NtoniMalavoglia">il figliuolo</rs>, e le era rimasto sul cuore, in quel gran sbalordimento, e le picchiava ancora dentro il petto, – uno! due! tre!</p>
+            <p xml:id="MA_000023" n="I.15"><rs type="person" ref="#PadronNtoniMalavoglia">Il nonno</rs> poi aveva certi singolari argomenti per confortarsi, e per confortare gli altri: – Del resto volete che vel dica? Un po’ di soldato gli farà bene a <rs type="person" ref="#NtoniMalavoglia">quel ragazzo</rs>; ché il suo paio di braccia gli piaceva meglio di portarsele a spasso la domenica, anziché servirsene a buscarsi il pane.</p> 
+            <p xml:id="MA_000024" n="I.16">Oppure: – Quando avrà provato il pane salato che si mangia altrove, non si lagnerà più della minestra di casa sua.</p>
+            <p xml:id="MA_000025" n="I.17">Finalmente arrivò da Napoli la prima lettera di <persName ref="#NtoniMalavoglia">’Ntoni</persName>, che mise in rivoluzione tutto il vicinato. Diceva che le donne, in quelle parti là, scopavano le strade colle gonnelle di seta, e che sul molo c’era il teatro di Pulcinella, e si vendevano delle pizze, a due centesimi, di quelle che mangiano i signori, e senza soldi non ci si poteva stare, e non era come a <placeName ref="#Acitrezza">Trezza</placeName>, dove se non si andava <placeName ref="#OsteriaDellaSantuzza">all’osteria <persName ref="#MariangelaLaSantuzza">della <hi rend ="italic">Santuzza</hi></persName></placeName> non si sapeva come spendere un baiocco. – Mandiamogli dei soldi per comperarsi le pizze, <rs type="person" ref="#NtoniMalavoglia">al goloso</rs>! brontolava <persName ref="#PadronNtoniMalavoglia">padron ’Ntoni</persName>; già lui non ci ha colpa, è fatto così; <rs type="person" ref="#NtoniMalavoglia">è fatto come i merluzzi, che abboccherebbero un chiodo arrugginito. Se non l’avessi tenuto a battesimo su queste braccia, direi che <persName ref="#DonGiammaria">don Giammaria</persName> gli ha messo in bocca dello zucchero invece di sale</rs>.</p> 
+            <p xml:id="MA_000026" n="I.18"><persName ref="#LaMangiacarrubbe">La <hi rend ="italic">Mangiacarrubbe</hi></persName>, quando al lavatoio c’era anche <persName ref="#Sara">Sara<persName ref="#ComareTudda"> di comare Tudda</persName></persName>, tornava a dire:</p>
+            <p xml:id="MA_000027" n="I.19">– Sicuro! le donne vestite di seta aspettavano apposta <persName ref="#NtoniMalavoglia">’Ntoni di <persName ref="#PadronNtoniMalavoglia">padron ’Ntoni</persName></persName> per rubarselo; che non ne avevano visti mai dei cetriuoli laggiù!</p> 
+            <p xml:id="MA_000028" n="I.20">Le altre si tenevano i fianchi dal ridere, e d’allora in poi le ragazze inacidite <rs type="person" ref="#NtoniMalavoglia">lo chiamarono <q>«cetriuolo»</q></rs>.</p> 
+            <p xml:id="MA_000029" n="I.21"><persName ref="#NtoniMalavoglia">’Ntoni</persName> aveva mandato anche il suo ritratto, l’avevano visto tutte le ragazze del lavatoio, come <persName ref="#Sara">la Sara<persName ref="#ComareTudda"> di comare Tudda</persName></persName> lo faceva passare di mano in mano, sotto il grembiule, e <persName ref="#LaMangiacarrubbe">la Mangiacarrubbe</persName> schiattava dalla gelosia. <rs type="person" ref="#NtoniMalavoglia">Pareva <objectName ref="#SanMicheleArcangelo">San Michele Arcangelo</objectName> in carne ed ossa, con quei piedi posati sul tappeto, e quella cortina sul capo, come quella della <objectName ref="#MadonnaDellOgnina">Madonna <placeName ref="#Ognina">dell’Ognina</placeName></objectName>, così bello, lisciato e ripulito che non l’avrebbe riconosciuto più <rs type="person" ref="#MaruzzaMalavoglia">la mamma</rs> che l’aveva fatto</rs>; e <persName ref="#MaruzzaMalavoglia">la povera Longa</persName> non si saziava di guardare il tappeto e la cortina e quella colonna contro cui <rs type="person" ref="#NtoniMalavoglia">il suo ragazzo</rs> stava ritto impalato, grattando colla mano la spalliera di una bella poltrona; e ringraziava Dio e i santi che avevano messo <rs type="person" ref="#NtoniMalavoglia">il suo figliuolo</rs> in mezzo a tutte quelle galanterie. Ella teneva il ritratto sul canterano, sotto la campana del Buon Pastore – che gli diceva le avemarie – andava dicendo <persName ref="#VeneraZuppidda">la Zuppidda</persName>, e si credeva di averci un tesoro sul canterano, mentre <persName ref="#MariangelaLaSantuzza">suor Mariangela la Santuzza</persName> ce ne aveva un altro, tal quale chi voleva vederlo, che glielo aveva regalato <persName ref="#MarianoCinghialenta">compare Mariano <hi rend ="italic">Cinghialenta</hi></persName>, e lo teneva inchiodato <placeName ref="#OsteriaDellaSantuzza">sul banco dell’osteria</placeName>, dietro i bicchieri.</p> 
+            <p xml:id="MA_000030" n="I.22">Ma dopo un po’ di tempo <persName ref="#NtoniMalavoglia">’Ntoni</persName> aveva pescato un camerata che sapeva di lettere, e si sfogava a lagnarsi della vitaccia di bordo, della disciplina, dei superiori, del riso lungo e delle scarpe strette. – Una lettera che non valeva i venti centesimi della posta! borbottava <persName ref="#PadronNtoniMalavoglia">padron ’Ntoni</persName>. <persName ref="#MaruzzaMalavoglia">La Longa</persName> se la prendeva con quegli sgorbi, che sembravano ami di pesceluna, e non potevano dir nulla di buono. <persName ref="#BastianoMalavoglia">Bastianazzo</persName> dimenava il capo e faceva segno di no, che così non andava bene, e se fosse stato in lui ci avrebbe messo sempre delle cose allegre, da fare ridere il cuore agli altri, lì sulla carta, – e vi appuntava un dito grosso come un regolo da forcola – se non altro per compassione della <persName ref="#MaruzzaMalavoglia">Longa</persName>, <rs type="person" ref="#MaruzzaMalavoglia">la quale, poveretta, non si dava pace, e sembrava una gatta che avesse perso i gattini</rs>. <persName ref="#PadronNtoniMalavoglia">Padron ’Ntoni</persName> andava di nascosto a farsi leggere la lettera dallo <rs type="person" ref="#DonFranco">speziale</rs>, e poi da <persName ref="#DonGiammaria">don Giammaria</persName>, che era del partito contrario, affine di sentire le due campane, e quando si persuadeva che era scritto proprio così, ripeteva con <persName ref="#BastianoMalavoglia">Bastianazzo</persName>, e con <rs type="person" ref="#MaruzzaMalavoglia">la moglie di lui</rs>:</p>
+            <p xml:id="MA_000031" n="I.23">– Non ve lo dico io che <rs type="person" ref="#NtoniMalavoglia">quel ragazzo avrebbe dovuto nascer ricco</rs>, come <rs type="person" ref="#BrasiCipolla">il figlio di <persName ref="#PadronCipolla">padron Cipolla</persName></rs>, per stare a grattarsi la pancia senza far nulla!</p>
+            <p xml:id="MA_000032" n="I.24">Intanto l’annata era scarsa e il pesce bisognava darlo per l’anima dei morti, ora che i cristiani avevano imparato a mangiar carne anche il venerdì come tanti turchi. Per giunta le braccia rimaste a casa non bastavano più al governo della <rs type="object" ref="#Provvidenza">barca</rs>, e alle volte bisognava prendere a giornata <persName ref="#MenicoDellaLocca">Menico <persName ref="#LaLocca"><hi rend ="italic">della Locca</hi></persName></persName>, o qualchedun altro. Il re faceva così, che i ragazzi se li pigliava per la leva quando erano atti a buscarsi il pane; ma sinché erano di peso alla famiglia, avevano a tirarli su per soldati; e bisognava pensare ancora che <persName ref="#MenaMalavoglia">la Mena</persName> <rs type="person" ref="#MenaMalavoglia"><rs type="#MenaMalavoglia17">entrava nei diciassett’anni</rs>, e cominciava a far voltare i giovanotti quando andava a messa</rs>. <q>«L’uomo è il fuoco, e la donna è la stoppa: viene il diavolo e soffia»</q>. Perciò si doveva aiutarsi colle mani e coi piedi per mandare avanti <placeName ref="#CasaDelNespolo">quella barca della casa del nespolo</placeName>.</p>
+            <p xml:id="MA_000033" n="I.25"><persName ref="#PadronNtoniMalavoglia">Padron ’Ntoni</persName> adunque, per menare avanti la barca<ptr type="philol" target="#N_MA_philol_BarcaCasa"/><ptr type="comm" target="#N_MA_comm_BarcaCasa"/>, aveva combinato con <persName ref="#ZioCrocifisso">lo zio Crocifisso <hi rend ="italic">Campana di legno</hi></persName> un negozio di certi lupini <objectName ref="#Soldi">da comprare a credenza</objectName> per venderli a <placeName ref="#Riposto">Riposto</placeName>, dove <persName ref="#MarianoCinghialenta">compare Cinghialenta</persName> aveva detto che c’era un bastimento di <placeName ref="#Trieste">Trieste</placeName> a pigliar carico. Veramente i lupini erano un po’ avariati; ma non ce n’erano altri a <placeName ref="#Acitrezza">Trezza</placeName>, e <rs type="person" ref="#ZioCrocifisso">quel furbaccio di</rs> <persName ref="#ZioCrocifisso">Campana di legno</persName> sapea pure che la <objectName ref="#Provvidenza"><hi rend ="italic">Provvidenza</hi></objectName> se la mangiava inutilmente il sole e l’acqua, dov’era ammarrata sotto il lavatoio, senza far nulla; perciò si ostinava a fare il minchione.</p>
+            <p xml:id="MA_000034" n="I.26">– Eh? non vi conviene? lasciateli! Ma un centesimo di meno non posso, in coscienza! che l’anima ho da darla a Dio! – e <rs type="person" ref="#ZioCrocifisso">dimenava il capo che pareva una campana senza batacchio davvero</rs>. Questo discorso avveniva sulla porta della <placeName ref="#ChiesaDellOgnina">chiesa <placeName ref="#Ognina">dell’Ognina</placeName></placeName>, <date when="1867-09-08">la prima domenica di settembre, che era stata <eventName ref="#FestaMadonnaDellOgnina">la festa della Madonna</eventName></date>, con gran concorso di tutti i paesi vicini; e c’era anche <persName ref="#AgostinoPiedipapera">compare Agostino <hi rend ="italic">Piedipapera</hi></persName>, il quale colle sue barzellette riuscì a farli mettere d’accordo sulle <objectName ref="#Soldi">due onze e dieci a salma, da pagarsi <q>«col violino»</q> a tanto il mese</objectName>. Allo <persName ref="#ZioCrocifisso">zio Crocifisso</persName> <rs type="person" ref="#ZioCrocifisso">gli finiva sempre così, che gli facevano chinare il capo per forza, come <objectName ref="#Peppinino">Peppinino</objectName>, perché aveva il maledetto vizio di non sapere dir di no</rs>. – Già! voi non sapete dir di no, quando vi conviene, sghignazzava  <persName ref="#AgostinoPiedipapera">Piedipapera</persName>. Voi siete come le... e disse come.</p>
+            <p xml:id="MA_000035" n="I.27">Allorché <persName ref="#MaruzzaMalavoglia">la Longa</persName> seppe del negozio dei lupini, dopo cena, mentre si chiacchierava coi gomiti sulla tovaglia, rimase a bocca aperta; come se <objectName ref="#Soldi">quella grossa somma di quarant’onze</objectName> se la sentisse sullo stomaco. Ma le donne hanno il cuore piccino, e <persName ref="#PadronNtoniMalavoglia">padron ’Ntoni</persName> dovette spiegarle che se il negozio andava bene c’era del pane per l’inverno, e gli orecchini per <persName ref="#MenaMalavoglia">Mena</persName>, e <persName ref="#BastianoMalavoglia">Bastiano</persName> avrebbe potuto andare e venire in una settimana da <placeName ref="#Riposto">Riposto</placeName>, con <persName ref="#MenicoDellaLocca">Menico <persName ref="#LaLocca">della Locca</persName></persName>. <persName ref="#BastianoMalavoglia">Bastiano</persName> intanto smoccolava la candela senza dir nulla. Così fu risoluto il negozio dei lupini, e il viaggio della <objectName ref="#Provvidenza"><hi rend ="italic">Provvidenza</hi></objectName>, che era la più vecchia delle barche del villaggio, ma aveva il nome di buon augurio. <persName ref="#MaruzzaMalavoglia">Maruzza</persName> se ne sentiva sempre il cuore nero, ma non apriva bocca, perché non era affar suo, e si affaccendava zitta zitta a mettere in ordine <rs type="object" ref="#Provvidenza">la barca</rs> e ogni cosa pel viaggio, il pane fresco, l’orciolino coll’olio, le cipolle, il cappotto foderato di pelle, sotto la <distinct>pedagna</distinct> e nella <distinct>scaffetta</distinct>.</p> 
+            <p xml:id="MA_000036" n="I.28"><rs type="person" ref="#uominiMalavoglia">Gli uomini</rs> avevano avuto un gran da fare tutto il giorno, con <rs type="person" ref="#ZioCrocifisso">quell’usuraio dello</rs> <persName ref="#ZioCrocifisso">zio Crocifisso</persName>, il quale aveva venduto la gatta nel sacco, e i lupini erano avariati. <persName ref="#ZioCrocifisso">Campana di legno</persName> diceva che lui non ne sapeva nulla, come è vero Iddio! <q>«Quel ch’è di patto non è d’inganno»</q>; che l’anima lui non doveva darla ai porci! e  <persName ref="#AgostinoPiedipapera">Piedipapera</persName> schiamazzava e bestemmiava come un ossesso per metterli d’accordo, giurando e spergiurando che un caso simile non gli era capitato da che era vivo; e cacciava le mani nel mucchio dei lupini e li mostrava a Dio e alla <objectName ref="#Madonna">Madonna</objectName>, chiamandoli a testimoni. Infine, rosso, scalmanato, fuori di sé, fece una proposta disperata, e la piantò in faccia allo <persName ref="#ZioCrocifisso">zio Crocifisso</persName> rimminchionito, e ai <persName ref="#uominiMalavoglia">Malavoglia</persName> coi sacchi in mano: – Là! <rs type="object" ref="#Soldi">pagateli <date when="1865-12-25" ana="#Saldo1Natale">a Natale</date>, invece di pagarli a tanto al mese</rs>, e <objectName ref="#Soldi">ci avrete un risparmio di un tarì a salma</objectName>! La finite ora, santo diavolone? – E cominciò ad insaccare – In nome di Dio, e uno!</p>
+            <p xml:id="MA_000037" n="I.29"><objectName ref="#Provvidenza">La <hi rend ="italic">Provvidenza</hi></objectName> partì <date when="1867-09-21" ana="#PartenzaProvvidenza">il sabato verso sera, e doveva esser suonata l’avemaria</date>, sebbene la campana non si fosse udita, perché <persName ref="#MastroCirino">mastro Cirino il sagrestano</persName> era andato a portare un paio di stivaletti nuovi a <persName ref="#DonSilvestro">don Silvestro il segretario></persName>; in quell’ora le ragazze facevano come uno stormo di passere attorno alla fontana, e <rs ref="#VenerePianeta">la stella della sera</rs> era già bella e lucente, che pareva una lanterna appesa all’antenna della <objectName ref="#Provvidenza"><hi rend ="italic">Provvidenza</hi></objectName>. <persName ref="#MaruzzaMalavoglia">Maruzza</persName> colla <rs type="person" ref="#LiaMalavoglia">bambina</rs> in collo se ne stava sulla riva, senza dir nulla, intanto che <rs type="person" ref="#BastianoMalavoglia">suo marito</rs> sbrogliava la vela, e <objectName ref="#Provvidenza">la <hi rend ="italic">Provvidenza</hi></objectName> si dondolava sulle onde rotte dai <placeName ref="#Fariglioni"><hi rend ="italic">fariglioni</hi></placeName> come un’anitroccola. – <q>«Scirocco chiaro e tramontana scura, mettiti in mare senza paura»</q>, diceva <persName ref="#PadronNtoniMalavoglia">padron ’Ntoni</persName> dalla riva, guardando verso <rs type="place" ref="#Etna">la montagna</rs> tutta nera di nubi.</p>
+            <p xml:id="MA_000038" n="I.30"><persName ref="#MenicoDellaLocca">Menico <persName ref="#LaLocca">della Locca</persName></persName>, il quale era nella <objectName ref="#Provvidenza"><hi rend ="italic">Provvidenza</hi></objectName> con <persName ref="#BastianoMalavoglia">Bastianazzo</persName>, gridava qualche cosa che il mare si mangiò. <ptr type="bibl" target="#N_MA_bibl_ilMareSiMangiò"/><ptr type="philol" target="#N_MA_philol_ilMareSiMangiò"/><ptr type="comm" target="#_N_MA_comm_ilMareSiMangiò"/> – Dice che <objectName ref="#Soldi">i denari</objectName> potete mandarli a <rs ref="#LaLocca">sua madre</rs>, <persName ref="#LaLocca">la Locca</persName>, perché suo fratello è senza lavoro; aggiunse <persName ref="#BastianoMalavoglia">Bastianazzo</persName>, <seg type="explgen" ana="#seg_MA_explgen_cheSiUdì">e questa fu l’ultima sua parola che si udì</seg>.<ptr type="bibl" target="#N_MA_bibl_cheSiUdì"/></p>
+         </div>
+      </body>
+     <back>
+	<listPerson>
+			 
+		<person xml:id="Malavoglia">
+			<persName>i Malavoglia</persName>
+			<note>
+				<p>(o Toscano) La famiglia di pescatori protagonista del libro. Padron 'Ntoni è il patriarca del nucleo 
+					familiare formato da suo figlio Bastiano con la moglie Maruzza e i loro cinque figli: 
+					'Ntoni, Luca, Mena, Alessi e Lia.</p>
+				<ref target="malavoglia_albero genealogico">Albero genealogico dei Malavoglia</ref>
+			</note>
+		</person>
+			 
+		<person xml:id="altriMalavoglia">
+			<persName>i Malavoglia (altro ceppo)</persName>
+			<note>
+				<p>Altro ceppo dei Malavoglia, solamente nominato nel capitolo iniziale</p>
+			</note>
+		</person>
+			 
+		<person xml:id="uominiMalavoglia">
+			<persName>i Malavoglia (solo uomini)</persName>
+			<note>
+				<p>Gli uomini della famiglia, generalmente raccontati nel farsi della giornata di lavoro.</p>
+			</note>
+		</person>
+			 
+		<person xml:id="PadronNtoniMalavoglia">
+			<persName>Padron 'Ntoni</persName>
+			<note>
+				<p>Il patriarca dei Malavoglia. Il nome 'Ntoni (Antonio) lo fa tradizionalmente «nemico del demonio» (cfr. Sichera 2023: 4). Tra gli appunti di Verga: «N. 1801 (Malavoglia). Patriarca, onesto e laborioso, la smania dei proverbi, piccolo, &quot;faccia di pipa&quot;».  Il sintagma «faccia di pipa» designa un «viso stretto, o allungato e incavato, pallido e rattrappito, come certe facce con la barba a punta, scavatissime, che si potevano vedere scolpite in vecchie pipe di terracotta» (Alfieri 1980: 290).</p>
+				<bibl sameAs="#">Giovanni Verga, I Malavoglia, [Ferruccio Cecco], Novara, Interlinea, 2014.</bibl>
+			</note>
+		</person>
+			 
+		<person xml:id="BastianoMalavoglia">
+			<persName>Bastianazzo</persName>
+			<note>
+				<p>Figlio di padron 'Ntoni, marito di Maruzza la Longa e padre di 'Ntoni, Luca, Mena, Alessi e Lia. Il nome mette in luce «la vocazione sacrificale»: è il nome di un martire (Sebastiano) ed è come «San Cristoforo», altro santo martirizzato, che è &quot;portatore di Cristo&quot;, ovvero «colui che porta sulle spalle il peso del mondo» (Sichera 2023: 4) Tra gli appunti di Verga: «N. 1825 (Bastianazzu) suo figlio. Buono, ubbidiente, lavoratore, un colosso, annegasi colla Provvidenza nel 1865, settembre».</p>
+				<bibl sameAs="#">Giovanni Verga, I Malavoglia, [Ferruccio Cecco], Novara, Interlinea, 2014.</bibl>
+			</note>
+		</person>
+			 
+		<person xml:id="MaruzzaMalavoglia">
+			<persName>Maruzza (in) Malavoglia</persName>
+			<note>
+				<p>Moglie di Bastiano Malavoglia, e madre di 'Ntoni, Luca, Mena, Alessi e Lia. Tra gli appunti di Verga: «N. 1829 sua moglie. Buona massaja, vanità e debolezza di madre, piccina, muore di colera agosto 1867».</p>
+				<bibl sameAs="#">Giovanni Verga, I Malavoglia, [Ferruccio Cecco], Novara, Interlinea, 2014.</bibl>
+			</note>
+		</person>
+			 
+		<person xml:id="NtoniMalavoglia">
+			<persName>Ntoni </persName>
+			<note>
+				<p>Primogenito di Bastiano e Maruzza, nipote di Padron 'Ntoni di cui porta il nome, pur rappresentandone «almeno epidermicamente» l'antitesi (Sichera 2023: 4). Tra gli appunti di Verga: «N. 1845. Vano, leggiero, pigro, debole, ghiotto, in fondo buon cuore, vinto dall’ambiente d’egoismo individuale. In leva di mare il 1865. Lo surroga il fratello nel 1866.  Abbandonato dalla Sara e dalla Mangiacarrubbe s’innamora della Zuppidda, ma i parenti di lei lo rifiutano quando la sua casa è espropriata da zio Crocifisso. Si avvilisce, non lavora più, per migliorare la sua condizione parte per Trieste (1868 Gennajo), torna povero, con dei vizi, prende l’abitudine dell’osteria (1870 Novembre) diventa giuocatore, ubbriacone, ganzo della ostessa, si abbaruffa con il brigadiere, sedotto da Piedipapera e Spato prende parte con loro e Pizzuto ad un contrabbando in cui è ferito Don Michele (1877). È condannato alla galera, – Marzo 1878».</p>
+				<bibl sameAs="#">Giovanni Verga, I Malavoglia, [Ferruccio Cecco], Novara, Interlinea, 2014.</bibl>
+			</note>
+		</person>
+			 
+		<person xml:id="LucaMalavoglia">
+			<persName>Luca Malavoglia</persName>
+			<note>
+				<p>Il secondo figlio di Bastiano e Maruzza, nipote di Padron 'Ntoni.  Tra gli appunti di Verga: «N. 1846 il ritratto del padre, in Dicembre 1865 surroga il fratello all’armata. È ucciso a Lissa il 1866».</p>
+				<bibl sameAs="#">Giovanni Verga, I Malavoglia, [Ferruccio Cecco], Novara, Interlinea, 2014.</bibl>
+			</note>
+		</person>
+			 
+		<person xml:id="MenaMalavoglia">
+			<persName>Mena Malavoglia</persName>
+			<note>
+				<p>Figlia di Bastiano e Maruzza, nipote di Padron 'Ntoni. Tra gli appunti di Verga: «N. 1848 (Sant’Agata). Zoppetta, buona, laboriosa, il ritratto della madre, ubbidisce e si rassegna facilmente».</p>
+				<bibl sameAs="#">Giovanni Verga, I Malavoglia, [Ferruccio Cecco], Novara, Interlinea, 2014.</bibl>
+			</note>
+		</person>
+			 
+		<person xml:id="AlessiMalavoglia">
+			<persName>Alessi Malavoglia</persName>
+			<note>
+				<p>Quarto figlio di Bastiano e Maruzza, nipote di Padron 'Ntoni, di cui è «ritratto».  A Sant'Alessio è legata l'agiografia della casa (Sichera 2023: 4). Tra gli appunti di Verga: «N. 1852. Il ritratto del nonno, lavora come un cane, da ragazzo promette alla Nunziata di sposarla, quando arriva a fare un po’ di quattrini la sposa infatti perchè è buona e laboriosa, e prosperano dopo il suo ritorno dalla leva, 1877».</p>
+				<bibl sameAs="#">Giovanni Verga, I Malavoglia, [Ferruccio Cecco], Novara, Interlinea, 2014.</bibl>
+			</note>
+		</person>
+			 
+		<person xml:id="LiaMalavoglia">
+			<persName>Lia Malavoglia</persName>
+			<note>
+				<p>Seconda figlia (quinta in ordine di nascita) di Bastiano e Maruzza, nipote di Padron 'Ntoni. Rosalia «rappresenta almeno simbolicamente l'alternativa palermitana alla Sant'Agata catanese» (Sichera 2023: 4). Tra gli appunti di Verga: «N. 1864. Vanerella, guastata dalla madre, dalla sorella, indolente, si avvilisce pel cattivo esempio del fratello e si lascia sedurre da Don Michele 1878».</p>
+				<bibl sameAs="#">Giovanni Verga, I Malavoglia, [Ferruccio Cecco], Novara, Interlinea, 2014.</bibl>
+			</note>
+		</person>
+			 
+		<person xml:id="ZioCola">
+			<persName>Zio Cola</persName>
+			<note>
+				<p>Proprietario della Concetta</p>
+			</note>
+		</person>
+			 
+		<person xml:id="FrancescoIIdiBorbone">
+			<persName>Francesco II di Borbone</persName>
+			<note>
+				<p>Napoli 1836 - Arco 1894. Figlio di Ferdinando II, è l'ultimo re di Napoli. Uomo mite, timido e dubbioso, a ventitré anni sposò Maria Sofia di Baviera e il 22 maggio 1859 salì al trono. Continuò le direttive del padre Ferdinando II nella politica interna ed estera, mantenendo la neutralità durante la guerra del 1859; ma, conquistata da Garibaldi la Sicilia, cercò di salvare il trono con una costituzione e l'alleanza al Piemonte (giugno-luglio 1860). Fallito l'estremo rimedio, abbandonò la capitale di fronte all'avanzata di Garibaldi e si rinchiuse a Gaeta, che difese per tre mesi; si rifugiò poi a Roma (febbr. 1861), donde i suoi fedeli alimentarono per alcuni anni il brigantaggio nel regno. Costretto ad abbandonare anche Roma nel 1870, si stabilì a Parigi.</p>
+				<bibl sameAs="#">Treccani</bibl>
+				<figure>
+					<head>Francesco II di Borbone (1836-1894)</head>
+					<graphic url="http://it.wikipedia.org/wiki/Francesco_II_delle_Due_Sicilie#/media/File:Francis_II,_King_of_the_Two_Sicilies_(1).jpg"/>
+				</figure>
+			</note>
+		</person>
+			 
+		<person xml:id="DonSilvestro">
+			<persName>Don Silvestro il segretario</persName>
+			<note>
+				<p>Tra gli appunti di Verga: «Segretario comunale di Acicastello e Acitrezza, da Acicatena, astuto, intrigante, factotum, bellimbusto del villaggio (Mena pel naso il sindaco in odio ai Zuppiddi che gli hanno negata la figlia fa proporre a Callà il dazio sulla pece, ma sottomano. Poi quando il sindaco sobillato dalla figliuola si ribella, ed anche perchè […]i i malcontenti, propone un contro partito al Callà; Piedipapera, massaro Filippo, Padron ’Ntoni, e zio Crocifisso). Fa il religioso, l’opposizione per ingraziarsi gli sciocchi e fa timore allo zio Santoro per avere la spia. Accortosi per mezzo dello zio Santoro che la Zuppidda amoreggia con ’Ntoni, per levarsi costui dai piedi, macchina di proporre a Don Michele la Zuppidda, ma per averla bisogna far rompere i progetti dei Zuppiddi su ’Ntoni, finge di vendere il suo credito a Piedipapera, e perciò rovina i Malavoglia, e siccome sa che Piedipapera è il creditore, consiglia a Don Michele di minacciare Piedipapera da un canto su certi suoi andamenti loschi di contrabbando, e dall’altro di farsi togliere dinanzi l’ostacolo di ’Ntoni. Poi riescito questo fa sapere all’ostessa per mezzo di Cinghialenta che Don Michele pretende la Zuppidda, e briga promettendo di far riescire sindaco il Cipolla, perchè ei induca i Zuppiddi a dargli la figliuola».</p>
+				<bibl sameAs="#">Giovanni Verga, I Malavoglia, [Ferruccio Cecco], Novara, Interlinea, 2014.</bibl>
+			</note>
+		</person>
+			 
+		<person xml:id="DonFranco">
+			<persName>Don Franco lo speziale</persName>
+			<note>
+				<p>Tra gli appunti di Verga: «Speziale, politicante repubblicano e robespierriano, fa il Cincinnato e il Garibaldi. Piccino, barbuto e zazzeruto».</p>
+				<bibl sameAs="#">Giovanni Verga, I Malavoglia, [Ferruccio Cecco], Novara, Interlinea, 2014.</bibl>
+			</note>
+		</person>
+			 
+		<person xml:id="MoglieDonFranco">
+			<persName>Moglie di don Franco</persName>
+			<note>
+				<p>Tra gli appunti di Verga: «sua moglie, lo dispotizza»</p>
+				<bibl sameAs="#">Giovanni Verga, I Malavoglia, [Ferruccio Cecco], Novara, Interlinea, 2014.</bibl>
+			</note>
+		</person>
+			 
+		<person xml:id="DonGiammaria">
+			<persName>Don Giammaria il vicario</persName>
+			<note>
+				<p>Tra gli appunti di Verga: «(Ecceomo). Curato, fanatico, ignorante, sospettoso ex carmelitano, macilento, organizzatore delle Figlie di Maria».</p>
+				<bibl sameAs="#">Giovanni Verga, I Malavoglia, [Ferruccio Cecco], Novara, Interlinea, 2014.</bibl>
+			</note>
+		</person>
+			 
+		<person xml:id="DonnaRosolina">
+			<persName>Donna Rosolina</persName>
+			<note>
+				<p>Tra gli appunti di Verga: «sua sorella, un donnone, zitellona arrabbiata, curiosa, pettegola. Pretende Don Silvestro e fa l’oppositrice per accertarsi che Don Silvestro mira alla Zuppidda, prima insospettita dalle indiscrezioni del fratello poi va ad informarsi da zio Santoro facendo l’elemosina, dai Zuppiddi, in chiesa dai Malavoglia e dalla Nunziata, va a sparlare di lui dalla Zuppidda e rivolgesi a Don Michele e perciò credesi obbligata a diventare governativa».</p>
+				<bibl sameAs="#">Giovanni Verga, I Malavoglia, [Ferruccio Cecco], Novara, Interlinea, 2014.</bibl>
+			</note>
+		</person>
+			 
+		<person xml:id="PadronCroceGiufà">
+			<persName>Padron Croce Giufà</persName>
+			<note>
+				<p>Tra gli appunti di Verga: «(Baco da seta). Sindaco di Aci Castello e Aci Trezza, sciocco, lungo allampanato, non sa mai quel che si dica. Don Silvestro lo induce – in odio poi a Zuppiddu che gli ha negato la figliuola – a proporre un dazio sulla pece, dicendogli che Zuppiddu ha detto che il sindaco era vera Ombra di Gufo. Al consiglio di marinajo risponde sissignori son marinajo anch’io, e questo vi provi che son disinteressato. Poi istruito dalla figlia la rompe con Don Silvestro, ma si rappacia al timore di un partito contrario e nel momento che Don Silvestro lo lascia nell’imbarazzo di dover rispondere innanzi al consiglio, la famosa risposta».</p>
+				<bibl sameAs="#">Giovanni Verga, I Malavoglia, [Ferruccio Cecco], Novara, Interlinea, 2014.</bibl>
+			</note>
+		</person>
+			 
+		<person xml:id="Betta">
+			<persName>Betta (figlia di Padron Croce Giufà)</persName>
+			<note>
+				<p>Tra gli appunti di Verga: «Sua figliuola, la vera sindachessa, altra forma dell’egoismo filiale, sempre in discordia con Don Silvestro, apre gli occhi al padre che il vero danneggiato dal dazio è lui, marinajo, perchè Don Silvestro non ha messo il dazio sul mosto, lui che ha vigne? Va a domandare ai Zuppiddi se è vero che hanno detto che suo padre è Ombra di Gufo, e saputo da costoro il rifiuto fatto della figliuola a Don Silvestro ne empie il paese».</p>
+				<bibl sameAs="#">Giovanni Verga, I Malavoglia, [Ferruccio Cecco], Novara, Interlinea, 2014.</bibl>
+			</note>
+		</person>
+			 
+		<person xml:id="ZioCrocifisso">
+			<persName>Zio Crocifisso</persName>
+			<note>
+				<p>Tra gli appunti di Verga: «(Leccapiatti) ex murifabro, padrone di barche, usurajo, lavoratore, egoista. Quando gli propone la sindacatura Don Silvestro risponde: «e i miei affari chi me li fa? il sindaco?» Fa il minchione si atteggia a vittima, da a credenza i lupini ai Malavoglia, poi finge di far loro avere il denaro da Piedipapera contro ipoteca, poi saputo da Piedipapera che se Mena si marita, Alfio Mosca sposa la Vespa sua nipote, e gli scappa la chiusa che ha vagheggiato, intanto li espropria e rovina i Malavoglia, per lasciare a Mosca la prospettiva di Mena».</p>
+				<bibl sameAs="#">Giovanni Verga, I Malavoglia, [Ferruccio Cecco], Novara, Interlinea, 2014.</bibl>
+			</note>
+		</person>
+			 
+		<person xml:id="SantaLaVespa">
+			<persName>Santa la Vespa</persName>
+			<note>
+				<p>Tra gli appunti di Verga: «sua nipote, una magra e bruna, tenta di farsi sposare dallo zio, che finge di dargli retta per carpirle la vendita a buon mercato della chiusa. È attaccata alla chiusa come la sua ancora del matrimonio. Lo zio quando si accorge di non poter ottenere la chiusa finge di ingelosirsi di Alfio Mosca per tirarsi indietro dalle sue mezze parole. Ella capisce e cerca di sedurre davvero Mosca. Poi sposa Don Silvestro, perchè Mosca se n’è andato ad Augusta».</p>
+				<bibl sameAs="#">Giovanni Verga, I Malavoglia, [Ferruccio Cecco], Novara, Interlinea, 2014.</bibl>
+			</note>
+		</person>
+			 
+		<person xml:id="CuginaAnna">
+			<persName>Cugina Anna</persName>
+			<note>
+				<p>Tra gli appunti di Verga: «cugina di zio Crocifisso, lavandaja, carica di figliuoli, lavoratrice, coraggiosa ed allegra».</p>
+				<bibl sameAs="#">Giovanni Verga, I Malavoglia, [Ferruccio Cecco], Novara, Interlinea, 2014.</bibl>
+			</note>
+		</person>
+			 
+		<person xml:id="RoccoSpatu">
+			<persName>Rocco Spatu</persName>
+			<note>
+				<p>Tra gli appunti di Verga: «suo figlio, fannullone, fa la corte all’eredità dello zio Crocifisso, fidanzato della Mangiacarrubbe, poi va a finire contrabbandiere».</p>
+				<bibl sameAs="#">Giovanni Verga, I Malavoglia, [Ferruccio Cecco], Novara, Interlinea, 2014.</bibl>
+			</note>
+		</person>
+			 
+		<person xml:id="CarmelaSpatu">
+			<persName>Carmela (sorella di Rocco Spatu)</persName>
+			<note>
+				<p> Tra gli appunti di Verga solamente: «sua sorella».</p>
+				<bibl sameAs="#">Giovanni Verga, I Malavoglia, [Ferruccio Cecco], Novara, Interlinea, 2014.</bibl>
+			</note>
+		</person>
+			 
+		<person xml:id="LaLocca">
+			<persName>La Locca</persName>
+			<note>
+				<p>Tra gli appunti di Verga: «sorella di zio Crocifisso, idiota, mendica».  Tra le carte e negli appunti dell'autore, ma non in T è detta «Menica».</p>
+				<bibl sameAs="#">Giovanni Verga, I Malavoglia, [Ferruccio Cecco], Novara, Interlinea, 2014.</bibl>
+			</note>
+		</person>
+			 
+		<person xml:id="MenicoDellaLocca">
+			<persName>Menico (il figlio della Locca)</persName>
+			<note>
+				<p>Tra gli appunti di Verga: «carne da lavoro, lo schiavo dello zio Crocifisso, sciocco».</p>
+				<bibl sameAs="#">Giovanni Verga, I Malavoglia, [Ferruccio Cecco], Novara, Interlinea, 2014.</bibl>
+			</note>
+		</person>
+			 
+		<person xml:id="PadronCipolla">
+			<persName>Padron Cipolla</persName>
+			<note>
+				<p>Tra gli appunti di Verga: «Fortunato, il &quot;saputo&quot; del villaggio, vanitoso di farsi credere ricco, dice spropositi per parlare pulito, rifiuta d’esser sindaco per vanità da contadino».</p>
+				<bibl sameAs="#">Giovanni Verga, I Malavoglia, [Ferruccio Cecco], Novara, Interlinea, 2014.</bibl>
+			</note>
+		</person>
+			 
+		<person xml:id="BrasiCipolla">
+			<persName>Brasi Cipolla</persName>
+			<note>
+				<p>Tra gli appunti di Verga: «suo figlio, uno sciocco che fa la scimmia al padre e lo fa disperare, prendendo sul serio le ricchezze di lui, sposa la Zuppidda costretto dal padre perchè la Vespa sta per sedurlo e padron Crocifisso va spargendo che sulla chiusa della Vespa ha diritti e litigherà».</p>
+				<bibl sameAs="#">Giovanni Verga, I Malavoglia, [Ferruccio Cecco], Novara, Interlinea, 2014.</bibl>
+			</note>
+		</person>
+			 
+		<person xml:id="MariangelaLaSantuzza">
+			<persName>Suor' Mariangela la Santuzza</persName>
+			<note>
+				<p>Tra gli appunti di Verga: «Ostessa. Figlia di Maria, bacchettona, saputo che il suo ganzo Don Michele vuol sposare la Zuppidda va da Don Giammaria e per scrupolo di coscienza fa dire ai Zuppiddi che Don Michele non può maritarsi. Egoismo filiale».</p>
+				<bibl sameAs="#">Giovanni Verga, I Malavoglia, [Ferruccio Cecco], Novara, Interlinea, 2014.</bibl>
+			</note>
+		</person>
+			 
+		<person xml:id="ZioSantoro">
+			<persName>Zio Santoro</persName>
+			<note>
+				<p>Tra gli appunti di Verga: «suo padre, attratto dai reumatismi, mendicante, lo spione del villaggio»,</p>
+				<bibl sameAs="#">Giovanni Verga, I Malavoglia, [Ferruccio Cecco], Novara, Interlinea, 2014.</bibl>
+			</note>
+		</person>
+			 
+		<person xml:id="MassaroFilippo">
+			<persName>Massaro Filippo</persName>
+			<note>
+				<p>Tra gli appunti di Verga: «vignaiuolo, creduto amante dell’ostessa, non accetta la candidatura di sindaco che quando gli fa balenare Don Silvestro di poter togliere il dazio di consumo sul mosto».</p>
+				<bibl sameAs="#">Giovanni Verga, I Malavoglia, [Ferruccio Cecco], Novara, Interlinea, 2014.</bibl>
+			</note>
+		</person>
+			 
+		<person xml:id="DonMichele">
+			<persName>Don Michele il brigadiere</persName>
+			<note>
+				<p>Tra gli appunti di Verga: «Brigadiere delle guardie di finanza, Don Giovanni di villaggio, ganzo dell’ostessa; messo su da Don Silvestro aspira anch’esso alla Zuppidda e induce Piedipapera a togliergli dai piedi ’Ntoni, colla minaccia di aprire gli occhi su certi suoi andamenti loschi di aiutante contrabbandiere. Rifiutato nondimeno per le mene dell’ostessa, promette delle legnate a Don Silvestro, e tenta sedurre la Zuppidda passeggiando per la viuzza, là però seduce la Mena (1869) s’abbaruffa con ’Ntoni all’osteria, 1869 Gennajo. È ferito nel tentativo di contrabbando, Febbrajo 1869. Per amore della Mena e per braveria, tenta discolpare ’Ntoni alle Assise. Seduce Mena e la porta a Catania 1860 (errore non corretto, fa notare Cecco)».</p>
+				<bibl sameAs="#">Giovanni Verga, I Malavoglia, [Ferruccio Cecco], Novara, Interlinea, 2014.</bibl>
+			</note>
+		</person>
+			 
+		<person xml:id="AgostinoPiedipapera">
+			<persName>Agostino Piedipapera</persName>
+			<note>
+				<p>Tra gli appunti di Verga: «Sensale, intrigante, arruffapopolo, maldicente, con aria da burlone, sciancato, fannullone, testa di legno di zio Crocifisso; si presta a fingere di sborsare i denari ai Malavoglia; è in guerra coi Zuppiddi perchè ha detto che la Zuppidda è ruffiana, e suo marito cornuto – la Zuppidda gli fa rispondere che il ruffiano lo fa lui e sua moglie ricevendo in casa la Vespa che ci viene per trovar Alfio Mosca, si abbaruffa con ’Ntoni che lo insulta per difendere i Zuppiddi; poi per le insinuazioni di Don Michele, per rompere il matrimonio di ’Ntoni con la Zuppidda, va a far sentir a zio Crocifisso che se Mena si marita, Mosca sposa la Vespa e la chiusa gli scappa. È involto nel processo dei contrabbandieri, ma se la scappa, furbo com’è, con un alibi».</p>
+				<bibl sameAs="#">Giovanni Verga, I Malavoglia, [Ferruccio Cecco], Novara, Interlinea, 2014.</bibl>
+			</note>
+		</person>
+			 
+		<person xml:id="GraziaPiedipapera">
+			<persName>Grazia Piedipapera</persName>
+			<note>
+				<p>Tra gli appunti di Verga: «sua moglie, buona donna, laboriosa, mantiene il fannullone marito, cerca sempre di metter pace».</p>
+				<bibl sameAs="#">Giovanni Verga, I Malavoglia, [Ferruccio Cecco], Novara, Interlinea, 2014.</bibl>
+			</note>
+		</person>
+			 
+		<person xml:id="MastroTuriZuppiddu">
+			<persName>Mastro Turi Zuppiddu</persName>
+			<note>
+				<p>Tra gli appunti di Verga: «Calafato, spaccamonti, un colosso, menato pel naso dalla moglie. Promette legnate a Piedipapera, a Don Michele, che amoreggia con la sua figliuola. Ma sempre s’incanaglisce».</p>
+				<bibl sameAs="#">Giovanni Verga, I Malavoglia, [Ferruccio Cecco], Novara, Interlinea, 2014.</bibl>
+			</note>
+		</person>
+			 
+		<person xml:id="VeneraZuppidda">
+			<persName>Venera Zuppidda</persName>
+			<note>
+				<p>Tra gli appunti di Verga: «sua moglie rissosa, accattabrighe, maligna e curiosa, piccola e invidiosa. Odia la Mangiacarrubbe, perchè i suoi bachi sono venuti meglio dei suoi, la Piedipapera perchè credendola sua creditrice i Malavoglia l’hanno invitata a pettinare la sposa, e lei invece avrebbe preteso questo riguardo come madre della amorosa di ’Ntoni. Fa credere che sua figlia sia scaltra e ricca, alle nozze di Mena non vuole andare, poi ci va per dire che la Piedipapera non è che prestanome di Padron Crocifisso, e dare la notizia della morte di Alessi, che ha saputo dalla Mangiacarrubbe la quale l’ha saputo da Cinghialenta – Rovinati i Malavoglia mette fuori ’Ntoni, istruita dall’ostessa e da Donna Rosolina, mette fuori Don Michele e Don Silvestro. Scaccia Don Michele più insistente col manico della scopa, e riesce ad accalappiare Padron Fortunato Cipolla perchè faccia sposare a suo figlio Luca la Zuppidda figlia che non ha niente».</p>
+				<bibl sameAs="#">Giovanni Verga, I Malavoglia, [Ferruccio Cecco], Novara, Interlinea, 2014.</bibl>
+			</note>
+		</person>
+			 
+		<person xml:id="BarbaraZuppidda">
+			<persName>Barbara Zuppidda</persName>
+			<note>
+				<p>Tra gli appunti di Verga: «loro figlia, sciocca e vanerella, fa l’amore con ’Ntoni, con Don Silvestro e con Don Michele, prende quel che gli danno, sposa Luca Cipolla».</p>
+				<bibl sameAs="#">Giovanni Verga, I Malavoglia, [Ferruccio Cecco], Novara, Interlinea, 2014.</bibl>
+			</note>
+		</person>
+			 
+		<person xml:id="AlfioMosca">
+			<persName>Alfio Mosca</persName>
+			<note>
+				<p>Tra gli appunti di Verga: «orfano, buon giovane, bracciante, ha un asinello con cui lavora a trasportare derrate e si dà il pane, rifiuta la Vespa per Mena, maritatasi costei parte per Augusta».</p>
+				<bibl sameAs="#">Giovanni Verga, I Malavoglia, [Ferruccio Cecco], Novara, Interlinea, 2014.</bibl>
+			</note>
+		</person>
+			 
+		<person xml:id="CompareMangiacarrubbe">
+			<persName>Compare Mangiacarrubbe</persName>
+			<note>
+				<p>Nominato ma non descritto tra gli appunti dell'autore.</p>
+				<bibl sameAs="#">Giovanni Verga, I Malavoglia, [Ferruccio Cecco], Novara, Interlinea, 2014.</bibl>
+			</note>
+		</person>
+			 
+		<person xml:id="ComareMangiacarrubbe">
+			<persName>Comare Mangiacarrubbe</persName>
+			<note>
+				<p>Nominata ma non descritta tra gli appunti dell'autore.</p>
+				<bibl sameAs="#">Giovanni Verga, I Malavoglia, [Ferruccio Cecco], Novara, Interlinea, 2014.</bibl>
+			</note>
+		</person>
+			 
+		<person xml:id="LaMangiacarrubbe">
+			<persName>la Mangiacarrubbe (figlia)</persName>
+			<note>
+				<p>Tra gli appunti di Verga: «Figlia di compare e comare Mangiacarrubbe.  Il «nomignolo» allude alla condizione di svantaggio economico della famiglia: le carrube sono anche usate come mangime per gli animali».</p>
+				<bibl sameAs="#">Giovanni Verga, I Malavoglia, [Ferruccio Cecco], Torino, Einaudi, 2014.</bibl>
+			</note>
+		</person>
+			 
+		<person xml:id="Nunziata">
+			<persName>Nunziata</persName>
+			<note>
+				<p>Tra gli appunti di Verga: «Orfanella, di madre, il padre lavorante allo stradone l’ha abbandonata un bel giorno coi suoi 2 fratelli e una sorellina, senza lasciarle un tozzo di pane, 13 anni, una donnina che lavora e tira su i suoi, sposa Brasi Malavoglia».</p>
+				<bibl sameAs="#">Giovanni Verga, I Malavoglia, [Ferruccio Cecco], Novara, Interlinea, 2014.</bibl>
+			</note>
+		</person>
+			 
+		<person xml:id="DonCiccio">
+			<persName>Don Ciccio (medico)</persName>
+			<note>
+				<p>Tra gli appunti di Verga: «Medico girovago»,</p>
+				<bibl sameAs="#">Giovanni Verga, I Malavoglia, [Ferruccio Cecco], Novara, Interlinea, 2014.</bibl>
+			</note>
+		</person>
+			 
+		<person xml:id="MarianoCinghialenta ">
+			<persName>Mariano Cinghialenta </persName>
+			<note>
+				<p>Tra gli appunti di Verga: «carrettiere, ex vagheggino della Mangiacarrubbe, sempre ubbriaco, dormente bocconi sul suo carro».</p>
+				<bibl sameAs="#">Giovanni Verga, I Malavoglia, [Ferruccio Cecco], Novara, Interlinea, 2014.</bibl>
+			</note>
+		</person>
+			 
+		<person xml:id="ComareCinghialenta">
+			<persName>Comare Cinghialenta</persName>
+			<note>
+				<p>Tra gli appunti di Verga: «sua moglie linguacciuta e bestemmiatrice, un cerbero».</p>
+				<bibl sameAs="#">Giovanni Verga, I Malavoglia, [Ferruccio Cecco], Novara, Interlinea, 2014.</bibl>
+			</note>
+		</person>
+			 
+		<person xml:id="PeppiNaso">
+			<persName>Peppi Naso il macellaio</persName>
+			<note>
+				<p>Tra gli appunti di Verga: «Peppe Naso beccajo, grassone, il &quot;buon partito&quot; del villaggio».</p>
+				<bibl sameAs="#">Giovanni Verga, I Malavoglia, [Ferruccio Cecco], Novara, Interlinea, 2014.</bibl>
+			</note>
+		</person>
+			 
+		<person xml:id="VanniPizzuto">
+			<persName>Vanni Pizzuto</persName>
+			<note>
+				<p>Tra gli appunti di Verga: «calzolajo, barbiere poi bettoliere, poi soprastante della manutenzione dello stradone, bellimbusto ex vagheggino della Mangiacarrubbe».</p>
+				<bibl sameAs="#">Giovanni Verga, I Malavoglia, [Ferruccio Cecco], Novara, Interlinea, 2014.</bibl>
+			</note>
+		</person>
+			 
+		<person xml:id="Sara">
+			<persName>Sara (di comare Tudda)</persName>
+			<note>
+				<p>Figlia di comare Tudda. È il primo flirt (platonico) di 'Ntoni Malavoglia, prima di lasciare il paese per la leva.</p>
+			</note>
+		</person>
+			 
+		<person xml:id="ComareTudda">
+			<persName>Comare Tudda</persName>
+			<note>
+				<p>Tudda è diminutivo di Agata. Il personaggio nel romanzo è essenzialmente complemento di specificazione della figlia Sara.</p>
+			</note>
+		</person>
+			 
+		<person xml:id="MastroCirino">
+			<persName>Mastro Cirino</persName>
+			<note>
+				<p>Il sagrestano.</p>
+			</note>
+		</person>
+			 
+		<person xml:id="Borbone">
+			<persName>I Borboni</persName>
+			<note>
+				<p>Famiglia reale di origine francese (fr. Bourbon), che regnò in parecchi stati dell'Europa occidentale e meridionale (Francia, Spagna, Napoli, Parma e Lucca) e fu, con gli Asburgo, la più potente famiglia principesca dell'Europa</p>
+				<bibl sameAs="https://www.treccani.it/enciclopedia/borbone/">Borbone</bibl>
+				<figure>
+					<head>Stemma della casa regnante Borbone-Due Sicilie del Regno delle Due Sicilie, introdotto con decreto del 21 dicembre 1816.</head>
+					<graphic url="https://upload.wikimedia.org/wikipedia/commons/c/ce/Great_Royal_Coat_of_Arms_of_the_Two_Sicilies.svg"/>
+				</figure>
+			</note>
+		</person>
+	</listPerson>
+	<listPlace>
+			 
+		<place xml:id="CasaDelNespolo">
+			<placeName>casa del nespolo</placeName>
+			<location>
+				<geo/>
+			</location>
+			<note>
+				<p>Abitazione, ma più precisamente heimat dei Malavoglia; a volte personificata, con riferimento all'intero gruppo familiare (eg: «la casa del nespolo prosperava»).</p>
+				<ref target="#">OpenStreetMap</ref>
+			</note>
+		</place>
+			 
+		<place xml:id="AciTrezza">
+			<placeName>Aci Trezza</placeName>
+			<location>
+				<geo>37°33′41.57″N 15°09′26.97″E</geo>
+			</location>
+			<note>
+				<p>Frazione di Aci Castello, comune della città metropolitana di Catania (Sicilia, Italia).</p>
+				<ref target="https://www.openstreetmap.org/?mlat=37.561546&amp;mlon=15.157492&amp;zoom=10#map=10/37.5615/15.1575">OpenStreetMap</ref>
+			</note>
+		</place>
+			 
+		<place xml:id="AciCastello">
+			<placeName>Aci Castello</placeName>
+			<location>
+				<geo>37°33′N 15°09′E</geo>
+			</location>
+			<note>
+				<p>Già Castel d’Aci, è un comune della città metropolitana di Catania (Sicilia, Italia).</p>
+				<ref target="https://www.openstreetmap.org/?mlat=37.55&amp;mlon=15.15&amp;zoom=9#map=9/37.5500/15.1500">OpenStreetMap</ref>
+			</note>
+		</place>
+			 
+		<place xml:id="Pescheria">
+			<placeName>Pescheria</placeName>
+			<location>
+				<geo/>
+			</location>
+			<note>
+				<p>L'antico mercato del pesce della città di Catania</p>
+				<ref target="#">OpenStreetMap</ref>
+			</note>
+		</place>
+			 
+		<place xml:id="OsteriaDellaSantuzza">
+			<placeName>Osteria della Santuzza</placeName>
+			<location>
+				<geo/>
+			</location>
+			<note>
+				<p>Osteria</p>
+				<ref target="#">OpenStreetMap</ref>
+			</note>
+		</place>
+			 
+		<place xml:id="Riposto">
+			<placeName>Riposto</placeName>
+			<location>
+				<geo>37°43′54.59″N 15°12′20.74″E</geo>
+			</location>
+			<note>
+				<p>Comune della città metropolitana di Catania</p>
+				<ref target="https://www.openstreetmap.org/?mlat=37.731831&amp;mlon=15.205761&amp;zoom=9#map=9/37.7318/15.2058">OpenStreetMap</ref>
+			</note>
+		</place>
+			 
+		<place xml:id="Etna">
+			<placeName>Etna</placeName>
+			<location>
+				<geo>37°45′03.01″N 14°59′35.59″E</geo>
+			</location>
+			<note>
+				<p>(Mongibello, o la Montagna per antonomasia, come nei Malavoglia). È il più alto vulcano attivo della placca eurasiatica; dal 2013 fa parte del patrimonio mondiale dell'umanità dell'UNESCO.</p>
+				<ref target="https://www.openstreetmap.org/?mlat=37.750835&amp;mlon=14.99322&amp;zoom=12#map=12/37.7508/14.9932">OpenStreetMap</ref>
+			</note>
+		</place>
+			 
+		<place xml:id="Trieste">
+			<placeName>Trieste</placeName>
+			<location>
+				<geo>45°39′01″N 13°46′13″E</geo>
+			</location>
+			<note>
+				<p>Capoluogo del Friuli-Venezia Giulia (regione a statuto speciale); affacciato sul golfo omonimo nella parte più settentrionale dell' Adriatico, fra la penisola italiana e l'Istria, a pochi chilometri dal confine con la Slovenia.</p>
+				<ref target="https://www.openstreetmap.org/?mlat=45.650278&amp;mlon=13.770278&amp;zoom=9#map=9/45.6503/13.7703">OpenStreetMap</ref>
+			</note>
+		</place>
+			 
+		<place xml:id="Ognina">
+			<placeName>Ognina</placeName>
+			<location>
+				<geo>37°52'90.51&quot;N 15°11'32.18&quot;E</geo>
+			</location>
+			<note>
+				<p>È un quartiere della zona nordorientale della città di Catania, la cui storia è legata al mito di Ulisse. Si affaccia sul mare, presso cui si trova il Santuario di Santa Maria di Ognina.</p>
+				<ref target="https://www.openstreetmap.org/node/1356739203">OpenStreetMap</ref>
+			</note>
+		</place>
+			 
+		<place xml:id="ChiesaDellOgnina">
+			<placeName/>
+			<location>
+				<geo/>
+			</location>
+			<note>
+				<p> Il Santuario di Santa Maria di Ognina</p>
+				<ref target="#">OpenStreetMap</ref>
+			</note>
+		</place>
+			 
+		<place xml:id="Fariglioni">
+			<placeName>Isole Ciclopi, Faraglioni di Aci Trezza</placeName>
+			<location>
+				<geo>37°33′37″N 15°09′56″E</geo>
+			</location>
+			<note>
+				<p>Oggi area marina protetta delle Isole Ciclopi, davanti alla costa di Aci Trezza. È un piccolissimo arcipelago di origine vulcanica, legato, come ricorda il nome, alla leggenda di Ulisse quanto a quella di Enea.</p>
+				<ref target="https://www.openstreetmap.org/?mlat=37.560278&amp;mlon=15.165556&amp;zoom=12#map=12/37.5603/15.1656">OpenStreetMap</ref>
+			</note>
+		</place>
+	</listPlace>
+	<listOrg>
+			 
+		<org xml:id="Repubblica">
+			<orgName>la Repubblica (idea o concetto)</orgName>
+			<note>
+				<p>Nel romanzo è, a seconda di chi parla, utopia o distopia. Si concretizzerà, com'è noto, il 2 giugno del 1946.</p>
+			</note>
+		</org>
+	</listOrg>
+	<listObject type="patrimonio_culturale">
+			 
+		<object xml:id="Peppinino">
+			<objectIdentifier>
+				<objectName>Peppinino</objectName>
+			</objectIdentifier>
+			<note>
+				<p>Maschera comica siciliana del teatro dei Pupi; originariamente 'Peppi-e-Ninu', da cui il nome (Cecco 2014: 24 cita Alfieri 1980: 22-25)</p>
+			</note>
+		</object>
+			 
+		<object xml:id="Provvidenza">
+			<objectIdentifier>
+				<objectName>Provvidenza (barca)</objectName>
+			</objectIdentifier>
+			<note>
+				<p>La barca dei «Malavoglia di Padron 'Ntoni»</p>
+			</note>
+		</object>
+			 
+		<object xml:id="Concetta">
+			<objectIdentifier>
+				<objectName>Concetta (barca)</objectName>
+			</objectIdentifier>
+			<note>
+				<p>La barca dello zio Cola. Il nome sostituisce un precedente Carmela e ha memoria di una Immacolata che doveva essere la seconda barca dei Malavoglia (Verga 2014: 15).</p>
+			</note>
+		</object>
+			 
+		<object xml:id="VenerePianeta">
+			<objectIdentifier>
+				<objectName>Venere (pianeta)</objectName>
+			</objectIdentifier>
+			<note>
+				<p>Il pianeta, altrimenti detto Lucifero o Vespero, stella del mattino o stella della sera, perché può vedersi nel cielo del crepuscolo</p>
+			</note>
+		</object>
+			 
+		<object xml:id="soldi">
+			<objectIdentifier>
+				<objectName>soldi</objectName>
+			</objectIdentifier>
+			<note>
+				<p>Le transazioni.</p>
+			</note>
+		</object>
+	</listObject>
+	<listEvent>
+			 
+		<event xml:id="MenaMalavoglia17" from="1848" to="1865">
+			<eventName>Mena entra nei 17 anni</eventName>
+			<note>
+				<p>Considerando gli appunti dell'autore sul personaggio (Verga 2014: 353), l'ingresso nei diciassette anni di #MenaMalavoglia (dunque, non il compleanno) può essere considerato un riferimento temporale piuttosto preciso. Si tratta inoltre di un'età che segna anche simbolicamente il passaggio dalla fanciullezza alla desiderabilità sessuale («cominciava a far voltare i giovanotti quando andava a messa»).</p>
+			</note>
+		</event>
+			 
+		<event xml:id="FestaMadonnaDellOgnina" from="1867-09-08" to="1868">
+			<eventName/>
+			<note>
+				<p>Sulla scorta degli appunti di Verga (Verga 2014: 347; commentato in Cecco 2014: 24)  la domenica della festa dell'Ognina viene individuata all'8 settembre; la partenza della Provvidenza al 21 settembre. Secondo i calendari storici, a far data dalla partenza di 'Ntoni (dicembre 1863), il primo anno in cui a una domenica 8 settembre segua un sabato 21 settembre sarebbe il 1867. Si può notare così il senso eminentemente simbolico dell'attribuzione di queste date. Seguendo la logica dell'intreccio, si consideri invece plausibile l'anno 1865.</p>
+			</note>
+		</event>
+			 
+		<event xml:id="Saldo1Natale" from="1865-12-25" to="1866">
+			<eventName>Prima proposta di saldo del debito</eventName>
+			<note>
+				<p>La prima proposta fatta ai Malavoglia dallo zio Crocifisso per saldare interamente il debito dei lupini a Natale, invece che pagarli «a un tanto al mese»</p>
+			</note>
+		</event>
+			 
+		<event xml:id="NtoniLeva" from="1863-12" to="1864">
+			<eventName>Ntoni è chiamato per la leva di mare</eventName>
+			<note>
+				<p>L'unica data espressamente indicata nel romanzo secondo forme lineari, misurabili, e non cicliche, folcloriche; tempo del mercante invece che della Chiesa (Marchese 1993: 27, con riferimento a Le Goff 1977), non a caso nel momento in cui lo Stato entra nel villaggio esigendo il suo tributo di braccia. Dopo la presentazione dei personaggi, è l'antefatto delle vicende narrate. Rispetto agli appunti (Verga 2014: 357) – che ponevano la partenza di 'Ntoni nello stesso anno del negozio dei lupini e dunque della partenza della Provvidenza (genericamente nel 1865 la prima; nel settembre il secondo, come poi in T) – gli eventi risultano adesso più distanziati.</p>
+			</note>
+		</event>
+			 
+		<event xml:id="PartenzaProvvidenza" from="1867-09-21" to="1868">
+			<eventName>Partenza della Provvidenza</eventName>
+			<note>
+				<p>Secondo gli appunti dell'autore (Verga 2014: 347), la barca dei Malavoglia sarebbe partita «Sabato 21 sett‹embre› vigilia della solennità dei dolori di M.‹aria› V.‹ergine›» (la data sostituisce un più generico «agosto»). Il valore simbolico di questa scelta è già di per sé evidente. Sulla datazione al 1865 invece che a un 1867 attestato dai calendari storici, si veda la nota #FestaMadonnaOgnina. La specificazione «e doveva esser suonata l'avemaria» vale come un rafforzativo del «verso sera», dunque a tramonto già avvenuto. Al suono delle campana per l'Angelus serale risulta peraltro associata la recita del Requiem Aeternam.</p>
+			</note>
+		</event>
+	</listEvent>
+	<list type="term">
+			 
+		<item xml:id="Paranza">
+			<term>paranza</term>
+			<gloss>imbarcazione da pesca, e per estensione equipaggio della stessa.  Attraverso il significato di compagnia, il termine è utilizzato anche in gergo camorristico come nel titolo del film di Giovannesi &quot;La paranza dei bambini&quot;.</gloss>
+		   <ref target="https://dizionario.internazionale.it/parola/paranza"></ref>
+		</item>
+			 
+		<item xml:id="Sentenze">
+			<term>sentenza</term>
+			<gloss>In contesto vale «frase espressa sotto forma di massima in modo conciso e incisivo».</gloss>
+			<ref target="https://dizionario.internazionale.it/parola/sentenza"></ref>
+		</item>
+			 
+		<item xml:id="MottiEProverbi">
+			<term>motto, proverbio</term>
+			<gloss>Il corsivo nel testo segnala la trasposizione dal dialetto muttu. Non esattamente sinonimi, per quanto accomunati dalla brevità. Il motto è sentenza con un fondo scherzoso o pungente, mentre il proverbio, che ha origine popolare, esprime «una norma, un pensiero, una ammonizione desunta dall'esperienza».</gloss>
+			<ref target="https://dizionario.internazionale.it/parola/motto https://dizionario.internazionale.it/parola/proverbio"></ref>
+		</item>
+			 
+		<item xml:id="ToltaInMoglie">
+			<term>togliere</term>
+			<gloss>Dal latino tollĕre, sollevare. Prendere. E dunque in contesto vale: presa come moglie, sposata. Uso oggi letterario, obsoleto. Una traccia ancora nella formula «Agnello di Dio, che togli i peccati del mondo…», traduzione dal latino «Agnus Dei, qui tollis peccata mundi…».</gloss>
+		   <ref target="https://dizionario.internazionale.it/parola/togliere"></ref>
+		</item>
+			 
+		<item xml:id="Ammarrata">
+			<term>Ammarrare</term>
+			<gloss>Ormeggiare, fissare un'imbarcazione per impedire che venga spostata dalle onde.</gloss>
+		   <ref target="https://dizionario.internazionale.it/parola/ammarrare"></ref>
+		</item>
+			 
+		<item xml:id="TestaQuadra">
+			<term>testa quadra</term>
+			<gloss/>
+		   <ref target="https://www.gdli.it/pdf_viewer/Scripts/pdf.js/web/viewer.asp?file=/PDF/GDLI10/GDLI_10_ocr_65.pdf&amp;parola=menare"></ref>
+		</item>
+			 
+		<item xml:id="Menare">
+			<term>menare</term>
+			<gloss>Nel contesto: maneggiare,  usare,  adibire  a  un  determi­nato  uso  uno  strumento,  un  attrezzo;  mettere in azione, manovrare opportunamente, eseguendo le operazioni necessarie un congegno, un dispo­sitivo meccanico.</gloss>
+		   <ref target="https://www.gdli.it/pdf_viewer/Scripts/pdf.js/web/viewer.asp?file=/PDF/GDLI02/GDLI_02_ocr_466.pdf&amp;parola=buscare"></ref>
+		</item>
+			 
+		<item xml:id="Buscare">
+			<term>buscare</term>
+			<gloss>Qui con il significato ironico di prendere botte, essere picchiato (ma in modo &quot;affettuoso&quot;: «scappellotto»)</gloss>
+		</item>
+	</list>
+	<list type="explgen">
+			 
+		<item xml:id="seg_MA_explgen_nomignolo">
+			<label>nomignolo</label>
+			<note>
+				<p>Poiché nella tradizione popolare, il nomignolo («'ngiuria») ha spesso valore antifrastico. Così Malavoglia designerebbe in realtà l'operosa buona volontà dei membri della famiglia Toscano.</p>
+			</note>
+		</item>
+			 
+		<item xml:id="seg_MA_explgen_cheSiUdì">
+			<label>… che si udì</label>
+			<note>
+				<p>Echeggia subito un oscuro presentimento sull'esito del viaggio. </p>
+			</note>
+		</item>
+			 
+		<item xml:id="seg_MA_explgen_Franceschello">
+			<label>Franceschello</label>
+			<note>
+				<p>o Franceschiello, era chiamato «per dileggio» (Nardi 1939) Francesco II di Borbone. Anche al sovrano, come agli altri personaggi, è attribuito il «nomignolo» di tradizione popolare.</p>
+			</note>
+		</item>
+	</list>
+	<list>
+			 
+		<item xml:id="N_MA_bibl_comeDevEssere">
+			<label>all'opposto … come dev'essere?</label>
+			<note>
+				<p>Nardi 1939 leggeva invece «come si dev'essere», quasi fosse un giudizio dei Malavoglia rispetto a «tutti buona e brava gente di mare»; «proprio all'opposto…» sarebbe dunque una parentetica. Gli altri commentatori (Carnazzi 1978, Marchese 1993, Cecco 2014) sono tra loro concordi nel ritenere il valore antifrastico del nomignolo. Più che a una generica tradizione popolare, Luperini 1998 preferisce tuttavia riferire tale uso al costume siciliano. Nel «regime antifrastico dell'onomastica», che è qui dichiarato, si prenfigura sia il cedimento alla tentazione demoniaca (l'affare dei lupini) di Padron 'Ntoni (Antonio è per eccellenza «nemico del demonio»), sia la sventura della Provvidenza (Sichera 2023: 3).</p>
+				<bibl sameAs="#">Nardi 1939</bibl>
+				<bibl sameAs="#">Carnazzi 1978</bibl>
+				<bibl sameAs="#">Luperini 1988</bibl>
+				<bibl sameAs="#">Marchese 1993</bibl>
+				<bibl sameAs="#">Cecco 2014</bibl>
+			</note>
+		</item>
+			 
+		<item xml:id="N_MA_bibl_incipit">
+			<label>incipit</label>
+			<note>
+				<p>Nardi 1939 notava il tono della narrazione popolare e l'impersonalità di Verga a partire dal paragone (iperbolico) tra il numero di membri della famiglia e i «sassi della strada vecchia di Trezza», per l'umiltà del referente e l'implicita confidenza nei confronti del lettore/ascoltatore, richiamato a una comune enciclopedia di conoscenze. La similitudine riflette «il paese (e il pensiero) locale (invece di un oggettivo come la sabbia del mare)» (Spitzer 1956: 44). Ha anzi sapore creaturale, accostabile com'è al fango di Adamo, al «suscitare uomini dalle pietre» di Mt 3, 9 (Sichera 2023: 3).  Fin dall'incipit il libro di Verga rende compresenti narratore e ascoltatore, come attorno al fuoco: «l'autore mostra di credere che tutti i lettori sappiano che nel borgo di Aci Trezza c'era una famiglia chiamata Malavoglia e persino che c'era quella certa strada vecchia piena di sassi» (Trifone 2023: 27).  Sempre in Nardi 1939 è posto il legame intertestuale ormai ampiamente acquisito con Fantasticheria (Vita dei campi), che Cecco 2014 specifica attraverso la formula «gente di mare» («Quel mucchio di casipole è abitato da pescatori; «gente di mare», dicon essi, come altri direbbe «gente di toga») e ricorre anche all'interno del romanzo («Una che mariti la figlia con gente di mare…» capitolo X, paragrafo 31). Ancora sulla scia della lettura di Nardi, Luperini 1988 accosta il tono dell'incipit a quello della &quot;veglia&quot; (genere di narrazione orale, con cui si cimentò tra gli altri Renato Fucini, contemporaneo di Verga) per il tono favolistico conferito dall'indeterminatezza di tempo. L'astorica vaghezza reagisce peraltro con la minuta precisione delle indicazioni spaziali (qui viene puntualizzato, come poi Marchese 1993, che Ognina è stata oggi assorbita dall'abitato di Catania), secondo una dialettica che è insieme di sfumato e precisissimo, da cui può desumersi la commistione tra ideale e reale e in ultima analisi tra mito e storia. Il bilanciamento fra realismo e mito è caratteristica che associa I Malavoglia agli altri due vertici del realismo (Paesi tuoi, Conversazione in Sicilia), secondo la triangolazione di Calvino (1964: 1187-1188).</p>
+				<bibl>Nardi 1939</bibl>
+				<bibl>Cecco 2014</bibl>
+				<bibl>Luperini 1988</bibl>
+				<bibl>Marchese 1993</bibl>
+				<bibl>Calvino 1964  Italo Calvino, Prefazione 1964 a Il sentiero dei nidi di ragno, in Id., Romanzi e racconti, [M. Barenghi, B. Falcetto, prefazione di J. Starobinski], Mondadori, Milano 1991, vol. I, pp. 1187-1188.</bibl>
+			</note>
+		</item>
+			 
+		<item xml:id="N_MA_bibl_UnTempoAdesso">
+			<label>Un tempo… Adesso</label>
+			<note>
+				<p>Questo «adesso» interrogato da un imperfetto ha attirato l'attenzione dei critici. Se l'avverbio evidentemente segna uno «stacco cronologico rispetto all'avvio […] del romanzo», la discordanza con il tempo verbale può essere motivata come «spia stilistica dei diversi &quot;piani temporali&quot;», di una narrazione che è affidata prevalentemente al «filtro di un coro di parlanti interni all'azione» (Cecco 2014: 10; con riferimento a Devoto 1975: 204). La «filtrazione sistematica» della narrazione «attraverso un coro di parlanti popolari semi-reali» era stata concettualizzata da Spitzer, che spiegava appunto la discrepanza avverbio-verbo come «trascrizione in Erlebte rede di un parlato adesso rimangono» (e chiosava in nota sulla differenza tra I Promessi Sposi, «romanzo dell'allora», e I Malavoglia, «romanzo dell'adesso»): Spitzer 1956: 45, 37, 46.  La tecnica del narratore vale dunque a coinvolgere il lettore nella vicenda narrata: «sembra infatti che i Malavoglia, quelli della casa del nespolo, siano additati o rievocati dallo scrittore, non che siano presentati per la prima volta come in realtà avviene» (Trifone 2023: 28).  Per altri versi, lo snodarsi da «Un tempo» a «da che il mondo era mondo» spingono il racconto «nella notte del mito», a fronte al quale c'è l'adesso di un altro racconto in cui i Malavoglia, ritratti nel loro «autunno», sono «un piccolo resto» (&quot;le burrasche che avevano disperso…&quot;), «superstiti di un diluvio universale che non li rende però primogeniti di un popolo nuovo bensì ultimi esemplari di una solidità etica perduta»; I Malavoglia sono insomma un «racconto fondativo» (Sichera 2023: 3).</p>
+			</note>
+		</item>
+			 
+		<item xml:id="N_MA_bibl_ilMareSiMangiò">
+			<label>… che il mare si mangiò</label>
+			<note>
+				<p>Come il treno «era partito fischiando e strepitando in modo da mangiarsi i canti e gli addii» (cap. I), così il mare affonda i suoi denti nella ferita del secondo «spatriare» di questo capitolo. Il verbo connota la partenza in senso mortifero, coerentemente a quanto avviene nel resto del romanzo (Luperini 1988).  Se la relativa anticipa quella che chiude il capitolo («… che si udì», Nardi 1939), allo stesso effetto concorre la terna di passati remoti con accento di tronca, a contare dalla partenza della Provvidenza («partì») fino all'ultimo «si udì» (Luperini 1988).</p>
+				<bibl sameAs="#">Nardi 1939</bibl>
+				<bibl sameAs="#">Luperini 1988</bibl>
+			</note>
+		</item>
+			 
+		<item xml:id="N_MA_bibl_cheSiUdì">
+			<label>una prolessi(?) memorabile</label>
+			<note>
+				<p/>
+				<bibl sameAs="#">Nardi 1939</bibl>
+				<bibl sameAs="#">Marchese 1993</bibl>
+				<bibl sameAs="#">Di Silvestro 2012: 164</bibl>
+				<bibl sameAs="#">Luperini 1988</bibl>
+				<bibl sameAs="#">Cecco 2014</bibl>
+			</note>
+		</item>
+			 
+		<item xml:id="N_MA_bibl_DonSilvestroPadronNtoni">
+			<label>Don Silvestro vs Padron 'Ntoni</label>
+			<note>
+				<p>Don Silvestro viene posto fin dal suo apparire in relazione oppositiva con Padron 'Ntoni: è espresso come antefatto che gli ha impedito di diventare consigliere comunale (temendone, «probabilmente, l'onestà»: Luperini 1988). L'ironia nei confronti di questo personaggio si coglie attraverso l'inciso «la sapeva lunga» e l'utilizzo del verbo «predicare». Che sia filtrata dall'autore (Marchese 1993), o come giudizio della comunità (Cecco 2014), l'oggetto è una lettura deformata del ruolo di capofamiglia espresso (e rappresentato) da Padron 'Ntoni (ancora Cecco 2014). L'attacco del paragrafo infatti riprende le accuse di don Silvestro («Padron 'Ntoni invece…») ribaltandole come una «risposta virtuale che Padron 'Ntoni avrebbe potuto pronunciare» (Baldi 1980: 78). Era insomma già per Spitzer (1956: 39) una «auto-difesa di Padron 'Ntoni» espressa nella forma di erlebte Rede (indiretto libero).</p>
+				<bibl sameAs="#">Luperini 1988</bibl>
+				<bibl sameAs="#">Marchese 1993</bibl>
+				<bibl sameAs="#">Cecco 2014</bibl>
+				<bibl sameAs="#">[G. Baldi, Società antagonistica e valori nei Malavoglia, in L’artificio della regressione. Tecnica narrativa e ideologia nel Verga verista, Liguori, Napoli 1980, p. 78; cit. in Cecco 2014: 14).</bibl>
+				<bibl sameAs="#">Spitzer 1956 L. Spitzer L'originalità della narrazione nei &quot;Malavoglia!, Belfagor, 11 (1956), pp. 37-53.</bibl>
+			</note>
+		</item>
+			 
+		<item xml:id="N_MA_bibl_Pugno">
+			<label>Un pugno</label>
+			<note>
+				<p>Il pugno chiuso è simbolo di forza, richiama l'unità della famiglia legandosi all'immagine della mano dei due proverbi successivi (Luperini 1988 e Marchese 1993). Funge anzi da «elemento organizzatore nella presentazione della famiglia» (Cecco 2014: 11): «E la famigliuola di padron ’Ntoni era realmente disposta come le dita della mano».</p>
+				<bibl sameAs="#">Luperini 1988</bibl>
+				<bibl sameAs="#">Marchese 1993</bibl>
+				<bibl sameAs="#">Cecco 2014</bibl>
+			</note>
+		</item>
+			 
+		<item xml:id="N_MA_bibl_PresentazionePadronNtoni">
+			<label>Ritratto di Padron 'Ntoni</label>
+			<note>
+				<p>È subito notata la sentenziosità delle parole di Padron 'Ntoni, e da Nardi (1939: 17-18) accostata, attraverso un articolo di Capuana (I contadini siciliani) al «tipo del popolano in Sicilia» (tipo caratterizzato, oltre che da lunghi silenzi e misurate parole, anche dall'atto di schiaffeggiare la moglie il giorno delle nozze, appena introdotta in casa, «al fine di'imprimerle bene in mente […] che egli era colà il solo e legittimo padrone») .  Dunque i commentatori concentrano l'attenzione sui proverbi, indagandone l'origine e il creativo apporto dell'autore rispetto alla tradizione (Luperini 1988, Cecco 2014; si vedano nei rispettivi N_phrase). Per Marchese 1993, i primi due detti «avvalorano l'autorità del capofamiglia», mentre gli altri due «riassumono la raccomandazione di accontentarsi del proprio stato sociale». Per Sichera (2023: 4) è attraverso i quattro proverbi in sequenza che Padron 'Ntoni si presenta e dichiara il «segreto della prosperità […] del piccolo universo dei Malavoglia»: «il suo fondamento è la fede (&quot;… mai mentì&quot;); la sua stella polare è l’ordine, la gerarchia immutabile (&quot;Senza pilota…&quot;); la sua etica è il servizio (&quot;Per far da papa…&quot;); il suo battito, […] in linea con l’antichissima tradizione del ‘nulla di troppo’, è la misura (&quot;Contentati…&quot;)».</p>
+				<bibl sameAs="#">Sichera 2023</bibl>
+				<bibl sameAs="#">Nardi 1939</bibl>
+				<bibl sameAs="#">Luperini 1988</bibl>
+				<bibl sameAs="#">Cecco 2014</bibl>
+				<bibl sameAs="#">Machese 1993</bibl>
+			</note>
+		</item>
+			 
+		<item xml:id="N_MA_bibl_PresentazioneBastianazzo">
+			<label>Presentazione di Bastianazzo</label>
+			<note>
+				<p>È notato lo spirito di servizio di un personaggio fattivo quanto silenzioso, in linea con il nome che porta (Sichera 2023: 4): la sua prima e ultima parola nel romanzo è per ripetere il 'testamento' di Menico nella scena finale del capitolo (Luperini 1988: 26). Cecco 2014 rileva la coerenza del suffisso -azzo sia con gli appunti dell'autore (dove è definito «un colosso») che con il «grande e grosso» di T (come in Cos'è il Re delle Rusticane: «un bel pezzo d'uomo, grande e grosso»), oltre a rilevare la similitudine con il «San Cristoforo» che si specifica in senso locale con l'aggiunta (interlineare in A) «della città».</p>
+				<bibl sameAs="#">Sichera 2023</bibl>
+				<bibl sameAs="#">Luperini 1988</bibl>
+				<bibl sameAs="#">Cecco 2014</bibl>
+			</note>
+		</item>
+			 
+		<item xml:id="N_MA_bibl_PresentazioneMaruzza">
+			<label>Presentazione di Maruzza la Longa</label>
+			<note>
+				<p>L'antifrasi, ironica (Nardi 1939, Cecco 2014, Sichera 2023) o meno (Marchese 1993), è in linea con la logica del nomignolo espressa nel primo periodo (Luperini 1988, Cecco 2014). Il ritratto è quello di una donna tipica della tradizione (il telaio, la cucina, i figli: Sichera 2023: 4), «buona massaia» secondo l'etica del paese riguardo al ruolo della donna in casa (Marchese 1993).</p>
+			</note>
+		</item>
+			 
+		<item xml:id="N_MA_bibl_PresentazioneNtoni">
+			<label/>
+			<note>
+				<p>Il lemma «bighellone» caratterizza già «il più svogliato dei Malavoglia. Vedremo infatti» promette Nardi 1939 mentre apprezza l'efficacia della rappresentazione («la bevi tutta con gli occhi»). I commentatori evidenziano concordemente la diversità rispetto agli altri membri della famiglia («tutti laboriosi», Luperini 1988), di un personaggio «marchiato dalla sua funzione trasgressiva rispetto a quella &quot;legge del lavoro&quot; di cui padron Ntoni è garante» (Cecco 2014). Tra gli appunti (dove Verga lo definisce «in fondo buon cuore») e gli scritti privati dell'autore può esserci spazio per questionare in modo meno schematico anche il rapporto col nonno (Sichera 2023).</p>
+			</note>
+		</item>
+			 
+		<item xml:id="N_MA_bibl_PresentazioneLuca">
+			<label/>
+			<note>
+				<p>Luca è presentato attraverso gli occhi del nonno e in netta opposizione con 'Ntoni, essendo anche tra gli appunti dell'autore «il ritratto del padre», a cui è legato da sacrificio e obbedienza (Cecco 2014, Sichera 2023).</p>
+			</note>
+		</item>
+			 
+		<item xml:id="N_MA_bibl_PresentazioneMena">
+			<label/>
+			<note>
+				<p>Il personaggio («una delle più care e miti ed elegiache figure del romanzo» Nardi 1939) è caratterizzato dall'identificazione con Sant'Agata, «patrona delle tessitrici, […] modello di laboriosità e riservatezza» (Cecco 2014, ma pure Nardi 1939), che per il martirio («basso continuo» anche in rapporto a nome e soprannome del padre, Sichera 2023) può anche prefigurare «la rinuncia di Mena al matrimonio e alla maternità» (Luperini 1988). Il chiarimento «Filomena» è «una rara intrusione metalinguistica dell'autore» (Marchese 1993), mentre il proverbio sostituisce la chiosa dell'autografo («da buona figliola»), che con le parole riservate alla madre («da buona massaia») rivelava l'intenzione dell'autore di istituire «rapporti di similarità» tra i personaggi femminili, al pari di quelli maschili (Cecco 2014).</p>
+			</note>
+		</item>
+			 
+		<item xml:id="N_MA_bibl_PresentazioneAlessi">
+			<label>Presentazione di Alessi</label>
+			<note>
+				<p>Per Alessi l'accostamento col nonno vale in sé (Nardi 1939) e come esempio di indiretto libero (Marchese 1993), «marcata mimesi del parlato, rilevata dalla presenza del deittico» (Cecco 2014). Come Luca, il ragazzo è accostato anche al padre («somigliava tutto a suo padre Bastianazzo» VI, 9: Cecco 2014). Dal rapporto col nonno e dall'onomastica (l'agiografia del santo è legata alla casa) si intravede già in lui «il possibile punto di tenuta dell'edificio familiare» (Sichera 2023: 4).</p>
+			</note>
+		</item>
+			 
+		<item xml:id="N_MA_bibl_PresentazioneAlessiLia">
+			<label>Presentazione di Lia</label>
+			<note>
+				<p>La brevità del ritratto ha un po' inibito i commentatori (secondo gli appunti dell'autore Lia non avrebbe nemmeno due anni a quest'altezza). Cecco 2014 suggerisce un'allusione al rapporto oppositivo rispetto a Mena, dettata dalla ripresa del medesimo ambito metaforico («né carne né pesce» rispetto a chi è invece decisamente «triglia di gennaio»). Per Sichera (2023: 4) Lia, che come 'Ntoni turba la scansione ciclica della tradizione, «fluttua in una indistinzione di sapore 'moderno'».</p>
+			</note>
+		</item>
+	</list>
+	<list type="nota_filologica">
+			 
+		<item xml:id="N_MA_philol_comeDevEssere">
+			<label>per chi non fosse iniziato…</label>
+			<note>
+				<p>Sul punto, è rivelatrice la distanza rispetto ad A: «per chi non fosse iniziato alla logica dei nomignoli locali» &gt; «come dev'essere» (Verga 2014: 15). Da mediatore culturale verso un pubblico borghese, il narratore risulta nel testo a stampa perfettamente allineato all'orizzonte della realtà che rappresenta (Cecco 2014). Rilevante anche la correzione sulla sequenza che precede: «all'opposto di quel che evocava il nomignolo» &gt; «all'opposto di quel che sembrava dal nomignolo». Non ci sono residue attestazioni in T del verbo «evocare».</p>
+			</note>
+		</item>
+			 
+		<item xml:id="N_MA_philol_Pugno">
+			<label>legno di noce</label>
+			<note>
+				<p>In A leggevamo: «radica di noce» (Verga 2014: 15).</p>
+			</note>
+		</item>
+			 
+		<item xml:id="N_MA_philol_ilMareSiMangiò">
+			<label>… che il mare si mangiò</label>
+			<note>
+				<p>La lezione definitiva è soprascritta in autografo a: «che non si potè udire» (Verga 2014: 24)</p>
+			</note>
+		</item>
+			 
+		<item xml:id="N_MA_philol_DonSilvestroPadronNtoni">
+			<label>Insinuazioni e buoi</label>
+			<note>
+				<p>In M9, Don Silvestro insinuava («avesse insinuato») invece di predicare («avesse predicato») che Padron 'Ntoni era «un codino marcio» (Verga 2014: 547). Così lo speziale «incoraggiava» padron 'Ntoni «con un certo sorrisetto che si vedeva e non si vedeva» (Verga 2014: 17), e poi in T soltanto «si metteva a ridere fra i peli della barbona». In entrambi i casi, l'autore pare dispensare il lettore dai suoi giudizi. A proposito del patriarca Malavoglia si leggeva invece: «Un capo di casa, soleva dire Padron ’Ntoni, deve essere come il bue che porta il peso del campanaccio al collo, e va avanti per insegnare la strada agli altri» (Verga 2014: 17).  Si noti che «il peso del» è aggiunta interlineare, volta a esplicitare proprio la gravezza del ruolo. </p>
+			</note>
+		</item>
+			 
+		<item xml:id="N_MA_philol_BarcaCasa">
+			<label>Dalla casa alla barca</label>
+			<note>
+				<p>«per menare avanti la barca» è aggiunta interlineare su A (Verga 2014: 22). Se lo scambio di qualità appartiene a T, in M9c era già vigente de facto: «Ora che ’Ntoni è soldato e Bastianazzo non c’è più, come faranno a mandare avanti la barca – domandò Compare Zuppiddu il calafato. – È una casa che fa acqua! conchiuse padron Cipolla…» (Verga 2014: 555).</p>
+			</note>
+		</item>
+			 
+		<item xml:id="N_MA_philol_SenzaPilotaBarca">
+			<label>Una casa, una barca</label>
+			<note>
+				<p>La prima redazione di A è: «Una casa senza capo è peggio di una barca senza timone», che adattava «La casa senza omu è comu la varca senza timuni» da Pitrè II 196, e «riproponeva esplicitamente lo stretto legame metaforico casa-barca» (Verga 2014: 16 e Cecco 2014: 13). Va osservato come in T il legame permanga ma sia da desumere, non espresso in forma di esplicita equivalenza come in A.</p>
+			</note>
+		</item>
+			 
+		<item xml:id="N_MA_philol_ComeLeDita">
+			<label>Come le dita della mano</label>
+			<note>
+				<p>In A leggevamo «come le canne dell'organo», qui e come aggiunta seguente a «il dito piccolo deve far da dito piccolo» (Verga 2014: 15). Nel Rigutini-Fanfani: «Essere come le canne degli organi, dicesi di fanciulli, di età e quindi di statura, poco differente tra loro; che anche dicesi Essere come le dita della mano» (in Cecco 2014: 11). Le canne dell'organo non sarebbero estranee all'orizzonte dei personaggi, ma il principio organizzatore di T è individuato nella mano poiché garantisce una transizione senza soluzione di continuità dal pugno chiuso di Padron 'Ntoni alla presentazione dei membri della famiglia.</p>
+			</note>
+		</item>
+	</list>
+	<list type="nota_fraseologica">
+			 
+		<item xml:id="seg_MA_phrase_DaCheIlMondo">
+			<label> da che il mondo era mondo</label>
+			<note>
+				<p>Un «compiuto settenario» (Alfieri 1985: 199), come a dire «da sempre».</p>
+			</note>
+		</item>
+			 
+		<item xml:id="seg_MA_phrase_DelleBarcheSullAcqua">
+			<label>casa e (è) barca</label>
+			<note>
+				<p>I Malavoglia possedevano barche e case; i «Malavoglia di Padron 'Ntoni» sono infatti «quelli della Provvidenza e della casa del nespolo». A un livello più profondo, il dittico vale come «un'endiadi: la barca e la casa in un paese di pescatori sono una cosa sola (&quot;quella barca della casa del nespolo&quot;)» (Sichera 2023).</p>
+			</note>
+		</item>
+			 
+		<item xml:id="seg_MA_phrase_DonnaDiTelaio">
+			<label>donna di telaio, gallina di pollaio, e triglia di gennaio</label>
+			<note>
+				<p>«Fimmina di tilaru, gaddina di puddaru e trigghia di jinnaru», in Pitrè II 82 (Verga 2014: 374) ma anche in Rapisarda 265 (Alfieri 1985: 78). La donna operosa, la gallina allevata nel pollaio e la triglia pescata in gennaio sono le migliori (cfr. anche Cecco 2014: 12). Nella lista, il proverbio figura sotto la sezione «Donna», mancante in Pitrè. Il valore è rafforzato dalla struttura trimembre e sigillato dalla presenza della rima che «rendono certamente il detto proverbiale più memorabile e persuasivo riverberando sul piano del contenuto una necessità che si attua sul piano dell'espressione» (Eco 2004: 153). La formula introduttiva «si suol dire» è ricorsiva per i proverbi di pertinenza del coro (Alfieri 1985: 108). </p>
+			</note>
+		</item>
+			 
+		<item xml:id="seg_MA_phrase_IlMottoDegliAntichi">
+			<label>il motto degli antichi mai mentì</label>
+			<note>
+				<p>Il corsivo nel testo («motti» e «antichi») segnala la trasposizione dal dialetto: «Lu muttu di l'anticu mai mintìu», in Pitrè I, 1 – accompagnato dalla traduzione in toscano «Proverbio non falla» – è il primo nella lista dei proverbi redatta da Verga (Verga 2014: 363), e poi sapientemente (seppure in extremis) intramata nel romanzo. Il proverbio – registrato solamente nella versione che abbiamo detto – è esempio dell'efficienza nella selezione operata dall'autore, ovvero della capacità di individuare da subito nella raccolta «il dato formulare essenziale e pertinente alla propria ricerca narrativa» (cfr. Alfieri 1985: 53-54). L'autore infatti appunta il proverbio e il suo corrispettivo toscano direttamente nella forma che abbiamo visto, scegliendo (e contaminando) le più iconiche dall'ampia serie di varianti proposte da Pitrè nella prima pagina della raccolta (ad esempio: «Mutti antichi, Vancèlii nichi», «Li pruverbi su' tutti pruvati», «Lu muttu di l'anticu mai mintìu – o Lu muttu di l'antichi nun fallisci», etc.) e dalla più lunga versione toscana («Proverbio non falla, misura non cala, superbia non dura, pensier non riesce»). Seppure in apparenza elementare, il passaggio dal singolare del proverbio al plurale di T («lu muttu di l'anticu» &gt; «il motto degli antichi»), pur rintracciabile in Pitrè tra gli esempi proposti, «è un chiaro esempio di sineddoche assolutizzante» (Alfieri 1985: 160): rafforza ed estende il valore di verità conferito dal patriarca Malavoglia al sapere «degli antichi». Infine, a chiarimento della maestria dell'autore – non solo nella selezione del testo ma anche «nell'inquadramento strettissimo del proverbio nel discorso» (Spitzer 1956: 40), nel contesto dunque, «fino ai livelli più sottili e con effetti insospettabili» (Alfieri 1985: 202; dove segue l'esempio che proponiamo) –, va notata «l'onda ritmica» che dal sintagma chiave si innerva a tutto il paragrafo, sotto specie in questo caso dell'allitterazione: «Padron ’Ntoni sapeva anche certi motti e proverbi che aveva sentito dagli antichi: &quot;Perchè il motto degli antichi mai mentì&quot; […]. &quot;Contentati di quel che t’ha fatto tuo padre; se non altro non sarai un birbante&quot; ed altre sentenze giudiziose».</p>
+			</note>
+		</item>
+			 
+		<item xml:id="seg_MA_phrase_SenzaPilotaBarca">
+			<label>senza pilota barca non cammina</label>
+			<note>
+				<p>È un endecasillabo. Nella lista è sotto la sezione «Capo di casa», che sostituisce (con focalizzazione su Padron 'Ntoni) quella che in Pitrè era «Governo, Leggi, Ragion di Stato» (Verga 2014: 367). Rispetto a «Senza pilota nun camina varca, senza vicinu 'un si cummina furtu» di Pitrè II 248, Verga «mantiene l'andamento ritmico del proverbio […], ma ne altera la struttura binaria, amputandone un verso» (Alfieri 1985: 52, 181). Rispetto all'originale e a M9c («Senza pilota non cammina barca», Verga 2014: 546) l'anticipazione dell'oggetto («barca non cammina») fa convergere il ritmo endecasillabico sulla «parola barca, conferendole preminenza assoluta», a differenza delle altre che invece enfatizzavano «l'essere senza pilota» (Bronzini 1982: 656-657, citato in Alfieri 1985: 141). </p>
+			</note>
+		</item>
+			 
+		<item xml:id="seg_MA_phrase_FaIlMestiereCheSai">
+			<label>fa il mestiere che sai</label>
+			<note>
+				<p>«Fa l'arti chi sai, si tu non arricchisci campirai» da Pitrè II 422 e Rapisarda 127 (Alfieri 1985: 78), nella lista sotto la sezione «Mestieri» (Verga 2014: 377). Si noti la sostituzione da «arte», equivalente all'originale (che era ancora in M9b, Verga 2014: 547), a «mestiere».</p>
+			</note>
+		</item>
+			 
+		<item xml:id="seg_MA_phrase_ContentatiDiQuel">
+			<label>contentati di quel che t'ha fatto tuo padre</label>
+			<note>
+				<p>Esempio della «manomissione formale e semantica spinta fino all'invenzione» da parte dell'autore, ovvero di «proverbio coniato dal Verga» (Alfieri 1985: 102-103). La versione di T è infatti «rielaborazione» (Cecco 2014: 13) di due proverbi: «L'omu non è cuntenti mai. Lu galantomu ca 'mpuvirisci, addiventa birbanti» da Pitrè I 263. Nella lista (Verga 2014: 371) l'autore appunta solo la seconda sentenza (dopo il punto fermo), nella categoria «Sfortuna» (in Pitrè era «Condizioni e sorti disuguali»).</p>
+			</note>
+		</item>
+			 
+		<item xml:id="seg_MA_phrase_PerFarDaPapa">
+			<label>L'abate, il papa, il sagrestano</label>
+			<note>
+				<p>Luperini (1988: 14) chiama in causa il detto siciliano: «Pri fari u papa nun è bonu, su' fari non sapi 'u saristanu». In M9b si leggeva invece «Come canta l’abate risponde il sagrestano» (Verga 2014: 546), da «Comu canta l’abati arrispunni lu sagristanu», in Pitrè II 336. Nella lista il proverbio è sotto la sezione «Capo di casa», che sostituisce quella che in Pitrè era «Governo, Leggi, Ragion di Stato» (Verga 2014: 367). In T risulta modificato in modo sostanziale il significato del detto. Nella versione dell'autografo il proverbio era infatti introdotto nel contesto che segue: «per menare il remo bisogna che le cinque dita della mano facciano tutte la stessa cosa, ovvero – Come canta l’abate risponde il sagrestano». Preceduto da una congiunzione con valore dichiarativo era insomma motto dell'armonia e della collaborazione necessarie in una famiglia, dove invece nella versione di T l'accento è sull'esperienza del servizio come base della capacità di comandare.</p>
+			</note>
+		</item>
+			 
+		<item xml:id="seg_MA_phrase_PerMenareIlRemo">
+			<label>per menare il remo…</label>
+			<note>
+				<p>«Le dita della mano son fatte per aiutarsi», da Guastella: 67, dove «la formula aderisce all'ethos popolare e patriarcale» (Alfieri 1985: 221). L'espressione infatti ritorna nel capitolo X, sempre in bocca a Padron 'Ntoni: «Non ve l’avevo detto che per menare il remo bisogna che le cinque dita della mano si aiutino l’un l’altro?»; e nel XIII: «tutti uniti, come devono stare le dita della mano», «nel contesto di una predica del nonno a 'Ntoni» (Alfieri 1985: 221). La formula soggettivizzata «soleva dire» spesso introduce i proverbi detti da Padron 'Ntoni, in luogo della locuzione impersonale che è invece pertinenza del coro (Alfieri 1985: 108).</p>
+			</note>
+		</item>
+			 
+		<item xml:id="seg_MA_phrase_ChiHaCarico">
+			<label>chi ha carico di casa non può dormire quando vuole</label>
+			<note>
+				<p>«Cu’ ha carricu di casa nun pò dormiri quannu voli» da Pitrè II 130. Nella lista il proverbio è sotto la sezione «Patria potestà», mancante in Pitrè. Con un procedimento non raro, il proverbio è introdotto dalla congiunzione causale, che sarebbe anche «uno dei più frequenti &quot;commutatori&quot; del piano stilistico nell'intrusione dell'indiretto libero» (Alfieri 1985: 113; con riferimento a Danesi Bendoni).</p>
+			</note>
+		</item>
+			 
+		<item xml:id="seg_MA_phrase_ChiComandaHa">
+			<label>chi comanda ha da dar conto</label>
+			<note>
+				<p>«Cui cumanna havi a dari cchiù cuntu» con chiosa «perché ha maggiore responsabilità» in Pitrè I 82 (Alfieri 1985: 55; Verga 2014: 365). Nella lista il proverbio è sotto la sezione «Ambizione, Signoria».</p>
+			</note>
+		</item>
+			 
+		<item xml:id="seg_MA_phrase_GliUominiSonFatti">
+			<label>come le dita della mano</label>
+			<note>
+				<p>Da «Li jidita di la manu nun su' tutti uguali» Pitrè III 175, o meglio «Nun su' pari li jidita di la manu» (Longo: 614), che per Alfieri (1985: 218-221) è la fonte più esatta. Pur assumendola nella sua «integrità figurativa», Verga dunque reinterpreta la formula, trasferendola dall'originaria semantica aristocratica (il proverbio nella sua forma tradizionale starebbe a significare diversità e privilegio) «nella sfera della gerarchia familiare, come dato anagrafico, e come conseguente distribuzione di ruoli e autorità» (Alfieri 1985: 219). Da qui il passaggio impercettibile alla presentazione dei membri della famiglia: «E la famigliuola di Padron 'Ntoni era realmente disposta come le dita della mano…».</p>
+			</note>
+		</item>
+			 
+		<item xml:id="seg_MA_phrase_ComandavaLefeste">
+			<label>le feste e le quarant'ore</label>
+			<note>
+				<p>«Cumannari li festi» (Mortillaro), a cui è aggiunto «e le quarant'ore», ovvero l'adorazione eucaristica, praticata ancora oggi durante la settimana Santa. L'espressione «festa e quarant'uri» si trova insieme ancora nel Mortillaro come dittologia sinonimica (Cecco 2014: 11).</p>
+			</note>
+		</item>
+			 
+		<item xml:id="seg_MA_phrase_CodinoMarcio">
+			<label>codino marcio</label>
+			<note>
+				<p/>
+			</note>
+		</item>
+			 
+		<item xml:id="seg_MA_phrase_DiQuaEDiLà">
+			<label>di qua e di là</label>
+			<note>
+				<p>È sintagma per eccellenza nel romanzo, l'unico formato da cinque parole, e ricorre più di 40 volte in contesti nei quali veicola assenza di requie o l'essere in balia del destino, come nell'occorrenza iniziale («le burrasche che avevano disperso di qua e di là gli altri Malavoglia»). Ad esempio: «Padron 'Ntoni è andato tutto il giorno di qua e di là…», «il vento porta quelle foglie di qua e di là», «voltava il capo di qua e di là».</p>
+			</note>
+		</item>
+	</list>
+	<list type="nota_commento">
+			 
+		<item xml:id="N_MA_comm_comeDevEssere">
+			<label>grazie alle carte</label>
+			<note>
+				<p>La versione dell'autografo ridimensiona l'ipotesi di Nardi. È inoltre un esempio molto efficace della tensione correttoria dell'autore verso il testo a stampa: interventi puntuali che rifiniscono la prospettiva del narratore, limando quel tanto di istintiva evidenza autoriale (dal letterario «evocava» a «per chi non fosse iniziato») che ancora scorre sulla penna, verso l'interno e non al di sopra della realtà rappresentata.</p>
+			</note>
+		</item>
+			 
+		<item xml:id="N_MA_comm_ilMareSiMangiò">
+			<label>poesia e racconto</label>
+			<note>
+				<p>La redazione superata in autografo («che il mare si mangiò» da «che non si potè udire») viene recuperata nella clausola finale («che si udì»). Per il secondo spatriare di questo primo capitolo viene così preferito il verbo che identicamente connotava la partenza di 'Ntoni (v. bibl). Insieme all'incedere formulare di una narrazione che guarda all'oralità, si noti l'effetto di incremento semantico generato dalla tecnica di richiami a distanza dell'autore: strategia che mira al punto di saldatura fra poesia e racconto (da Omero ai poemi cavallereschi).</p>
+			</note>
+		</item>
+			 
+		<item xml:id=" N_MA_comm_SeDonSilvestroNonAvessePredicato "> 
+			<label>Predicare e i suoi predicati</label>
+			<note>
+				<p>La sequenza precede l'inutile pellegrinaggio – 'cappello in mano' – di padron 'Ntoni dai «pezzi grossi del paese» (don Giammaria, don Franco, e lo stesso don Silvestro) per evitare al nipote 'Ntoni la leva di mare. </p><p>Rispetto alle stesure autografe (dove don Silvestro insinuava invece di predicare, e don Franco «incoraggiava» padron 'Ntoni «con un certo sorrisetto» > «si metteva a ridere»), la posizione del narratore può sembrare attenuata: il verbo «insinuare» – insieme al giudizio autoriale che implicava (cassato due volte in questo luogo, avrà zero occorrenze in T) – scompare dal romanzo. Resta nel lettore l'idea di una rispettosa distanza pur venata d'ironia (don Silvestro «la sapeva lunga»). A ben vedere però, il «predicare» che lo sostituisce non è un verbo neutro, ma risulta connotato nel vocabolario del romanzo, legato in modo pressoché esclusivo a personaggi dalla morale discutibile – oltre ai tre detti: donna Rosolina che è sorella di don Giammaria, Piedipapera, la Zuppidda – e comunque mai alla famiglia Malavoglia.</p>
+			</note>
+		</item>
+			 
+		<item xml:id="N_MA_comm_BarcaCasa">
+			<label>La barca e la casa</label>
+			<note>
+				<p>In apertura di paragrafo è ripresa la conclusione del precedente: «si doveva aiutarsi colle mani e coi piedi per mandare avanti quella barca della casa del nespolo». Ma il luogo si riconnette ovviamente al primo accostamento, sempre nel cap I: «[I Malavoglia] avevano sempre avuto delle barche sull'acqua e delle tegole al sole» (che a questa luce può essere letto come un'endiadi: v. #DelleBarcheSullAcqua). Lo scambio è adesso completo. Tanto che nel capitolo IX l'espressione tornerà a connotare, per bocca di compare Tino, il momento negativo dei Malavoglia (e sempre introdotta da un riferimento marino «A nave rotta ogni vento e contrario», giustificato dalla tragedia di Luca): «Adesso la casa del nespolo fa acqua davvero da tutte le parti». Non è peregrino ricordare che «barca» è di gran lunga il primo nome che co-occorre a «casa» in un costrutto and/or, cioè non preposizionale (si eccettua dunque la forma «casa del nespolo»). L'«intensificazione metaforica» che avalla l'intercambiabilità tra la casa e la barca (Di Silvestro 2012: 165; con rimando a Alfieri 1983: 77-82) avviene, nel caso su cui qui si riflette, durante il passaggio dal manoscritto alla stampa. Va appena ricordato che lo scambio di qualità è un dispositivo retorico che sarà fondamentale nella poesia del primo Novecento, giustificato dall'attingimento di conoscenza per vie praeter-razionali. Si pensi solamente, nello stesso abito semantico, alla commutazione fra casa e nido, rondine e uomo nel Pascoli del X Agosto: «Ritornava una rondine al tetto […] / Anche un uomo tornava al suo nido».</p>
+			</note>
+		</item>
+	</list>
+	<list type="nota_media">
+			 
+		<item xml:id="N_MA_media_genteDiMare">
+			<label>Gente di mare</label>
+			<media type="video" mimeType="mp4" url="https://www.youtube.com/watch?v=Z5zN_e02IgM&amp;pp=ygUNZ2VudGUgZGkgbWFyZQ%3D%3D"/>
+			<desc>Sintagma che s'intesta una fortunata canzone negli anni Ottanta del Novecento. Qui si può ascoltare nel live di un Ur-Eurovision Song Contest, cantata dagli autori (il biondo Tozzi e l'ancora capelluto Raf) all'apice del loro status di metrosexual symbol. Ritratto senza tempo dei marinai è tuttavia questo di Dalla-De Gregori (https://www.youtube.com/watch?v=vWH-NvoPZU8).</desc>
+		</item>
+	</list>
+     </back>
+  </text>
+</TEI>
